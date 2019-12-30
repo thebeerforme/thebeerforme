@@ -53,7 +53,7 @@
             }
         }
     });
-    map.style.sourceCaches['attribution-layer']._source.attribution = "Map by: rodrigomd94@gmail.com";
+    //map.style.sourceCaches['attribution-layer']._source.attribution = "Map by: rodrigomd94@gmail.com";
     Papa.parse("https://docs.google.com/spreadsheets/d/e/2PACX-1vRrZnllTiVGWFmzzvEXLxAt5boQZZh3krmLbwkTwYT6rmVB_b6ntjmaiI6E2RmsVgzMUFLYbAv5GTaA/pub?output=csv", 
       {download: true,
       header: true,
@@ -154,7 +154,7 @@ function createMap(data, names){
               map.setLayoutProperty('breweries_labels', 'visibility', 'none');
             } 
             var features = getPointsInView(geojson.features);
-            
+
             if (features) {
             // Populate features for the listing overlay.
             buildLocationList(features.sort(compareValues('company')));
