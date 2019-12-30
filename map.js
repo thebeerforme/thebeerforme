@@ -163,7 +163,6 @@ function createMap(data, names){
 
         function searchComplete(e, ui){
           search_result = fuse.search(ui.item.value)[0];
-          console.log(fuse.search(ui.item.value));
               map.flyTo({
                 center: search_result.geometry.coordinates,
                 zoom: 13
