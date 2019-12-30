@@ -18,7 +18,7 @@
     // initial position in [long, lat] format
     center: [-100.034084142948, 41.909671288923],
     // initial zoom
-    zoom: 5,
+    zoom: 7,
     scrollZoom: true
   });
   map.addControl(new mapboxgl.NavigationControl({showCompass: false}));
