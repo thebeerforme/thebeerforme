@@ -16,9 +16,9 @@
     // style URL
     style: 'mapbox://styles/c13slam/ck4nbngoa1bm81clep5ebr8x3',
     // initial position in [long, lat] format
-    center: [-100.034084142948, 41.909671288923],
+    center: [-105.00616, 39.745064],
     // initial zoom
-    zoom: 7,
+    zoom: 13,
     scrollZoom: true
   });
   map.addControl(new mapboxgl.NavigationControl({showCompass: false}));
@@ -89,10 +89,13 @@ function createMap(data, names){
         map.addLayer({
             'id': 'breweries_layer',
             'type': 'circle',
+            
             'source': {
                 'type': 'geojson',
-                'data': geojson
+                'data': geojson,
+                'buffer': 0,
             },
+            minzoom: 3,
             'paint':{
               'circle-radius': 4.5,
               'circle-color': '#8d8741',
@@ -104,26 +107,28 @@ function createMap(data, names){
         });
 
         map.addLayer({
-        'id': 'breweries_labels',
+        'id': 'labels',
         'type': 'symbol',
         'source': {
                 'type': 'geojson',
-                'data': geojson
+                'data': geojson,
+                
             },
+            'minzoom': 12,
           'layout': {
-          'text-field': ['get', 'company'],
-          'text-variable-anchor': ['bottom', 'top'],
-          'text-radial-offset': 0,
-          'text-justify': 'auto',
-          'text-size': 11,          
+            'text-field': ['get', 'company'],
+            'text-variable-anchor': ['bottom', 'top'],
+            'text-radial-offset': 0.5,
+            'text-justify': 'auto',
+            'text-size': 12          
           },
           'paint':{
-            'text-color':'#8a8888',
-            'text-halo-width':0.4,
-            'text-halo-color': '#8a0123'
+            'text-color':'#627A30',
+            'text-halo-width':0.05,
+            'text-halo-color': 'black'
           }
         });
-        map.setLayoutProperty('breweries_labels', 'visibility', 'none');
+        map.setLayoutProperty('breweries_labels', 'visibility', 'visible');
         buildLocationList(geojson.features.sort(compareValues('company')));
 
         var options = {
@@ -148,11 +153,11 @@ function createMap(data, names){
 
 
       //------------------show or hide labels based on zoom
-            if (map.getZoom()>12){
+           /*  if (map.getZoom()>11){
                 map.setLayoutProperty('breweries_labels', 'visibility', 'visible');
             }else{
               map.setLayoutProperty('breweries_labels', 'visibility', 'none');
-            } 
+            }  */
             var features = getPointsInView(geojson.features);
 
             if (features) {
