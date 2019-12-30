@@ -22,7 +22,7 @@
     scrollZoom: true
   });
   map.addControl(new mapboxgl.NavigationControl({showCompass: false}));
-
+  
   map.addControl(
     new mapboxgl.GeolocateControl({
     positionOptions: {
@@ -41,27 +41,43 @@
   var timer; //variable used to store setTimeout() and then resetting it
   var delay=0;
   map.on('load', function (e) {
-
+    map.addLayer({
+        "id": "attribution-layer",
+        "type": "circle",
+        "source": {
+            "type": "geojson",
+            "data": {
+                "type": "Feature",
+                "properties": {},
+                "geometry": null
+            }
+        }
+    });
+    map.style.sourceCaches['attribution-layer']._source.attribution = "Map by: rodrigomd94@gmail.com";
     Papa.parse("https://docs.google.com/spreadsheets/d/e/2PACX-1vRrZnllTiVGWFmzzvEXLxAt5boQZZh3krmLbwkTwYT6rmVB_b6ntjmaiI6E2RmsVgzMUFLYbAv5GTaA/pub?output=csv", 
       {download: true,
       header: true,
       complete: function(results) {
               var data = results;
-              createMap(data.data);
+              var names=[];
+              for(feature of data.data){
+                var company = feature.company;
+                names.push(company);
+              };
+              createMap(data.data, names);
           }
       });
   });
-function createMap(data){
+function createMap(data, names){
     //save string of features for geojson
     for (i=0; i<data.length; i++){
         feat.push({type: 'Feature', properties: data[i], geometry: { type: 'Point', coordinates: [data[i].lon, data[i].lat]}});
-        //console.log(feat);
     };
     var geojson = {
     type: 'FeatureCollection',
     features: feat
     };
-    //console.log(geojson);
+
     // This adds the data to the map
         var lats = [];
         var longs = [];
@@ -110,21 +126,26 @@ function createMap(data){
         map.setLayoutProperty('breweries_labels', 'visibility', 'none');
         buildLocationList(geojson.features.sort(compareValues('company')));
 
+        var options = {
+          keys:['properties.company'],
+          threshold: 0.0,
+          location: 0,
+          distance: 0
+          }
+          var fuse = new Fuse(geojson.features, options);
   //-----------function called when click search button
-        document.getElementById('search').addEventListener('change', (e)=>{
-          buildLocationList(getPointsInView(geojson.features));
+
+        $("#search").autocomplete({
+          source: names,
+          autoFocus: true,
+          minLength: 2,
+          delay: 500
         });
-        document.getElementById('search_button').addEventListener('click', (e)=>{
-          buildLocationList(getPointsInView(geojson.features));
-        })
+        $("#search").on("autocompleteselect", searchComplete);
+
   ///-------function called when zomming or panning      
         map.on('moveend', function() {
-            /* if (map.getZoom()>8.5){
-                map.setLayoutProperty('breweries_layer', "icon-allow-overlap", true);
-            }else{
-                map.setLayoutProperty('breweries_layer', "icon-allow-overlap", false);
-            } */
-            
+
 
       //------------------show or hide labels based on zoom
             if (map.getZoom()>12){
@@ -133,14 +154,21 @@ function createMap(data){
               map.setLayoutProperty('breweries_labels', 'visibility', 'none');
             } 
             var features = getPointsInView(geojson.features);
-            //var features = map.queryRenderedFeatures({layers: ['breweries_layer']});
+            
             if (features) {
-            //var uniqueFeatures = getUniqueFeatures(features, 'iata_code');
             // Populate features for the listing overlay.
             buildLocationList(features.sort(compareValues('company')));
             }
         });
 
+        function searchComplete(e, ui){
+          search_result = fuse.search(ui.item.value)[0];
+          console.log(fuse.search(ui.item.value));
+              map.flyTo({
+                center: search_result.geometry.coordinates,
+                zoom: 13
+              });
+        };
    
 }
     map.on('mouseenter', 'breweries_layer', () => {
@@ -236,14 +264,10 @@ function compareValues(key, order = 'asc') {
     clearTimeout(timer);
       timer = setTimeout(()=>{
         delay= 1850;
-        var options = {
-        keys:['properties.company','properties.address', 'properties.city'],
-        threshold: 0.3,
-        }
-        var fuse = new Fuse(features, options);
-        if (document.getElementById('search').value != ''){
+
+       /*  if (document.getElementById('search').value != ''){
         features = fuse.search(document.getElementById('search').value).sort(compareValues('company'));
-        }
+        } */
 
         var listings = document.getElementById('listings');
         listings.innerHTML='';
@@ -293,4 +317,6 @@ function compareValues(key, order = 'asc') {
         });   
         }
     }, delay);
-    }
+    };
+
+    
