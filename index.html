@@ -8,6 +8,15 @@
 
       <link rel='icon' href='icons/favicon.png'/>
       <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
+
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+      integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+      crossorigin=""/>
+      <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+      integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+      crossorigin=""></script>
+
+
       <script
       src="https://code.jquery.com/jquery-3.4.1.min.js"
       integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
@@ -21,25 +30,35 @@
       <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.css' rel='stylesheet' />
       <script src='plugins/papaparse.min.js'></script>
       <script src='plugins/fuse.min.js'></script>
+
+      <link href='plugins/MarkerCluster.css' rel='stylesheet'>
+      <link href='plugins/MarkerCluster.Default.css' rel='stylesheet'>
+      <script src='plugins/leaflet.markercluster.js'></script>
+      
+      <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
       
       <link href='stylesheet.css' rel='stylesheet' />
   </head>
 
   <body>
+    <div class='page_header'>
+        <div style="float: left; width: 33.333%; padding-top: 1vh; padding-left: 5px;"><a style="margin:0px;" href="https://twitter.com/thebeerforme?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @thebeerforme</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+        <div style="float: left; width: 33.333%; text-align: center; padding-top: 1vh;"><h1>THE BEER FOR ME</h1></div>
+        <div style="float: left; width: 33.333%; text-align: right; padding-top: 1vh; padding-right: 5px"><h4>thebeerforme@gmail.com</h4></div>
+    
+    </div>
+
     <div class='sidebar'>
 
       <div id='listings' class='listings'></div>
     </div>
-    <div class='info' id='info'>
-      <b>E-mail:</b> thebeerforme@gmail.com</br>
-      <b>Twitter:</b> @thebeerforme
-    </div>
+
     <div id='map' class='map'>
       <div style="position: absolute; z-index:100; width: 45%; margin-top: 5px; margin-left: 4px;">
         <input type="text" id="search" style="width: 100%" placeholder="Search..">
       </div>
     </div>
 
-  <script src="map.min.js"></script>
+  <script src="map.js"></script>
   </body>
 </html>
