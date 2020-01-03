@@ -87,15 +87,12 @@
             overflow: auto;
         }
 
-        .twitter-follow-button {
-          width: 30px;
 
-        }
 
         .page_header h1{
             margin:0px;
             font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
-            font-size: 2vh; color: #fff; 
+            font-size: 2vmin; color: #fff; 
             text-shadow: 2px 2px 2px #99738e;
             vertical-align: middle;
             padding: 0px;
@@ -213,5 +210,5 @@
           border-radius: 3px;
           overflow: auto;
           max-height: 70%;
-          background: rgba(190, 206, 164, 0.911);
+          background: rgba(27, 32, 164, 0.541);
          }
