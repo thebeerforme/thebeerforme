@@ -84,7 +84,6 @@
             margin-bottom: 0px;
             padding: 0px;
             box-sizing: border-box;
-            overflow: auto;
         }
 
 
@@ -211,4 +210,8 @@
           overflow: auto;
           max-height: 70%;
           background: rgba(27, 32, 164, 0.541);
+         }
+         .ui-autocomplete a {
+           font-family: "Helvetica Neue Small", Helvetica, Arial, sans-serif;  
+           color: white;
          }
