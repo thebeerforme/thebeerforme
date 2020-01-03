@@ -15,8 +15,8 @@
         .sidebar {
           position:absolute;
           width:33.3333%;
-          height:90%;
-          top:0;left:0;
+          height:95%;
+          top:5%;left:0;
           overflow:hidden;
           border-right:1px solid rgba(0,0,0,0.25);
         }
@@ -28,7 +28,7 @@
           position:absolute;
           left:33.3333%;
           width:66.6666%;
-          top:0;bottom:0;
+          top:5%;bottom:0;
         }
 
         h1 {
@@ -42,12 +42,12 @@
         }
 
         a {
-          color:#627A30;
+          color:#f64c72;
           text-decoration:none;
         }
 
         a:hover {
-          color:#8d8741;
+          color:#553d67;
         }
 
         .heading {
@@ -56,7 +56,7 @@
           min-height:5vh;
           line-height:60px;
           padding:0 10px;
-          background-color: #627A30;
+          background-color: #fff;
           color: #fff;
         }
         .info{
@@ -68,36 +68,49 @@
           padding: 12px;
           line-height: 3vmin;
           border-right:1px solid rgba(116, 176, 231, 0.25);
-          background-color: rgba(190, 206, 164, 0.911);
+          background-color: #553d67;
           overflow:auto;
           display:inline-block;
           font-size: 2vmin;
           overflow-wrap: break-word;
+          color: white;
         }
         .page_header{
-            text-align: center; 
-            height:8%; 
+          position:absolute;
+            height: 5%; 
             top:0; left: 0; 
             width:100%; 
-            background: linear-gradient(0deg, rgba(193,205,212,0.9335084375547094) 0%, rgba(255,255,255,1) 100%);
+            background: #553d67;
+            margin-bottom: 0px;
+            padding: 0px;
+            box-sizing: border-box;
+            overflow: auto;
         }
 
         .page_header h1{
+            margin:0px;
             font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
-            font-size: 2.5vmax; color: rgb(15, 15, 15); 
-            text-shadow: 2px 2px 2px #998f82;
+            font-size: 2vh; color: #fff; 
+            text-shadow: 2px 2px 2px #99738e;
+            vertical-align: middle;
+            padding: 0px;
+        }
+        .page_header h4{
+          margin:0px;
+          font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+          font-size: 0.9vmax; color: #f64c72;
         }
 
         .listings {
           height:100%;
           overflow:auto;
           padding-bottom:60px;
-          background-color: #e2e4e5e3;
+          background-color: #fff;
         }
 
         .listings .item {
           display:block;
-          border-bottom:1px solid #eee;
+          border-bottom:1px solid #f64c72;
           padding:10px;
           text-decoration:none;
         }
@@ -105,13 +118,16 @@
         .listings .item:last-child { border-bottom:none; }
         .listings .item .title {
           display:block;
-          color:#627A30;
+          color:#2f2fa2;
           font-weight:700;
+        }
+        .listings .item .details {
+          /* color:#f64c72; */
         }
 
         .listings .item .title small { font-weight:400; }
         .listings .item.active .title,
-        .listings .item .title:hover { color:#8d8741; }
+        .listings .item .title:hover { color:#553d67; }
         .listings .item.active {
           background-color:#f8f8f8;
         }
@@ -125,7 +141,7 @@
           background:none;
         }
         ::-webkit-scrollbar-thumb {
-          background:#627A30;
+          background:#fff;
           border-radius:0;
         }
 
@@ -154,8 +170,8 @@
           padding:1%;
         }
         .mapboxgl-popup-content h3 {
-          background:#bc986a ;
-          color:#fbeec1;
+          background:#1B1FA4 ;
+          color:#fff;
           margin:0;
           display:block;
           padding:10px;
