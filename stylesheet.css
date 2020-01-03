@@ -87,6 +87,11 @@
             overflow: auto;
         }
 
+        .twitter-follow-button {
+          width: 30px;
+
+        }
+
         .page_header h1{
             margin:0px;
             font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
@@ -141,7 +146,7 @@
           background:none;
         }
         ::-webkit-scrollbar-thumb {
-          background:#fff;
+          background:#f64c72;
           border-radius:0;
         }
 
