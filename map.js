@@ -14,11 +14,11 @@
     // container id specified in the HTML
     container: 'map',
     // style URL
-    style: 'mapbox://styles/c13slam/ck4nbngoa1bm81clep5ebr8x3',
+    style: 'mapbox://styles/c13slam/ck4sv4p6b0sdb1cnnn5670vqk',
     // initial position in [long, lat] format
-    center: [-105.00616, 39.745064],
+    center: [-100.034084142948, 41.909671288923],
     // initial zoom
-    zoom: 13,
+    zoom: 3,
     scrollZoom: true
   });
   map.addControl(new mapboxgl.NavigationControl({showCompass: false}));
@@ -78,57 +78,129 @@ function createMap(data, names){
     features: feat
     };
 
-    // This adds the data to the map
-        var lats = [];
-        var longs = [];
+// This adds the data to the map
+    var lats = [];
+    var longs = [];
+    
+    /* map.addSource('breweries', {
+        'type': 'geojson',
+        'data': geojson
+    }); */
+
+
+      map.addSource('breweries',{
+        'type': 'geojson',
+        'data': geojson,
+        'buffer': 0,
+        'cluster': true,
+        clusterMaxZoom: 10, // Max zoom to cluster points on
+        clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
+      })
+      map.addLayer({   //unclustered breweries
+        'id': 'breweries_layer',
+        'type': 'symbol',
         
-        /* map.addSource('breweries', {
-            'type': 'geojson',
-            'data': geojson
-        }); */
-        map.addLayer({
-            'id': 'breweries_layer',
-            'type': 'circle',
-            
-            'source': {
-                'type': 'geojson',
-                'data': geojson,
-                'buffer': 0,
-            },
-            minzoom: 3,
-            'paint':{
-              'circle-radius': 4.5,
-              'circle-color': '#8d8741',
-              'circle-stroke-width':0.3
-              
-            },
-            "icon-allow-overlap": true
-            
-        });
+        'source': 'breweries',
+        'filter': ['!', ['has', 'point_count']],
+        'minzoom': 3,
+        'layout': {
+          'icon-image': 'brewery-marker',
+          'icon-size':  0.4,
+          'icon-allow-overlap': true,
+          'icon-anchor': 'bottom'
+        }
+        
+        
+    }); 
+        
+/*    map.addLayer({
+    id: 'clusters',
+    type: 'circle',
+    source: 'breweries',
+    filter: ['has', 'point_count'],
+    paint: {
+      // Use step expressions (https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-step)
+      // with three steps to implement three types of circles:
+      //   * Blue, 20px circles when point count is less than 100
+      //   * Yellow, 30px circles when point count is between 100 and 750
+      //   * Pink, 40px circles when point count is greater than or equal to 750
+      'circle-color': [
+        'step',
+        ['get', 'point_count'],
+        '#2f2fa2',
+        100,
+        '#553d67',
+        750,
+        '#f64c72'
+      ],
+      'circle-radius': [
+        'step',
+        ['get', 'point_count'],
+        20,
+        100,
+        30,
+        750,
+        40
+      ]
+      } 
+    });  */
+
+     map.addLayer({
+      'id': 'clusters',
+      'type': 'symbol',
+      'source': 'breweries',
+      'filter': ['has', 'point_count'],
+      'layout': {
+        'icon-image': 'brewery-marker',
+        'icon-size':  [
+          'step',
+          ['get', 'point_count'],
+          0.6,
+          100,
+          0.8,
+          750,
+          1
+        ],
+        'icon-allow-overlap': true,
+        'icon-anchor':'center'
+      }
+      }); 
+    
+     map.addLayer({
+      id: 'cluster-count',
+      type: 'symbol',
+      source: 'breweries',
+      filter: ['has', 'point_count'],
+      layout: {
+      'text-field': '{point_count_abbreviated}',
+      'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
+      'text-size': 15
+      },
+      paint:{
+        'text-color': 'black',
+        'text-halo-width':0,
+        'text-halo-color': 'black'
+      }
+      }); 
 
         map.addLayer({
         'id': 'labels',
         'type': 'symbol',
-        'source': {
-                'type': 'geojson',
-                'data': geojson,
-                
-            },
-            'minzoom': 12,
+        'source': 'breweries',
+           // 'minzoom': 6,
           'layout': {
             'text-field': ['get', 'company'],
-            'text-variable-anchor': ['bottom', 'top'],
-            'text-radial-offset': 0.5,
+            'text-variable-anchor': ['top'],
+            'text-radial-offset': 0.1,
             'text-justify': 'auto',
             'text-size': 12          
           },
           'paint':{
-            'text-color':'#627A30',
-            'text-halo-width':0.05,
+            'text-color':'#f64c72',
+            'text-halo-width':0.03,
             'text-halo-color': 'black'
           }
         });
-        map.setLayoutProperty('breweries_labels', 'visibility', 'visible');
         buildLocationList(geojson.features.sort(compareValues('company')));
 
         var options = {
@@ -297,6 +369,7 @@ function compareValues(key, order = 'asc') {
         }
 
         var details = listing.appendChild(document.createElement('div'));
+        details.className='details';
         details.innerHTML = prop.address+', '+prop.city+ ', '+ prop.state+ ", "+ prop.zip_code+site;
         
         
