@@ -32,19 +32,20 @@
 
   <body>
     <div class='page_header'>
-        <div style="float: left; width: 33.333%; padding-top: 1vh; padding-left: 5px;"><a href="https://twitter.com/thebeerforme?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="small" data-show-screen-name="false" data-width="500" ></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+      
+      <div style="float: left; width: 33.333%; padding-top: 1vh; padding-left: 5px;"><button title="List of Breweries" class="openbtn" onclick="openNav()">☰</button> <a href="https://twitter.com/thebeerforme?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="small" data-show-screen-name="false" data-width="500" ></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
         <div style="float: left; width: 33.333%; text-align: center; padding-top: 1vh;"><h1>THE BEER FOR ME</h1></div>
         <div style="float: left; width: 33.333%; text-align: right; padding-top: 1vh; padding-right: 5px"><h4>thebeerforme@gmail.com</h4></div>
     
     </div>
 
-    <div class='sidebar'>
-
+    <div class='sidebar' id='sidebar'>
+      <a title="Close sidebar" href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
       <div id='listings' class='listings'></div>
     </div>
 
     <div id='map' class='map'>
-      <div style="position: absolute; z-index:100; width: 45%; margin-top: 5px; margin-left: 4px;">
+      <div style="position: absolute; z-index:100; width: 45vmin; margin-top: 5px; margin-left: 4px;">
         <input type="text" id="search" style="width: 100%" placeholder="Search..">
       </div>
     </div>
