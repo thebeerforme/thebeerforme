@@ -14,7 +14,7 @@
 
         .sidebar {
           position:absolute;
-          width:33.3333%;
+          width:0;
           height:95%;
           top:5%;left:0;
           overflow:hidden;
@@ -26,8 +26,8 @@
 
         .map {
           position:absolute;
-          left:33.3333%;
-          width:66.6666%;
+          left:0;
+          width:100vw;
           top:5%;bottom:0;
         }
 
@@ -91,7 +91,7 @@
         .page_header h1{
             margin:0px;
             font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
-            font-size: 2vmin; color: #fff; 
+            font-size: 3.1vmin; color: #fff; 
             text-shadow: 2px 2px 2px #99738e;
             vertical-align: middle;
             padding: 0px;
@@ -215,3 +215,25 @@
            font-family: "Helvetica Neue Small", Helvetica, Arial, sans-serif;  
            color: white;
          }
+         .openbtn {
+          margin:0px;
+          font-size: 15px;
+          cursor: pointer;
+          background-color: rgba(17, 17, 17, 0);
+          color: white;
+          padding: 0px 8px;
+          border: none;
+          vertical-align: top;
+          margin-right: 4px;
+          margin-left:3px;
+        }
+        
+        .openbtn:hover {
+          background-color: #99738e;
+        }
+        .sidebar .closebtn {
+          position: absolute;
+          top: 0;
+          right: 4px;
+          font-size: 25px;
+        }
