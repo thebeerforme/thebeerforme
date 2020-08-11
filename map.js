@@ -54,7 +54,7 @@
         }
     });
     //map.style.sourceCaches['attribution-layer']._source.attribution = "Map by: rodrigomd94@gmail.com";
-    Papa.parse("https://docs.google.com/spreadsheets/d/e/2PACX-1vRrZnllTiVGWFmzzvEXLxAt5boQZZh3krmLbwkTwYT6rmVB_b6ntjmaiI6E2RmsVgzMUFLYbAv5GTaA/pub?output=csv", 
+    Papa.parse("./data/brewers_master_data.csv", 
       {download: true,
       header: true,
       complete: function(results) {
