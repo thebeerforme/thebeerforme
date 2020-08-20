@@ -1,3 +1,26 @@
+var closedBar=true;
+
+function openNav() {
+  if (closedBar==true){
+    document.getElementById("sidebar").style.width = "33.33%";
+    document.getElementById("map").style.left= "33.33%";
+    document.getElementById("map").style.width = "66.66%";
+    closedBar = false;
+  }else{
+    document.getElementById("sidebar").style.width = "0";
+    document.getElementById("map").style.width= "100vw";
+    document.getElementById("map").style.left= "0";
+    closedBar =true;
+  }
+}
+
+function closeNav() {
+  document.getElementById("sidebar").style.width = "0";
+  document.getElementById("map").style.width= "100vw";
+  document.getElementById("map").style.left= "0";
+  closedBar = true;
+}
+
 // This will let you use the .remove() function later on
   if (!('remove' in Element.prototype)) {
     Element.prototype.remove = function() {
@@ -18,7 +41,7 @@
     // initial position in [long, lat] format
     center: [-100.034084142948, 41.909671288923],
     // initial zoom
-    zoom: 3,
+    zoom: 2.5,
     scrollZoom: true
   });
   map.addControl(new mapboxgl.NavigationControl({showCompass: false}));
@@ -28,7 +51,7 @@
     positionOptions: {
     enableHighAccuracy: true
     },
-    trackUserLocation: true
+    trackUserLocation: false
     }).on('geolocate', (e)=>{
       map.flyTo({
         center: [e.coords.longitude, e.coords.latitude],
@@ -69,184 +92,260 @@
       });
   });
 function createMap(data, names){
-    //save string of features for geojson
-    for (i=0; i<data.length; i++){
-        feat.push({type: 'Feature', properties: data[i], geometry: { type: 'Point', coordinates: [data[i].lon, data[i].lat]}});
-    };
-    var geojson = {
-    type: 'FeatureCollection',
-    features: feat
-    };
+  //save string of features for geojson
+  for (i=0; i<data.length; i++){
+      feat.push({type: 'Feature', properties: data[i], geometry: { type: 'Point', coordinates: [data[i].lon, data[i].lat]}});
+  };
+  var geojson = {
+  type: 'FeatureCollection',
+  features: feat
+  };
 
 // This adds the data to the map
-    var lats = [];
-    var longs = [];
+  var lats = [];
+  var longs = [];
+  
+  /* map.addSource('breweries', {
+      'type': 'geojson',
+      'data': geojson
+  }); */
+
+
+  map.addSource('breweries',{
+    'type': 'geojson',
+    'data': geojson,
+    'buffer': 0,
+    'cluster': true,
+    clusterMaxZoom: 10, // Max zoom to cluster points on
+    clusterRadius: 45 // Radius of each cluster when clustering points (defaults to 50)
+  })
+
+  map.addLayer({   //unclustered breweries
+    'id': 'breweries_layer',
+    'type': 'symbol',
     
-    /* map.addSource('breweries', {
-        'type': 'geojson',
-        'data': geojson
-    }); */
-
-
-      map.addSource('breweries',{
-        'type': 'geojson',
-        'data': geojson,
-        'buffer': 0,
-        'cluster': true,
-        clusterMaxZoom: 10, // Max zoom to cluster points on
-        clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
-      })
-      map.addLayer({   //unclustered breweries
-        'id': 'breweries_layer',
-        'type': 'symbol',
-        
-        'source': 'breweries',
-        'filter': ['!', ['has', 'point_count']],
-        'minzoom': 3,
-        'layout': {
-          'icon-image': 'brewery-marker',
-          'icon-size':  0.4,
-          'icon-allow-overlap': true,
-          'icon-anchor': 'bottom'
-        }
-        
-        
-    }); 
-        
+    'source': 'breweries',
+    'filter': ['!', ['has', 'point_count']],
+    'minzoom': 3,
+    'layout': {
+      'icon-image': 'brewery-marker',
+      'icon-size':  0.4,
+      'icon-allow-overlap': true,
+      'icon-anchor': 'bottom'
+    }    
+  }); 
+      
 /*    map.addLayer({
-    id: 'clusters',
-    type: 'circle',
+  id: 'clusters',
+  type: 'circle',
+  source: 'breweries',
+  filter: ['has', 'point_count'],
+  paint: {
+    // Use step expressions (https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-step)
+    // with three steps to implement three types of circles:
+    //   * Blue, 20px circles when point count is less than 100
+    //   * Yellow, 30px circles when point count is between 100 and 750
+    //   * Pink, 40px circles when point count is greater than or equal to 750
+    'circle-color': [
+      'step',
+      ['get', 'point_count'],
+      '#2f2fa2',
+      100,
+      '#553d67',
+      750,
+      '#f64c72'
+    ],
+    'circle-radius': [
+      'step',
+      ['get', 'point_count'],
+      20,
+      100,
+      30,
+      750,
+      40
+    ]
+    } 
+  });  */
+
+  map.addLayer({
+    'id': 'clusters',
+    'type': 'symbol',
+    'source': 'breweries',
+    'filter': ['has', 'point_count'],
+    'layout': {
+      'icon-image': 'brewery_cluster',
+      'icon-size':  [
+        'step',
+        ['get', 'point_count'],
+        0.6,
+        100,
+        0.8,
+        750,
+        1
+      ],
+      'icon-allow-overlap': true,
+      'icon-anchor':'center'
+    }
+  }); 
+  
+  map.addLayer({
+    id: 'cluster-count',
+    type: 'symbol',
     source: 'breweries',
     filter: ['has', 'point_count'],
-    paint: {
-      // Use step expressions (https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-step)
-      // with three steps to implement three types of circles:
-      //   * Blue, 20px circles when point count is less than 100
-      //   * Yellow, 30px circles when point count is between 100 and 750
-      //   * Pink, 40px circles when point count is greater than or equal to 750
-      'circle-color': [
-        'step',
-        ['get', 'point_count'],
-        '#2f2fa2',
-        100,
-        '#553d67',
-        750,
-        '#f64c72'
-      ],
-      'circle-radius': [
-        'step',
-        ['get', 'point_count'],
-        20,
-        100,
-        30,
-        750,
-        40
-      ]
-      } 
-    });  */
+    layout: {
+    'text-field': '{point_count_abbreviated}',
+    'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
+    'text-size': 15
+    },
+    paint:{
+      'text-color': 'black',
+      'text-halo-width':0,
+      'text-halo-color': 'black'
+    }
+  }); 
 
-     map.addLayer({
-      'id': 'clusters',
-      'type': 'symbol',
-      'source': 'breweries',
-      'filter': ['has', 'point_count'],
-      'layout': {
-        'icon-image': 'brewery-marker',
-        'icon-size':  [
-          'step',
-          ['get', 'point_count'],
-          0.6,
-          100,
-          0.8,
-          750,
-          1
-        ],
-        'icon-allow-overlap': true,
-        'icon-anchor':'center'
+  map.addLayer({
+  'id': 'labels',
+  'type': 'symbol',
+  'source': 'breweries',
+      // 'minzoom': 6,
+    'layout': {
+      'text-field': ['get', 'company'],
+      'text-variable-anchor': ['top'],
+      'text-radial-offset': 0.1,
+      'text-justify': 'auto',
+      'text-size': 12          
+    },
+    'paint':{
+      'text-color':'#f64c72',
+      'text-halo-width':0.03,
+      'text-halo-color': 'black'
+    }
+  });
+  var visible_features=geojson.features;
+
+  buildLocationList(visible_features);
+
+  var options = {
+    keys:['properties.company'],
+    threshold: 0.0,
+    location: 0,
+    distance: 0
+    }
+    var fuse = new Fuse(geojson.features, options);
+//-----------function called when click search button
+
+  $("#search").autocomplete({
+    source: names,
+    autoFocus: true,
+    minLength: 2,
+    delay: 500
+  });
+  $("#search").on("autocompleteselect", searchComplete);
+
+///-------function called when zomming or panning      
+  map.on('moveend', function() {
+      visible_features = getPointsInView(geojson.features);
+
+      if (visible_features) {
+      // Populate features for the listing overlay.
+      buildLocationList(visible_features);
       }
-      }); 
-    
-     map.addLayer({
-      id: 'cluster-count',
-      type: 'symbol',
-      source: 'breweries',
-      filter: ['has', 'point_count'],
-      layout: {
-      'text-field': '{point_count_abbreviated}',
-      'text-font': ['DIN Offc Pro Medium', 'Arial Unicode MS Bold'],
-      'text-size': 15
-      },
-      paint:{
-        'text-color': 'black',
-        'text-halo-width':0,
-        'text-halo-color': 'black'
+  });
+
+  function searchComplete(e, ui){
+    search_result = fuse.search(ui.item.value)[0];
+        map.flyTo({
+          center: search_result.geometry.coordinates,
+          zoom: 13
+        });
+  };
+// ----------------------------- functions to build location list -------------
+//-----------------------------------------------------------------------------
+var last_loaded=0;
+  function buildLocationList(features) { //--------this function is called whenever the user pans or zooms. Resets sidebar listings and creates new ones based on visible points
+    features = features.sort(compareValues('company'));
+    clearTimeout(timer);
+      timer = setTimeout(()=>{ //timer used to wait until user finishes panning or scrolling. Improves performance and smoothness
+        delay= 1400;
+
+        /*  if (document.getElementById('search').value != ''){
+        features = fuse.search(document.getElementById('search').value).sort(compareValues('company'));
+        } */
+
+        var listings = document.getElementById('listings');
+        listings.innerHTML='';
+        listings.scrollTo(0,0); //puts scrollbar back on the top
+        last_loaded = 0;
+        
+        loadMore(features);
+        
+      }, delay);
+    };
+
+  function loadMore(features){  //---this function loads more results on side bar when scrollbar hits bottom or when panning/zooming
+    if(last_loaded<features.length){
+      var limit = ((last_loaded+20)< features.length) ? (last_loaded+20) : features.length;
+      for (i = last_loaded; i < limit; i++) {
+        var currentFeature = features[i];
+        var prop = currentFeature.properties;
+
+        var listing = listings.appendChild(document.createElement('div'));
+        listing.className = 'item';
+        listing.id = "listing-" + i;
+
+        var link = listing.appendChild(document.createElement('a'));
+        link.href = '#';
+        link.className = 'title';
+        link.dataPosition = i;
+        link.innerHTML = prop.company;
+
+        if(prop.website != '' && prop.website !=null){
+            var site = '</br><a href="https://'+currentFeature.properties.website+'" target="_blank">Website</a>'
+        }else{
+            var site = '';
+        }
+
+        var details = listing.appendChild(document.createElement('div'));
+        details.className='details';
+        details.innerHTML = prop.address+', '+prop.city+ ', '+ prop.state+ ", "+ prop.zip_code+site;
+        
+        
+        link.addEventListener('click', function(e){
+          // Update the currentFeature to the store associated with the clicked link
+          var clickedListing = features[this.dataPosition];
+
+          // 1. Fly to the point
+          flyToStore(clickedListing);
+
+          // 2. Close all other popups and display popup for clicked store
+          createPopUp(clickedListing);
+
+          // 3. Highlight listing in sidebar (and remove highlight for all other listings)
+          var activeItem = document.getElementsByClassName('active');
+
+          if (activeItem[0]) {
+          activeItem[0].classList.remove('active');
+          }
+          this.parentNode.classList.add('active');
+
+        });   
+        last_loaded++;
+        
+
+      };
+    };
+    $(listings).scroll(function() { //event listener for when scrollbar hits bottom. Used to load more results
+      if((listings.scrollHeight - listings.scrollTop)-1 < listings.clientHeight) {
+            loadMore(visible_features);
       }
-      }); 
-
-        map.addLayer({
-        'id': 'labels',
-        'type': 'symbol',
-        'source': 'breweries',
-           // 'minzoom': 6,
-          'layout': {
-            'text-field': ['get', 'company'],
-            'text-variable-anchor': ['top'],
-            'text-radial-offset': 0.1,
-            'text-justify': 'auto',
-            'text-size': 12          
-          },
-          'paint':{
-            'text-color':'#f64c72',
-            'text-halo-width':0.03,
-            'text-halo-color': 'black'
-          }
-        });
-        buildLocationList(geojson.features.sort(compareValues('company')));
-
-        var options = {
-          keys:['properties.company'],
-          threshold: 0.0,
-          location: 0,
-          distance: 0
-          }
-          var fuse = new Fuse(geojson.features, options);
-  //-----------function called when click search button
-
-        $("#search").autocomplete({
-          source: names,
-          autoFocus: true,
-          minLength: 2,
-          delay: 500
-        });
-        $("#search").on("autocompleteselect", searchComplete);
-
-  ///-------function called when zomming or panning      
-        map.on('moveend', function() {
-
-
-      //------------------show or hide labels based on zoom
-           /*  if (map.getZoom()>11){
-                map.setLayoutProperty('breweries_labels', 'visibility', 'visible');
-            }else{
-              map.setLayoutProperty('breweries_labels', 'visibility', 'none');
-            }  */
-            var features = getPointsInView(geojson.features);
-
-            if (features) {
-            // Populate features for the listing overlay.
-            buildLocationList(features.sort(compareValues('company')));
-            }
-        });
-
-        function searchComplete(e, ui){
-          search_result = fuse.search(ui.item.value)[0];
-              map.flyTo({
-                center: search_result.geometry.coordinates,
-                zoom: 13
-              });
-        };
-   
+    });
+  
+  }
+  
 }
+
     map.on('mouseenter', 'breweries_layer', () => {
         map.getCanvas().style.cursor = 'pointer'
     });
@@ -316,6 +415,7 @@ function compareValues(key, order = 'asc') {
         if (!a.properties.hasOwnProperty(key) || !b.properties.hasOwnProperty(key)) {
         // property doesn't exist on either object
         return 0;
+
         }
 
         const varA = (typeof a.properties[key] === 'string')
@@ -335,65 +435,4 @@ function compareValues(key, order = 'asc') {
     };
 }
 
-  function buildLocationList(features) {
-    
-    clearTimeout(timer);
-      timer = setTimeout(()=>{
-        delay= 1850;
-
-       /*  if (document.getElementById('search').value != ''){
-        features = fuse.search(document.getElementById('search').value).sort(compareValues('company'));
-        } */
-
-        var listings = document.getElementById('listings');
-        listings.innerHTML='';
-        for (i = 0; i < features.length; i++) {
-        var currentFeature = features[i];
-        var prop = currentFeature.properties;
-
-        
-        var listing = listings.appendChild(document.createElement('div'));
-        listing.className = 'item';
-        listing.id = "listing-" + i;
-
-        var link = listing.appendChild(document.createElement('a'));
-        link.href = '#';
-        link.className = 'title';
-        link.dataPosition = i;
-        link.innerHTML = prop.company;
-
-        if(prop.website != '' && prop.website !=null){
-            var site = '</br><a href="https://'+currentFeature.properties.website+'" target="_blank">Website</a>'
-        }else{
-            var site = '';
-        }
-
-        var details = listing.appendChild(document.createElement('div'));
-        details.className='details';
-        details.innerHTML = prop.address+', '+prop.city+ ', '+ prop.state+ ", "+ prop.zip_code+site;
-        
-        
-        link.addEventListener('click', function(e){
-            // Update the currentFeature to the store associated with the clicked link
-            var clickedListing = features[this.dataPosition];
-
-            // 1. Fly to the point
-            flyToStore(clickedListing);
-
-            // 2. Close all other popups and display popup for clicked store
-            createPopUp(clickedListing);
-
-            // 3. Highlight listing in sidebar (and remove highlight for all other listings)
-            var activeItem = document.getElementsByClassName('active');
-
-            if (activeItem[0]) {
-            activeItem[0].classList.remove('active');
-            }
-            this.parentNode.classList.add('active');
-
-        });   
-        }
-    }, delay);
-    };
-
-    
+  
