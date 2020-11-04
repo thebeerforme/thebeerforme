@@ -1,65 +1,107 @@
 <!DOCTYPE html>
 <html>
-  <head>
-          <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-46175014-3"></script>
-      <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
 
-      gtag('config', 'UA-46175014-3');
-      </script>
-    
-      <meta charset='utf-8' />
-      <title>Find Local Microbreweries | The Beer for Me</title>
-      <meta name='description' content='Love beer? The Beer For Me is the authoritative directory of microbreweries in the USA. Visit, shop and support your local brewery. Cheers!' /> 
-      <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-46175014-3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-      <link rel='icon' href='icons/favicon.png'/>
-      <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-46175014-3');
+    </script>
+
+    <meta charset='utf-8' />
+    <title>Find Local Microbreweries | The Beer for Me</title>
+    <meta name='description' content='Love beer? The Beer For Me is the authoritative directory of microbreweries in the USA. Visit, shop and support your local brewery. Cheers!' />
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+    <link rel='icon' href='icons/favicon.svg' />
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
-      <script
-      src="https://code.jquery.com/jquery-3.4.1.min.js"
-      integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-      crossorigin="anonymous"></script>
-      <link href = "plugins/jquery-ui.css"
-         rel = "stylesheet">
-      <script src = "plugins/jquery-1.10.2.min.js"></script>
-      <script src = "plugins/jquery-ui.min.js"></script>
 
-      <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.js'></script>
-      <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.css' rel='stylesheet' />
-      <script src='plugins/papaparse.min.js'></script>
-      <script src='plugins/fuse.min.js'></script>
 
-      
-      <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
-      
-      <link href='stylesheet.css' rel='stylesheet' />
-  </head>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <link href="plugins/jquery-ui.css" rel="stylesheet">
+    <script src="plugins/jquery-1.10.2.min.js"></script>
+    <script src="plugins/jquery-ui.min.js"></script>
 
-  <body>
-    <div class='page_header'>
-      
-      <div style="float: left; width: 33.333%; padding-top: 1vh; padding-left: 5px;"><button title="List of Breweries" class="openbtn" onclick="openNav()">☰</button> <a href="https://twitter.com/thebeerforme?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="small" data-show-screen-name="false" data-width="500" ></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-        <div style="float: left; width: 33.333%; text-align: center; padding-top: 1vh;"><h1>THE BEER FOR ME</h1></div>
-        <div style="float: left; width: 33.333%; text-align: right; padding-top: 1vh; padding-right: 5px"><h4>thebeerforme@gmail.com</h4></div>
-    
-    </div>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='plugins/papaparse.min.js'></script>
+    <script src='plugins/fuse.min.js'></script>
+
+
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
+
+    <link href='stylesheet.css' rel='stylesheet' />
+    <link rel="stylesheet" href="./bootstrap.min.css">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light d-flex justify-content-between">
+        <!-- <div class="toggle-btn bg-danger mr-5 ml-5"> -->
+        <!-- <button title="List of Breweries" class="openbtn" onclick="openNav()">☰</button> -->
+        <!-- </div> -->
+        <div id="menuToggle">
+            <input type="checkbox" onclick="openNav()" />
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="subtitle ml-8">
+            <h1>The Beer for Me</h1>
+        </div>
+        <form id="searchForm" class="navbar-form hidden" role="search">
+            <div class="input-group">
+                <input type="text" id="search" class="form-control" placeholder="Find a Brewery">
+            </div>
+        </form>
+        <a target="_blank" href="https://www.instagram.com/thebeerforme" class="instagram_sec"><img src="icons/Instagram.png" alt="instagram" width="100%"></a>
+    </nav>
 
     <div class='sidebar' id='sidebar'>
-      <a title="Close sidebar" href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
-      <div id='listings' class='listings'></div>
+
+        <a title="Close sidebar" href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+        <div id='listings' class='listings'>
+
+        </div>
     </div>
 
     <div id='map' class='map'>
-      <div style="position: absolute; z-index:100; width: 45vmin; margin-top: 5px; margin-left: 4px;">
-        <input type="text" id="search" style="width: 100%" placeholder="Search..">
-      </div>
+
     </div>
 
-  <script src="map.js"></script>
-  </body>
+    <script src="map.js"></script>
+    <script src="./bootstrap.bundle.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            function checkScreenSize() {
+                var newWindowWidth = $(window).width();
+                if (newWindowWidth < 481) {
+                    $(".sidebar").css({
+                        "width": "75%"
+                    });
+                } else {
+                    $('.sidebar').css({
+                        "width": "17.3%"
+                    });
+                }
+            }
+            $("#menuToggle").click(function() {
+
+                checkScreenSize();
+
+            });
+        });
+    </script>
+</body>
+
 </html>
