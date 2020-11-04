@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-46175014-3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-46175014-3');
+    </script>
+
+    <meta charset='utf-8' />
+    <title>Find Local Microbreweries | The Beer for Me</title>
+    <meta name='description' content='Love beer? The Beer For Me is the authoritative directory of microbreweries in the USA. Visit, shop and support your local brewery. Cheers!' />
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+    <link rel='icon' href='icons/favicon.svg' />
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <link href="plugins/jquery-ui.css" rel="stylesheet">
+    <script src="plugins/jquery-1.10.2.min.js"></script>
+    <script src="plugins/jquery-ui.min.js"></script>
+
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.css' rel='stylesheet' />
+    <script src='plugins/papaparse.min.js'></script>
+    <script src='plugins/fuse.min.js'></script>
+
+
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
+
+    <link href='stylesheet.css' rel='stylesheet' />
+    <link rel="stylesheet" href="./bootstrap.min.css">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light d-flex justify-content-between">
+        <div class="toggle-btn bg-danger mr-5 ml-5">
+            <button title="List of Breweries" class="openbtn" onclick="openNav()">☰</button>
+        </div>
+        <div class="subtitle ml-5">
+            <h1>THE BEER FOR ME</h1>
+        </div>
+        <div>
+            <input type="text" id="search" style="width: 100%" placeholder="Search..">
+        </div>
+    </nav>
+
+    <div class='sidebar' id='sidebar'>
+        <a title="Close sidebar" href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+        <div id='listings' class='listings'></div>
+    </div>
+
+    <div id='map' class='map'>
+
+    </div>
+
+    <script src="map.js"></script>
+    <script src="./bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
