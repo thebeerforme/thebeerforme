@@ -36,7 +36,7 @@
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.6.1/mapbox-gl.css' rel='stylesheet' />
     <script src='plugins/papaparse.min.js'></script>
     <script src='plugins/fuse.min.js'></script>
-
+    
 
     <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet'>
 
@@ -64,14 +64,14 @@
                 <input type="text" id="search" class="form-control" placeholder="Find a Brewery">
             </div>
         </form>
-        <a target="_blank" href="https://www.instagram.com/thebeerforme" class="instagram_sec"><img src="icons/Instagram.png" alt="instagram" width="100%"></a>
+        <a target="_blank" href="https://www.instagram.com/thebeerforme" class="instagram_sec"><img src="icons/Instagram.png" alt="instagram" width="100%" ></a>
     </nav>
 
     <div class='sidebar' id='sidebar'>
-
+        
         <a title="Close sidebar" href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
         <div id='listings' class='listings'>
-
+               
         </div>
     </div>
 
@@ -81,26 +81,25 @@
 
     <script src="map.js"></script>
     <script src="./bootstrap.bundle.min.js"></script>
-    <script type="text/javascript">
-        $(document).ready(function() {
-            function checkScreenSize() {
-                var newWindowWidth = $(window).width();
-                if (newWindowWidth < 481) {
-                    $(".sidebar").css({
-                        "width": "75%"
-                    });
-                } else {
-                    $('.sidebar').css({
-                        "width": "17.3%"
-                    });
-                }
-            }
-            $("#menuToggle").click(function() {
+<script  type="text/javascript">
+    $(document).ready(function(){
+    function checkScreenSize(){
+        var newWindowWidth = $(window).width();
+        if (newWindowWidth < 481) {
+            $(".sidebar").css({"width": "75%"});
+        }
+        else
+        {
+            $('.sidebar').css({"width": "17.3%"});
+        }
+    }
+    $("#menuToggle").click(function(){
+    
+      checkScreenSize();
+      
+    });
+    });
 
-                checkScreenSize();
-
-            });
-        });
     </script>
 </body>
 
