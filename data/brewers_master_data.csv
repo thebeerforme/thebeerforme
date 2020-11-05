@@ -1,6 +1,5 @@
 company,address,city,state,zip_code,lat,lon,website
-TEST,145 Grand St,Carlstadt,NJ,07072,40.836923,-74.07461
-123Skagway Brewing Co,250 4th Ave.,Skagway,AK,99840,59.454605,-135.315836,www.skagwaybrewing.com
+Skagway Brewing Co,250 4th Ave.,Skagway,AK,99840,59.454605,-135.315836,www.skagwaybrewing.com
 Klondike Brewing Company,365 2nd Ave,Skagway,AK,99840,59.453752,-135.319314,www.klondikebeer.com
 Icy Strait Brewery,286 Front St,Hoonah,AK,99829,58.110024,-135.446037,
 Devil's Club Brewing,100 N Franklin St,Juneau,AK,99801,58.30079,-134.406323,www.devilsclubbrewing.com
