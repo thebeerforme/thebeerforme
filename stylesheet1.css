@@ -972,6 +972,38 @@ a.instagram_sec {
     }
 }
 
+@media only screen and (max-width: 320px) {
+    input#search {
+        width: 119px!important;
+        padding: 3px;
+        border-radius: 5px;
+    }
+    .sidebar {
+        position: absolute;
+        height: 87%;
+        top: 9.5%;
+        left: 0;
+        font-size: 0.7rem;
+        overflow: hidden;
+        border-right: 1px solid rgba(0, 0, 0, 0.25);
+        transition: all 0.5s;
+    }
+    .ui-autocomplete {
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        overflow: hidden;
+        max-height: 70%;
+        background: rgba(27, 32, 164, 0.541);
+        margin-right: 90px!important;
+    }
+    form#searchForm {
+        width: 43%;
+    }
+    a.instagram_sec {
+        width: 10%;
+    }
+}
+
 @media only screen and (max-width: 280px) {
     input#search {
         width: 119px!important;
