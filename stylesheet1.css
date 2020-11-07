@@ -32,7 +32,7 @@ body {
     position: absolute;
     width: 0;
     height: 87%;
-    top: 11%;
+    top: 11.2%;
     left: 0;
     overflow: hidden;
     border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -162,7 +162,7 @@ input#search {
     position: absolute;
     left: 0;
     width: 100vw;
-    top: 11%;
+    top: 11.2%;
     bottom: 0;
 }
 
@@ -322,7 +322,7 @@ a:hover {
 
 .mapboxgl-popup-content {
     font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
-    */ padding: 0;
+    padding: 0;
     width: 370px;
     font-size: 15px;
     font-family: cursive;
@@ -393,7 +393,7 @@ a:hover {
     overflow: hidden;
     max-height: 70%;
     background: rgba(27, 32, 164, 0.541);
-    margin-right: 20px!important;
+    margin-right: 90px!important;
 }
 
 .ui-autocomplete a {
@@ -475,7 +475,7 @@ nav.navbar.navbar-expand-md.navbar-light.d-flex.justify-content-between {
 }
 
 nav.navbar.navbar-expand-lg.navbar-light.d-flex.justify-content-between {
-    padding: 18px 30px;
+    padding: 0px 30px;
 }
 
 a.instagram_sec {
@@ -535,7 +535,7 @@ a.instagram_sec {
         position: absolute;
         width: 0;
         height: 87%;
-        top: 9%;
+        top: 8.4%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -548,77 +548,7 @@ a.instagram_sec {
         position: absolute;
         left: 0;
         width: 100vw;
-        top: 6.7%;
-        bottom: 0;
-    }
-}
-
-@media only screen and (max-width: 1286px) {
-    nav.navbar.navbar-expand-lg.navbar-light.d-flex.justify-content-between {
-        padding: 1px 2px;
-    }
-    #menuToggle {
-        float: left;
-        left: 0;
-        margin-bottom: 20px;
-    }
-    .mapboxgl-popup-content {
-        width: 192px;
-    }
-    .subtitle.ml-8 {
-        width: 100%;
-        display: block !important;
-        padding-left: 100px;
-        margin-bottom: 0px;
-        text-align: center !important;
-    }
-    .subtitle.ml-8 h1 {
-        font-size: 45px !important;
-        line-height: normal !important;
-        padding: 0px;
-    }
-    form#searchForm {
-        width: 19%;
-    }
-    input#search {
-        width: 231px!important;
-        padding: 6px;
-        border-radius: 5px;
-    }
-    .input-group {
-        position: relative;
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-        -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-        -webkit-box-align: stretch;
-        -ms-flex-align: stretch;
-        align-items: stretch;
-        width: 60% !important;
-    }
-    a.instagram_sec {
-        width: 5%;
-        margin-left: 0px;
-    }
-    .sidebar {
-        position: absolute;
-        width: 0;
-        height: 87%;
-        top: 9%;
-        left: 0;
-        overflow: hidden;
-        border-right: 1px solid rgba(0, 0, 0, 0.25);
-        transition: all 0.5s;
-    }
-    .sidebar .closebtn {
-        color: #fff !important;
-    }
-    .map {
-        position: absolute;
-        left: 0;
-        width: 100vw;
-        top: 6.7%;
+        top: 8.4%;
         bottom: 0;
     }
 }
@@ -647,12 +577,20 @@ a.instagram_sec {
         line-height: normal !important;
         padding: 0px;
     }
+    .ui-autocomplete {
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        overflow: hidden;
+        max-height: 70%;
+        background: rgba(27, 32, 164, 0.541);
+        margin-right: 90px!important;
+    }
     form#searchForm {
         width: 20%;
     }
     input#search {
         width: 135px!important;
-        padding: 6px;
+        padding: 1px;
         border-radius: 5px;
     }
     .input-group {
@@ -665,7 +603,7 @@ a.instagram_sec {
         -webkit-box-align: stretch;
         -ms-flex-align: stretch;
         align-items: stretch;
-        width: 60% !important;
+        width: 90% !important;
     }
     a.instagram_sec {
         width: 5%;
@@ -675,62 +613,26 @@ a.instagram_sec {
         position: absolute;
         width: 0;
         height: 87%;
-        top: 5%;
+        top: 7.8%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
         transition: all 0.5s;
     }
     .sidebar .closebtn {
-        color: #fff !important;
+        position: absolute;
+        top: 0px;
+        right: 7px;
+        font-size: 30px;
+        text-decoration: none;
+        color: red !important;
     }
     .map {
         position: absolute;
         left: 0;
         width: 100vw;
-        top: 4.7%;
+        top: 7.8%;
         bottom: 0;
-    }
-}
-
-@media only screen and (max-width: 954px) {
-    #menuToggle {
-        float: left;
-        left: 0;
-        margin-bottom: 0px;
-    }
-    input#search {
-        width: 135px!important;
-        padding: 3px;
-        border-radius: 5px;
-    }
-    a.instagram_sec {
-        width: 5%;
-        margin-left: 12px;
-    }
-}
-
-@media only screen and (max-width: 858px) {
-    #menuToggle {
-        float: left;
-        left: 0;
-        margin-bottom: 0px;
-    }
-    .subtitle.ml-8 {
-        width: 70%;
-        display: block !important;
-        padding-left: 100px;
-        margin-bottom: 0px;
-        text-align: center !important;
-    }
-    input#search {
-        width: 135px!important;
-        padding: 3px;
-        border-radius: 5px;
-    }
-    a.instagram_sec {
-        width: 4%;
-        margin-left: -21px;
     }
 }
 
@@ -756,7 +658,7 @@ a.instagram_sec {
         position: absolute;
         width: 0;
         height: 87%;
-        top: 5%;
+        top: 6.7%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -775,7 +677,7 @@ a.instagram_sec {
         position: absolute;
         left: 0;
         width: 100vw;
-        top: 4.7%;
+        top: 6.7%;
         bottom: 0;
     }
 }
@@ -796,7 +698,7 @@ a.instagram_sec {
     .sidebar {
         position: absolute;
         height: 87%;
-        top: 6%;
+        top: 6.3%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -811,8 +713,23 @@ a.instagram_sec {
         top: 6.3%;
         bottom: 0;
     }
-    .sidebar .closebtn {
-        color: red !important;
+    .listings .item .details a {
+        color: #eeeeef;
+        background: #181f2d;
+        padding: 1px 2px 1px 2px;
+        display: inline-block;
+        border-radius: 5px;
+        margin-top: 0px!important;
+        font-weight: 300;
+        text-decoration: none;
+        font-family: Avenir;
+    }
+    .listings .item {
+        display: block;
+        border-bottom: 2px solid #47c2b6;
+        padding: 9px;
+        text-align: center;
+        text-decoration: none;
     }
 }
 
@@ -839,19 +756,18 @@ a.instagram_sec {
     .sidebar {
         position: absolute;
         height: 87%;
-        top: 6%;
+        top: 6.3%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
         transition: all 0.5s;
     }
-    .sidebar .closebtn {
-        color: #fff !important;
-    }
-    .map {
-        position: absolute;
-        top: 6.3%;
-        bottom: 0;
+    .listings .item {
+        display: block;
+        border-bottom: 2px solid #47c2b6;
+        padding: 6px;
+        text-align: center;
+        text-decoration: none;
     }
 }
 
@@ -875,34 +791,88 @@ a.instagram_sec {
     form#searchForm {
         width: 35%;
     }
-    .sidebar {
-        position: absolute;
-        height: 87%;
-        top: 6%;
-        left: 0;
-        overflow: hidden;
-        border-right: 1px solid rgba(0, 0, 0, 0.25);
-        transition: all 0.5s;
-    }
-    .sidebar .closebtn {
-        color: #fff !important;
-    }
-    .map {
-        position: absolute;
-        top: 6.3%;
-        bottom: 0;
-    }
 }
 
 @media only screen and (max-width: 375px) {
     input#search {
         width: 119px!important;
-        padding: 3px;
+        padding: 1px;
         border-radius: 5px;
+        font-size: revert;
+    }
+    .sidebar {
+        position: absolute;
+        height: 90%;
+        left: 0;
+        top: 7.7%;
+        font-size: 0.7rem;
+        overflow: hidden;
+        border-right: 1px solid rgba(0, 0, 0, 0.25);
+        transition: all 0.5s;
+    }
+    .ui-autocomplete {
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        overflow: hidden;
+        max-height: 70%;
+        background: rgba(27, 32, 164, 0.541);
+        margin-right: 90px!important;
+    }
+    .listings .item {
+        display: block;
+        border-bottom: 2px solid #47c2b6;
+        padding: 1px;
+        text-align: center;
+        text-decoration: none;
+    }
+    .sidebar .closebtn {
+        position: absolute;
+        top: 0px;
+        right: 4px;
+        font-size: 20px;
+        text-decoration: none;
+        color: red !important;
+    }
+    .map {
+        position: absolute;
+        top: 7.6%;
+        bottom: 0;
     }
 }
 
 @media only screen and (max-width: 320px) {
+    input#search {
+        width: 119px!important;
+        padding: 3px;
+        border-radius: 5px;
+    }
+    .sidebar {
+        position: absolute;
+        height: 87%;
+        top: 9.5%;
+        left: 0;
+        font-size: 0.7rem;
+        overflow: hidden;
+        border-right: 1px solid rgba(0, 0, 0, 0.25);
+        transition: all 0.5s;
+    }
+    .ui-autocomplete {
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        overflow: hidden;
+        max-height: 70%;
+        background: rgba(27, 32, 164, 0.541);
+        margin-right: 90px!important;
+    }
+    form#searchForm {
+        width: 42%;
+    }
+    a.instagram_sec {
+        width: 10%;
+    }
+}
+
+@media only screen and (max-width: 280px) {
     input#search {
         width: 119px!important;
         padding: 3px;
@@ -915,5 +885,15 @@ a.instagram_sec {
     }
     form#searchForm {
         width: 42%;
+    }
+    .sidebar {
+        position: absolute;
+        height: 87%;
+        top: 8.3%;
+        left: 0;
+        font-size: 0.7rem;
+        overflow: hidden;
+        border-right: 1px solid rgba(0, 0, 0, 0.25);
+        transition: all 0.5s;
     }
 }
