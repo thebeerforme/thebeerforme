@@ -32,7 +32,7 @@ body {
     position: absolute;
     width: 0;
     height: 87%;
-    top: 11%;
+    top: 9.3%;
     left: 0;
     overflow: hidden;
     border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -162,7 +162,7 @@ input#search {
     position: absolute;
     left: 0;
     width: 100vw;
-    top: 11%;
+    top: 9.3%;
     bottom: 0;
 }
 
@@ -475,7 +475,7 @@ nav.navbar.navbar-expand-md.navbar-light.d-flex.justify-content-between {
 }
 
 nav.navbar.navbar-expand-lg.navbar-light.d-flex.justify-content-between {
-    padding: 18px 30px;
+    padding: 0px 30px;
 }
 
 a.instagram_sec {
@@ -806,7 +806,6 @@ a.instagram_sec {
         margin-bottom: 0px;
         text-align: center !important;
     }
-    
     .sidebar {
         position: absolute;
         height: 87%;
@@ -948,7 +947,6 @@ a.instagram_sec {
 }
 
 @media only screen and (max-width: 375px) {
-    
     input#search {
         width: 119px!important;
         padding: 3px;
