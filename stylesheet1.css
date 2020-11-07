@@ -32,7 +32,7 @@ body {
     position: absolute;
     width: 0;
     height: 87%;
-    top: 11.2%;
+    top: 11%;
     left: 0;
     overflow: hidden;
     border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -162,7 +162,7 @@ input#search {
     position: absolute;
     left: 0;
     width: 100vw;
-    top: 11.2%;
+    top: 11%;
     bottom: 0;
 }
 
@@ -322,7 +322,7 @@ a:hover {
 
 .mapboxgl-popup-content {
     font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
-    padding: 0;
+    */ padding: 0;
     width: 370px;
     font-size: 15px;
     font-family: cursive;
@@ -393,7 +393,7 @@ a:hover {
     overflow: hidden;
     max-height: 70%;
     background: rgba(27, 32, 164, 0.541);
-    margin-right: 90px!important;
+    margin-right: 20px!important;
 }
 
 .ui-autocomplete a {
@@ -475,7 +475,7 @@ nav.navbar.navbar-expand-md.navbar-light.d-flex.justify-content-between {
 }
 
 nav.navbar.navbar-expand-lg.navbar-light.d-flex.justify-content-between {
-    padding: 0px 30px;
+    padding: 18px 30px;
 }
 
 a.instagram_sec {
@@ -647,14 +647,6 @@ a.instagram_sec {
         line-height: normal !important;
         padding: 0px;
     }
-    .ui-autocomplete {
-        border: 1px solid #ccc;
-        border-radius: 3px;
-        overflow: hidden;
-        max-height: 70%;
-        background: rgba(27, 32, 164, 0.541);
-        margin-right: 90px!important;
-    }
     form#searchForm {
         width: 20%;
     }
@@ -690,12 +682,7 @@ a.instagram_sec {
         transition: all 0.5s;
     }
     .sidebar .closebtn {
-        position: absolute;
-        top: -14px;
-        right: 2px;
-        font-size: 30px;
-        text-decoration: none;
-        color: red !important;
+        color: #fff !important;
     }
     .map {
         position: absolute;
@@ -769,7 +756,7 @@ a.instagram_sec {
         position: absolute;
         width: 0;
         height: 87%;
-        top: 14%;
+        top: 5%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -788,7 +775,7 @@ a.instagram_sec {
         position: absolute;
         left: 0;
         width: 100vw;
-        top: 14%;
+        top: 4.7%;
         bottom: 0;
     }
 }
@@ -825,35 +812,7 @@ a.instagram_sec {
         bottom: 0;
     }
     .sidebar .closebtn {
-        position: absolute;
-        top: -14px;
-        right: 2px;
-        font-size: 30px;
-        text-decoration: none;
         color: red !important;
-    }
-    .listings .item {
-        display: block;
-        border-bottom: 2px solid #47c2b6;
-        padding: 7px;
-        text-decoration: none;
-    }
-    .listings .item .details a {
-        color: #eeeeef;
-        background: #181f2d;
-        padding: 1px 2px 1px 2px;
-        display: inline-block;
-        border-radius: 5px;
-        margin-top: 0px!important;
-        font-weight: 300;
-        text-decoration: none;
-        font-family: Avenir;
-    }
-    .listings .item {
-        display: block;
-        border-bottom: 2px solid #47c2b6;
-        padding: 4px;
-        text-decoration: none;
     }
 }
 
@@ -880,19 +839,14 @@ a.instagram_sec {
     .sidebar {
         position: absolute;
         height: 87%;
-        top: 7%;
+        top: 6%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
         transition: all 0.5s;
     }
     .sidebar .closebtn {
-        position: absolute;
-        top: -14px;
-        right: 2px;
-        font-size: 30px;
-        text-decoration: none;
-        color: red !important;
+        color: #fff !important;
     }
     .map {
         position: absolute;
@@ -924,24 +878,18 @@ a.instagram_sec {
     .sidebar {
         position: absolute;
         height: 87%;
-        top: 8.7%;
+        top: 6%;
         left: 0;
-        font-size: 0.8rem;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
         transition: all 0.5s;
     }
     .sidebar .closebtn {
-        position: absolute;
-        top: -14px;
-        right: 2px;
-        font-size: 30px;
-        text-decoration: none;
-        color: red !important;
+        color: #fff !important;
     }
     .map {
         position: absolute;
-        top: 10%;
+        top: 6.3%;
         bottom: 0;
     }
 }
@@ -952,64 +900,9 @@ a.instagram_sec {
         padding: 3px;
         border-radius: 5px;
     }
-    .sidebar {
-        position: absolute;
-        height: 87%;
-        top: 9.5%;
-        left: 0;
-        font-size: 0.7rem;
-        overflow: hidden;
-        border-right: 1px solid rgba(0, 0, 0, 0.25);
-        transition: all 0.5s;
-    }
-    .ui-autocomplete {
-        border: 1px solid #ccc;
-        border-radius: 3px;
-        overflow: hidden;
-        max-height: 70%;
-        background: rgba(27, 32, 164, 0.541);
-        margin-right: 90px!important;
-    }
-    .map {
-        position: absolute;
-        top: 9.5%;
-        bottom: 0;
-    }
 }
 
 @media only screen and (max-width: 320px) {
-    input#search {
-        width: 119px!important;
-        padding: 3px;
-        border-radius: 5px;
-    }
-    .sidebar {
-        position: absolute;
-        height: 87%;
-        top: 9.5%;
-        left: 0;
-        font-size: 0.7rem;
-        overflow: hidden;
-        border-right: 1px solid rgba(0, 0, 0, 0.25);
-        transition: all 0.5s;
-    }
-    .ui-autocomplete {
-        border: 1px solid #ccc;
-        border-radius: 3px;
-        overflow: hidden;
-        max-height: 70%;
-        background: rgba(27, 32, 164, 0.541);
-        margin-right: 90px!important;
-    }
-    form#searchForm {
-        width: 42%;
-    }
-    a.instagram_sec {
-        width: 10%;
-    }
-}
-
-@media only screen and (max-width: 280px) {
     input#search {
         width: 119px!important;
         padding: 3px;
@@ -1022,15 +915,5 @@ a.instagram_sec {
     }
     form#searchForm {
         width: 42%;
-    }
-    .sidebar {
-        position: absolute;
-        height: 87%;
-        top: 8.3%;
-        left: 0;
-        font-size: 0.7rem;
-        overflow: hidden;
-        border-right: 1px solid rgba(0, 0, 0, 0.25);
-        transition: all 0.5s;
     }
 }
