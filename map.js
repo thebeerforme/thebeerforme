@@ -2,7 +2,7 @@ var closedBar = true;
 
 function openNav() {
     if (closedBar == true) {
-        document.getElementById("sidebar").style.width = "17.3%";
+        document.getElementById("sidebar").style.width = "7.3%";
         document.getElementById("map").style.left = "17.3%";
         document.getElementById("map").style.width = "82.6%";
         closedBar = false;
@@ -447,4 +447,3 @@ function compareValues(key, order = 'asc') {
         );
     };
 }
-
