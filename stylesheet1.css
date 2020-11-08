@@ -391,9 +391,9 @@ a:hover {
     border: 1px solid #ccc;
     border-radius: 3px;
     overflow: hidden;
-    max-height: 70%;
+    max-height: 40% !important;
     background: rgba(27, 32, 164, 0.541);
-    margin-right: 90px!important;
+    margin-right: 30px!important;
 }
 
 .ui-autocomplete a {
@@ -583,7 +583,7 @@ a.instagram_sec {
         overflow: hidden;
         max-height: 70%;
         background: rgba(27, 32, 164, 0.541);
-        margin-right: 90px!important;
+        margin-right: 70px!important;
     }
     form#searchForm {
         width: 20%;

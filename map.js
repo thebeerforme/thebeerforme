@@ -251,7 +251,7 @@ function createMap(data, names) {
     $("#search").autocomplete({
         source: names,
         autoFocus: true,
-        minLength: 2,
+        minLength: 1,
         delay: 500
     });
     $("#search").on("autocompleteselect", searchComplete);

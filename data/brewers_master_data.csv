@@ -1,10 +1,10 @@
 company,address,city,state,zip_code,lat,lon,website
-aaaaBrew STX,55 Kings Alley,Christiansted,VI,00820,17.734211,-64.734694,www.brewstx.com
-Zurc Brauhaus,Baldoriojy 44,Coamo,PR,00769,18.095992,-66.35081,
-Frenchtown Brewing Company,24A Honduras,Charlotte Amalie,VI,00802,18.322285,-64.963715,www.frenchtownbrewing.com
+Brew STX,55 Kings Alley,Christiansted,VI,820,17.734211,-64.734694,www.brewstx.com
+Zurc Brauhaus,Baldoriojy 44,Coamo,PR,769,18.095992,-66.35081,
+Frenchtown Brewing Company,24A Honduras,Charlotte Amalie,VI,802,18.322285,-64.963715,www.frenchtownbrewing.com
 St John Brewers,5000 Estate Enighed # 289,St John,VI,00830-6120,18.32816,-64.740737,www.stjohnbrewers.com
-Old Harbor Brewery,1 M Riveria Ferrer,Guiynavo,PR,00968,18.406077,-66.101223,
-Ocean Lab Brewing,Balneario De Carolina Road PR187 KM 2.6,Carolina,PR,00979,18.444389,-66.030129,www.oceanlabbrewing.com
+Old Harbor Brewery,1 M Riveria Ferrer,Guiynavo,PR,968,18.406077,-66.101223,
+Ocean Lab Brewing,Balneario De Carolina Road PR187 KM 2.6,Carolina,PR,979,18.444389,-66.030129,www.oceanlabbrewing.com
 Kona Brewing Co,74-5612 Pawai Pl,Kailua Kona,HI,96740-1617,19.643459,-156.00019,www.konabrewingco.com
 Ola Brew Co.,74-5598 Luhia St Ste A,Kailua Kona,HI,96740-3151,19.646648,-155.997879,www.olabrewco.com
 Hawaii Nui Brewing,275 E Kawili St,Hilo,HI,96720-5074,19.705941,-155.069946,www.hawaiinuibrewing.com
@@ -3027,7 +3027,7 @@ Grafton Winery & Brewhaus,300 W Main St,Grafton,IL,62037-1124,38.970174,-90.4394
 Free State Brewing Co,636 Massachusetts St,Lawrence,KS,66044-2236,38.971769,-95.235654,www.freestatebrewing.com
 Black Stag Brewery,623 Massachusetts St,Lawrence,KS,66044,38.972222,-95.236201,www.blackstagbrew.com
 Tuppers Hop Pocket Ale,6404 Redwing Rd,Bethesda,MD,20817-5920,38.973471,-77.12725,www.tuppersbeers.com
-Gusto Brewing Company,3860 Bayshore Rd,North Cape May,NJ,08204,38.974359,-74.943579,www.gustobrewco.com
+Gusto Brewing Company,3860 Bayshore Rd,North Cape May,NJ,8204,38.974359,-74.943579,www.gustobrewco.com
 Cult Classic Brewing,1169 Shopping Center Rd,Stevensville,MD,21666-4051,38.975845,-76.297928,www.cultclassicbrewing.com
 Kelsey Creek Brewing,3945 Main St,Kelseyville,CA,95451-7424,38.977582,-122.838505,www.kelseycreekbrewing.com
 Cold Spring Brewery,733 Seashore Rd,Cape May,NJ,08204-4634,38.978025,-74.913411,www.hcsv.org
@@ -3036,7 +3036,7 @@ Gordon Biersch Brewery Restaurant - Annapolis,1906 Towne Centre Blvd Ste 155,Ann
 Chateau De Pique Winery & Brewery,6361 N County Road 760 E,Seymour,IN,47274-8936,38.982578,-85.898248,www.chateaudepique.com
 Lost Rhino Retreat,22885 Brambleton Plaza,Ashburn,VA,20148,38.984045,-77.537154,
 Twinpanzee Brewing Company,101 Executive Dr Ste D,Sterling,VA,20166-9557,38.984477,-77.444605,www.twinpanzee.com
-Mudhen Brewing Company,127 W Rio Grande Ave,Wildwood,NJ,08260,38.984762,-74.825092,
+Mudhen Brewing Company,127 W Rio Grande Ave,Wildwood,NJ,8260,38.984762,-74.825092,
 Brew Lab,7925 Marty St,Overland Park,KS,66204-3727,38.985192,-94.669663,www.brewlabkc.com
 Quattro Goombas Brewery,22860 James Monroe Hwy,Aldie,VA,20105-1916,38.985428,-77.616799,www.goombabrewery.com
 Kansas City Bier Company,310 W 79th St,Kansas City,MO,64114-1843,38.985469,-94.593652,www.kcbier.com
@@ -3053,7 +3053,7 @@ Backroom Brewery,150 Ridgemont Rd,Middletown,VA,22645-3817,38.996235,-78.219503,
 Black Forest Brewing Company,11590 Black Forest Rd Ste 50,Colorado Springs,CO,80908-6000,38.999967,-104.701251,www.blackforestbrewco.com
 Blind Tiger Brewery & Restaurant,417 SW 37th St,Topeka,KS,66611-2354,39.000325,-95.684794,www.blindtiger.com
 Cape May Brewing Company,409 Breakwater Rd,Cape May,NJ,08204-4537,39.000619,-74.913224,www.capemaybrewery.com
-Cape May Brewing Company - Rio Grande,409 Breakwater Road,Cape May,NJ,08204,39.000619,-74.913224,www.capemaybrewery.com
+Cape May Brewing Company - Rio Grande,409 Breakwater Road,Cape May,NJ,8204,39.000619,-74.913224,www.capemaybrewery.com
 Arcadian Moon,19203 Old Highway 40,Higginsville,MO,64037,39.001289,-93.767525,www.arcadianmoon.com
 Anderson Valley Brewing Co,17700 CA-253,Boonville,CA,95415,39.001383,-123.356013,www.avbc.com
 Crane Brewing Company,6515 Railroad St,Raytown,MO,64133-5210,39.004638,-94.462348,www.cranebrewing.com
@@ -3066,7 +3066,7 @@ Barrister's Brewing Inc.,2822 SW Arrowhead Rd.,Topeka,KS,66614,39.015436,-95.752
 Chesepiooc Real Ale Brewery,2408 Crofton Blvd,Crofton,MD,21114,39.015716,-76.698572,www.brewcrab.com
 Lost Rhino Brewing Co,21730 Red Rum Dr Ste 142,Ashburn,VA,20147-5870,39.016058,-77.475601,www.lostrhino.com
 East Forty Brewing,1201 W Main St,Blue Springs,MO,64015-3613,39.018658,-94.279264,www.eastfortybrewing.com
-7 Mile Brewery,3156 Route 9 South Ste 1-2,Rio Grande,NJ,08242,39.018757,-74.866115,www.7milebrew.com
+7 Mile Brewery,3156 Route 9 South Ste 1-2,Rio Grande,NJ,8242,39.018757,-74.866115,www.7milebrew.com
 Transport Brewery,11113 Johnson Dr,Shawnee,KS,66203-2749,39.022671,-94.715184,www.transportbrewery.com
 Servaes Brewing Company,10921 Johnson Dr,Shawnee,KS,66203-2829,39.022788,-94.713284,www.servaesbrewco.com
 Old Ox Brewery LLC,44652 Guilford Dr Ste 114,Ashburn,VA,20147-6006,39.023919,-77.455198,www.oldoxbrewery.com
@@ -3080,7 +3080,7 @@ O'Meara Bros. Brewing Company,901 Bevins St,Lakeport,CA,95453-8778,39.04017,-122
 Apex Aleworks,4356 Noland Rd,Independence,MO,64055-4741,39.040792,-94.416668,www.apexaleworks.com
 Bull and Goat Brewery,204 Banjo Ln,Centreville,MD,21617-1067,39.044922,-76.06254,www.bullandgoatbrewery.com
 Bardwell Winery and Brewery,716 N High St,Mount Orab,OH,45154,39.046522,-83.92205,www.bardwellwinery.com
-Coho Brewing Co,28 Indian Trail Rd Ste 103,Cape May Court House,NJ,08210,39.048638,-74.8529,www.cohobrewingco.com
+Coho Brewing Co,28 Indian Trail Rd Ste 103,Cape May Court House,NJ,8210,39.048638,-74.8529,www.cohobrewingco.com
 Sutter Buttes Brewing,421 Center St,Yuba City,CA,95991-4505,39.048854,-121.612481,www.sutterbuttesbrewing.com
 Iron Rail Brewing,705 S Kansas Ave,Topeka,KS,66603,39.050099,-95.674499,www.ironrailbrewing.com
 Sixth Sense Brewing Company,175 Main St.,Jackson,OH,45640,39.053186,-82.638658,www.sixthsensebrewing.com
@@ -3151,7 +3151,7 @@ Big Rip Brewing Company,216 E 9th Ave,North Kansas City,MO,64116-4315,39.126106,
 13 Below Brewery,7391 Forbes Rd,Cincinnati,OH,45233-1013,39.126631,-84.707042,www.13belowbrewery.com
 The Woodburn Brewery,2800 Woodburn Ave,Cincinnati,OH,45206-1793,39.12895,-84.476928,www.woodburnbrewery.com
 Stumptown Ales,390 William Ave,Davis,WV,26260,39.129085,-79.46478,www.stumptownales.com
-Avalon Brew Pub,125 79th St,Avalon,NJ,08202,39.130851,-74.70994,www.avalonbrewpub.com
+Avalon Brew Pub,125 79th St,Avalon,NJ,8202,39.130851,-74.70994,www.avalonbrewpub.com
 5770 Brewery,303A W Main St,Teutopolis,IL,62467-1355,39.13123,-88.477515,www.5770brewery.com
 Callsign Brewing,1447 Gentry St,Kansas City,MO,64116,39.135475,-94.573718,www.callsignbrewing.com
 Dragon Hops Brewing,130 E Main St,Purcellville,VA,20132-3162,39.136353,-77.713556,www.dragonhopsbrewing.com
@@ -3347,7 +3347,7 @@ Breckenridge Brewery & Pub,600 S Main St,Breckenridge,CO,80424-0075,39.476264,-1
 Shale Creek Brewing,178 W Jefferson St,Franklin,IN,46131,39.480556,-86.058465,www.shalecreekbrewing.com
 The Rambling Root,101 Fairmont Ave,Fairmont,WV,26554,39.482139,-80.146796,www.theramblingroot.com
 B.C. Brewery,10950 Gilroy Rd Ste F,Hunt Valley,MD,21031-1327,39.482799,-76.66188,www.bcbrewerymd.com
-Brinx Jones Brewery,613 E Landis Ave,Vineland,NJ,08360,39.485651,-75.022738,www.brinxjones.com
+Brinx Jones Brewery,613 E Landis Ave,Vineland,NJ,8360,39.485651,-75.022738,www.brinxjones.com
 Welcome Home Brewery,19523 Hess Rd Ste 103,Parker,CO,80134,39.494379,-104.763203,facebook.com/welcomehomebrewery
 Great Basin Brewing Co - Production Facility,1155 S Rock Blvd Ste 490,Reno,NV,89502-7174,39.494526,-119.748902,www.greatbasinbrewingco.com
 Silver Peak Restaurant and Brewery,124 Wonder St,Reno,NV,89502-2424,39.51377,-119.805959,www.silverpeakbrewery.com
@@ -3471,13 +3471,13 @@ Declaration Brewing Company,2030 S Cherokee St,Denver,CO,80223-3917,39.679757,-1
 Great Frontier Brewing Company,2010 S Oak St,Lakewood,CO,80227-2050,39.681367,-105.117717,www.greatfrontierbeer.com
 Platt Park Brewing Co.,1875 S Pearl St,Denver,CO,80210-3136,39.682633,-104.980609,www.plattparkbrewing.com
 Devil Wind Brewing LLC,130 S Detroit St,Xenia,OH,45385,39.683158,-83.929281,www.devilwindbrewing.com
-13th Child Brewery,345 S Main St,Williamstown,NJ,08094,39.683258,-74.991847,www.13thchildbrewery.com
+13th Child Brewery,345 S Main St,Williamstown,NJ,8094,39.683258,-74.991847,www.13thchildbrewery.com
 Shaggy Ass Brewery / TJ Haase Winery,708 E 3rd St,Clinton,IN,47842,39.683294,-87.41317,www.tjhaasewinery.com
 Iron Hill Brewery & Restaurant - Newark,147 East Main St,Newark,DE,19711-7313,39.683419,-75.746708,www.ironhillbrewery.com
 Grandma's House,1710 S Broadway,Denver,CO,80210-3102,39.685465,-104.987172,www.grandmasbeer.com
 Two Bald Guys Beverage Co,18090 Hazelnut Dr,Reno,NV,89508-6898,39.687372,-119.963414,www.drinktwobaldguys.com
 Alternation Brewing Company,1539 S Broadway,Denver,CO,80210-2607,39.688661,-104.987898,https://www.facebook.com/alternationbrewingcompany/
-ManaFirkin,450 East Bay Ave Ste 2,Manahawkin,NJ,08050,39.688734,-74.244043,
+ManaFirkin,450 East Bay Ave Ste 2,Manahawkin,NJ,8050,39.688734,-74.244043,
 Copper Kettle Brewing Company,1338 S Valentia St Ste 100,Denver,CO,80247-2167,39.692469,-104.890485,www.copperkettledenver.com
 Black Project Spontaneous & Wild Ales,1290 S Broadway,Denver,CO,80210-1504,39.69338,-104.987203,www.blackprojectbeer.com
 Dos Luces Brewery,1236 S Broadway,Denver,CO,80210-1504,39.694047,-104.98707,www.dosluces.com
@@ -3488,7 +3488,7 @@ Chain Reaction Brewing Company,902 S Lipan St,Denver,CO,80223-2717,39.699631,-10
 Launch Pad Brewery,884 S Buckley Rd,Aurora,CO,80017-3174,39.700681,-104.789766,www.launchpadbrewery.com
 1812 Brewery,13006 Mason Road,Cumberland,MD,21502,39.701814,-78.698228,1812brewery.com
 Eudora Brewing Co,3022 Wilmington Pike,Dayton,OH,45429,39.702324,-84.141127,www.eudorabrewing.com
-Axe And Arrow Brewery,105 W High St.,Glassboro,NJ,08028,39.703171,-75.113025,
+Axe And Arrow Brewery,105 W High St.,Glassboro,NJ,8028,39.703171,-75.113025,
 Bull & Bush Brewery,4700 E Cherry Creek South Dr,Denver,CO,80246-1819,39.703244,-104.932506,www.bullandbush.com
 Over Yonder Brewing Company,18455 W Colfax Ave,Golden,CO,80401,39.703417,-105.205169,www.overyonderbrewing.com
 Brew Link Brewing,212 E. Main,Plainfield,IN,46168-9659,39.703877,-86.400723,www.brewlinkbrewing.com
@@ -3496,7 +3496,7 @@ Brew Link Brewing,212 E. Main,Plainfield,IN,46168-9659,39.703877,-86.400723,www.
 Argilla Brewing Co @ Pietro's Pizza,2667 Kirkwood Hwy,Newark,DE,19711-7242,39.706134,-75.685278,www.argillabrewing.com
 Mark Twain Brewing Company,422 N Main St,Hannibal,MO,63401-3324,39.712315,-91.357399,www.marktwainbrewery.com
 Double Edge Brewing Co,158 W Chestnut St,Lancaster,OH,43130-4308,39.712394,-82.604217,www.double-edge.beer
-Bonesaw Brewing Co.,570 Mullica Hill Road,Glassboro,NJ,08028,39.713005,-75.134672,www.bonesawbrewing.com
+Bonesaw Brewing Co.,570 Mullica Hill Road,Glassboro,NJ,8028,39.713005,-75.134672,www.bonesawbrewing.com
 Eckert Malting and Brewing Co,2280 Ivy St Ste 130,Chico,CA,95928-8000,39.713143,-121.823589,www.eckertmaltingandbrewing.com
 Twin Lakes Brewing Co,405 Marsh Ln Ste 7,Wilmington,DE,19804-2445,39.714355,-75.594407,www.twinlakesbrewingcompany.com
 "Secret Trail Brewing Company, LLC",132 Meyers St Ste 120,Chico,CA,95928-8002,39.714489,-121.817395,www.secrettrailbrewing.com
@@ -3530,7 +3530,7 @@ Garfield Brewery,2310 Shelby St,Indianapolis,IN,46203,39.735347,-86.14002,www.ga
 Pints Pub Brewery and Freehouse,221 W 13th Ave,Denver,CO,80204-2711,39.736969,-104.990845,www.pintspub.com
 Strange Craft Beer Co,1330 Zuni St Ste M,Denver,CO,80204-2328,39.737229,-105.015268,www.strangecraft.com
 Wit's End Brewing Co,1330 Zuni St Ste N,Denver,CO,80204-2328,39.737229,-105.015268,www.witsendbrewing.com
-Neck of the Woods Brewing Company,614 Lambs Road Suite 7,Pitman,NJ,08071,39.739443,-75.145352,
+Neck of the Woods Brewing Company,614 Lambs Road Suite 7,Pitman,NJ,8071,39.739443,-75.145352,
 Cerebral Brewing,1477 Monroe St,Denver,CO,80206-2708,39.739857,-104.94522,www.cerebralbrewing.com
 Seedstock Brewery,3600 W Colfax Ave,Denver,CO,80204-1513,39.740064,-105.034835,www.seedstockbrewery.com
 Alpine Dog Brewing Co,1505 N Ogden St,Denver,CO,80218-1405,39.740311,-104.974905,www.alpinedogbrewery.com
@@ -3636,7 +3636,7 @@ Hollow Earth Brewing Co,19 N 3rd St,Oxford,PA,19363-1423,39.78577,-75.978364,www
 Wooden Bear Brewing Co,21 W North St,Greenfield,IN,46140-2171,39.785938,-85.770089,www.woodenbearbrewing.com
 Daredevil Brewing Company,1151 N Main St,Indianapolis,IN,46224-6976,39.78653,-86.240909,www.daredevilbeer.com
 Goldspot Brewing Co,4970 Lowell Blvd,Denver,CO,80221-1028,39.786922,-105.034424,www.goldspotbrewing.com
-Brotherton Brewing Company,340 Forked Neck Rd,Shamong,NJ,08088,39.788844,-74.723494,www.brothertonbrewing.com
+Brotherton Brewing Company,340 Forked Neck Rd,Shamong,NJ,8088,39.788844,-74.723494,www.brothertonbrewing.com
 Miscreation Brewing Company,6 Center Sq,Hanover,PA,17331-3001,39.78969,-76.977984,www.miscreationbrewing.com
 Cannon Ball Brewing Company,1702 Bellefontaine St,Indianapolis,IN,46202-1813,39.790444,-86.142791,www.cannonballbrewingindy.com
 Aldus Brewing Company,555 Centennial Ave,Hanover,PA,17331-3936,39.790512,-76.977209,www.aldusbrewing.com
@@ -3644,7 +3644,7 @@ SomePlace Else Brewery,6425 W 52nd Ave Unit 6/6B,Arvada,CO,80002-4008,39.791383,
 Obed & Isaac's,500 S 6th St,Springfield,IL,62701-1810,39.797354,-89.647987,www.connhospitalitygroup.com
 New Image Brewing Co,5622 Yukon St,Arvada,CO,80002-2446,39.799645,-105.082398,www.nibrewing.com
 Dostal Alley Brewing Co,116 Main St,Central City,CO,80427,39.80015,-105.512436,www.dostalalley.net
-Oyster Creek Brewing Company,529 Route 9 Unit 5,Waretown,NJ,08758,39.800412,-74.19867,www.oystercreekbrewing.com
+Oyster Creek Brewing Company,529 Route 9 Unit 5,Waretown,NJ,8758,39.800412,-74.19867,www.oystercreekbrewing.com
 Buzz Bomb Brewing Co,406 E Adams St,Springfield,IL,62701,39.800462,-89.650665,www.buzzbombbrewingco.com
 Odyssey Beerwerks,5535 W 56th Ave Ste 107,Arvada,CO,80002-2806,39.80086,-105.058956,www.odysseybeerwerks.com
 Something Wicked Brewing Company,34 Broadway Ste 200,Hanover,PA,17331-3104,39.801184,-76.983097,www.somethingwickedbrewing.com
@@ -3686,7 +3686,7 @@ Tom's Urban Kitchen and Brewery,8300 Pena Blvd,Denver,CO,80249-6310,39.847478,-1
 "BrewDog Brewing Company, LLC",96 Gender Rd,Canal Winchester,OH,43110-7539,39.847898,-82.828303,www.brewdog.com/usa
 Iron Hill Brewery & Restaurant - Voorhees,13107 Town Center Blvd,Voorhees,NJ,08043-2668,39.848539,-74.953498,www.ironhillbrewery.com
 Liter House,5301 Winthrop Ave,Indianapolis,IN,46220,39.849323,-86.141314,
-Eight & Sand Beer Co,1003 N Evergreen Ave,Woodbury,NJ,08096,39.849478,-75.142413,www.eightandsandbeer.com
+Eight & Sand Beer Co,1003 N Evergreen Ave,Woodbury,NJ,8096,39.849478,-75.142413,www.eightandsandbeer.com
 Twenty Below Brewing @ Twenty Tap,5406 N College Ave,Indianapolis,IN,46220-3126,39.85129,-86.146042,www.twentytap.com
 Flying Fish Brewing Co,900 Kennedy Blvd,Somerdale,NJ,08083-1031,39.853953,-75.020319,www.flyingfish.com
 Aston Abbey Brewing Co,340 Turner Industrial Way,Aston,PA,19014-3014,39.85633,-75.422745,www.astonabbeybrewing.com
@@ -3695,14 +3695,14 @@ Triton Brewing Company,5764 Wheeler Rd,Indianapolis,IN,46216-1038,39.860193,-86.
 2SP Brewing Company,120 Concord Rd,Aston,PA,19014-2909,39.862267,-75.414404,www.2spbrewing.com
 McKenzie Brew House,451 Wilmington Pike - W Chester Pike,Glen Mills,PA,19342-1249,39.86563,-75.544142,www.mckenziebrewhouse.com
 Blind Owl Brewery,5014 E 62nd St,Indianapolis,IN,46220-5228,39.868822,-86.085132,www.blindowlbrewery.com
-Westville Brewery,201 Broadway,Westville,NJ,08093,39.870454,-75.126566,www.westvillebrewery.com
+Westville Brewery,201 Broadway,Westville,NJ,8093,39.870454,-75.126566,www.westvillebrewery.com
 Brugge Brasserie,1011A E Westfield Blvd,Indianapolis,IN,0,39.87054,-86.141215,www.bruggebrasserie.com
 Rolling Meadows Farm Brewery,3954 Central Point Rd,Cantrall,IL,62625-8803,39.872964,-89.730695,www.rollingmeadowsbrewery.com
 Broad Ripple Brewing Co,842 E 65th St,Indianapolis,IN,46220-1674,39.873621,-86.143425,
 Pinups & Pints,10963 Lower Valley Pike,Medway,OH,45341-9706,39.875352,-84.021381,www.pinupsandpints.com
 Bier Brewery and Taproom,5133 E 65th St,Indianapolis,IN,46220-4816,39.875519,-86.082854,www.bierbrewery.com
 "Golden Fox Brewing, LLC",2874 N. Dinneen Street,Decatur,IL,62526,39.876064,-88.931728,www.GoldenFoxBrewing.com
-Lunacy Brewing Company,1500 Kings Hwy,Haddon Heights,NJ,08035,39.881464,-75.078447,www.lunacybrewingcompany.com
+Lunacy Brewing Company,1500 Kings Hwy,Haddon Heights,NJ,8035,39.881464,-75.078447,www.lunacybrewingcompany.com
 Gemini Beer Company,10210 King St,Westminster,CO,80031,39.881736,-105.032504,www.geminibeer.com
 Wyndridge Farm Brewing,885 S Pleasant Ave,Dallastown,PA,17313-9650,39.882885,-76.647602,www.wyndridge.com
 Grove City Brewing Company,3946 Broadway,Grove City,OH,43123-2623,39.883685,-83.091949,www.grovecitybrewingcompany.com
@@ -3714,7 +3714,7 @@ Westminster Brewing Co,7655 W 108th Ave Ste 600,Westminster,CO,80021-2805,39.893
 Scarlet Lane Brewing Company LLC,7724 Depot St,McCordsville,IN,46055-6173,39.894836,-85.924089,www.scarletlanebrew.com
 Center Square Brewing / Altland House,1 Center Sq,Abbottstown,PA,17301-9502,39.896923,-76.994725,centersquarebrew.com
 Wabash Brewing,5328 W 79th St,Indianapolis,IN,46268-1631,39.896953,-86.253326,www.wabashbrew.com
-King's Road Brewing Company,127 Kings Highway East,Haddonfield,NJ,08033,39.897881,-75.032823,www.kingsroadbrewing.com
+King's Road Brewing Company,127 Kings Highway East,Haddonfield,NJ,8033,39.897881,-75.032823,www.kingsroadbrewing.com
 Periodic Brewing Northglenn,2100 E 112th Ave,Northglenn,CO,80233-2345,39.898817,-104.963356,
 Lower Forge Brewery,14 S Main St,Medford,NJ,08055-2414,39.899115,-74.823668,www.lowerforge.com
 Nale House Brewing Co,32 N Main St,Medford,NJ,08055-2412,39.900694,-74.82366,www.nalehousebrewing.com
@@ -3752,7 +3752,7 @@ Weasel Boy Brewing Co LLC,126 Muskingum Ave Unit E,Zanesville,OH,43701-4921,39.9
 Sterling Pig Brewery,609 W State St,Media,PA,19063-2641,39.936632,-75.373796,www.sterlingpigbrewery.com
 Quintopia Brewing Co,541 Main St,Quincy,CA,95971-9129,39.936861,-120.94868,www.quintopiabrewing.com
 Roy Pitz Brewing Co,140 N 3rd St,Chambersburg,PA,17201-1684,39.93884,-77.656525,www.roypitz.com
-Heavy Reel Brewing,613 Boulevard,Seaside Heights,NJ,08751,39.9417,-74.073962,www.heavyreelbrewingco.com
+Heavy Reel Brewing,613 Boulevard,Seaside Heights,NJ,8751,39.9417,-74.073962,www.heavyreelbrewingco.com
 GearHouse Brewing Company,253 Grant St,Chambersburg,PA,17201-1627,39.941867,-77.655952,www.gearhousebrewingco.com
 Iron Hill Brewery & Restaurant - Maple Shade,124 East King's Hwy,le Shade,NJ,08052-5405,39.94608,-74.975568,www.ironhillbrewery.com
 Fraser River Beer Company,218 Eisenhower Drive,Fraser,CO,80442,39.946528,-105.815629,www.fraserriverbeerco.com
@@ -3926,7 +3926,7 @@ Conshocken King of Prussia,3100 Horizon Dr Ste 150,King Of Prussia,PA,19406,40.0
 Iron Hill Brewery & Restaurant - Huntingdon Valley,785 Huntingdon Pike,Huntingdon Valley,PA,19006-8362,40.089463,-75.093505,www.ironhillbrewery.com
 Random Precision Brewing Company,2365 W Dublin Granville Rd,Columbus,OH,43235-2700,40.089878,-83.053472,www.randomprecisionbrewing.com
 Last Wave Brewing Co,601 Bay Ave,Point Pleasant Beach,NJ,08742-2536,40.09036,-74.052065,www.lastwavebrewing.com
-Last Wave Brewing Company,601 Bay Ave,Point Pleasant,NJ,08742,40.09036,-74.052065,www.lastwavebrewing.com
+Last Wave Brewing Company,601 Bay Ave,Point Pleasant,NJ,8742,40.09036,-74.052065,www.lastwavebrewing.com
 Workhorse Brewing Co,250 King Manor Dr,King Of Prussia,PA,19406,40.091066,-75.349968,www.workhorsebrewing.com
 Broken Goblet Brewing,2500 State Rd Suite D,Bensalem,PA,19020,40.091793,-74.887605,www.brokengoblet.com
 Riggs Beer Company,1901 S High Cross Rd,Urbana,IL,61802-7843,40.092744,-88.163453,www.riggsbeer.com
@@ -3950,7 +3950,7 @@ SchillingBridge Winery & Microbrewery,62193 710th Rd,Pawnee City,NE,68420-3584,4
 Lydian Stone Brewing Company,685 York Haven Road,York Haven,PA,17370,40.116068,-76.735672,
 Blind Pig Brewery,120 N Neil St,Champaign,IL,61820-4023,40.117152,-88.243309,www.blindpigbrewery.com
 DESTIHL - Champaign,301 N Neil St,Champaign,IL,61820-3163,40.118871,-88.243823,www.destihl.com
-Toms River Brewing,1 Trinity Pl,Jackson,NJ,08527,40.123369,-74.247462,www.rinnduinbrewing.com
+Toms River Brewing,1 Trinity Pl,Jackson,NJ,8527,40.123369,-74.247462,www.rinnduinbrewing.com
 Tumbleweed Brewing and Wine Company,124 S Main St,Yuma,CO,80759,40.124565,-102.72393,www.tumbleweedbrewing.com
 Bald Birds Brewing Company,970 Rittenhouse Road Suite 400,Audubon,PA,19403,40.126357,-75.416254,www.baldbirdsbrewing.com
 Temperance Row Brewing and Uptown Deli,41 N State St,Westerville,OH,43081-2123,40.126994,-82.93215,www.uptowndeliandbrew.com
@@ -4100,7 +4100,7 @@ Snitz Creek Brewery,7 N 9th St,Lebanon,PA,17046-4902,40.339484,-76.426801,www.sn
 Fury Brewing Company,13380 US-30,Irwin,PA,15642,40.342611,-79.760819,www.furybrewingcompany.com
 Free Will Brewing Company,410 E Walnut St Ste 10,Perkasie,PA,18944-1683,40.342856,-75.260248,www.freewillbrewing.com
 Spoonwood Brewing Company,5981 Baptist Rd,Pittsburgh,PA,15236-3303,40.345393,-80.014011,www.spoonwoodbrewing.com
-Red Tank Brewing,77 Monmouth St,Red Bank,NJ,07701,40.349216,-74.068673,www.redtankbrewing.com
+Red Tank Brewing,77 Monmouth St,Red Bank,NJ,7701,40.349216,-74.068673,www.redtankbrewing.com
 Triumph Brewing Co of Princeton,138 Nassau St Ste A,Princeton,NJ,08542-7011,40.350731,-74.658337,www.triumphbrew.com
 Birravino,183 Riverside Ave,Red Bank,NJ,07701-1015,40.353172,-74.074725,www.birravino.com
 Roundhouse Depot Brewing Co. Llc,217 W Chillicothe Ave,Bellefontaine,OH,43311,40.359761,-83.762832,roundhousedepotbrewing.com
@@ -4164,7 +4164,7 @@ Lost Way Brewery,614 3rd Ave,Holdrege,NE,68949-2701,40.436658,-99.372126,www.los
 Peoples Brewing Co,2006 N 9th Street Rd,Lafayette,IN,47904-1036,40.437217,-86.88599,www.peoplesbrew.com
 Mash Lab Brewing,4395 Highland Meadows Pkwy,Windsor,CO,80550,40.437906,-104.968282,www.mashlabbrewing.com
 Half Moon Restaurant & Brewery,4051 S Lafountain St,Kokomo,IN,46902-6913,40.438078,-86.127374,
-"Raritan Bay Brewing, LLC",32 Church Street,Keansburg,NJ,07734,40.441578,-74.131633,raritanbaybrewing.com
+"Raritan Bay Brewing, LLC",32 Church Street,Keansburg,NJ,7734,40.441578,-74.131633,raritanbaybrewing.com
 The Proper Brewing Company,117 W Broad St,Quakertown,PA,18951-1200,40.44186,-75.341528,www.theproperbrewing.com
 Southern Tier Brewing Co,316 N Shore Dr,Pittsburgh,PA,44115-1111,40.446347,-80.010342,www.stbcbeer.com
 Links Brewing Company,519 East General Robinson Street Ground Floor,Pittsburgh,PA,15212,40.449215,-79.998066,
@@ -4236,8 +4236,8 @@ Funk Brewing Company,19 S 6th St,Emmaus,PA,18049-3741,40.533336,-75.494331,www.f
 Yergey Brewing,518B Bank St,Emmaus,PA,18049-2008,40.533774,-75.493439,yergeybrewing.com
 Gilded Goat Brewing Company,3500 S College Ave Ste 194,Fort Collins,CO,80525-2639,40.539368,-105.07535,www.gildedgoatbrewing.com
 Leaning Cask Brewing Co,850 Pittsburgh St,Springdale,PA,15144-1623,40.541225,-79.778043,www.leaningcaskbrewing.com
-Brainy Borough Brewing,15 Station Place,Metuchen,NJ,08840,40.541351,-74.360414,
-Brooks Brewery / Northside Lounge,100 Brooks Blvd,Manville ,NJ,08835,40.545533,-74.588073,www.northsidelounge.com
+Brainy Borough Brewing,15 Station Place,Metuchen,NJ,8840,40.541351,-74.360414,
+Brooks Brewery / Northside Lounge,100 Brooks Blvd,Manville ,NJ,8835,40.545533,-74.588073,www.northsidelounge.com
 Main Sail Brewery / Atwood Yacht Club,2637 Lodge Rd SW,Sherrodsville,OH,44675-9719,40.547716,-81.241881,www.atwoodyachtclub.com
 Lake Rat Brewing,108 S Main St,Celina,OH,45822,40.548653,-84.570641,www.lakeratbrewing.com
 Maxline Brewing,2724 McClelland Dr Ste 190,Fort Collins,CO,80525-2575,40.549842,-105.079361,www.maxlinebrewing.com
@@ -4253,7 +4253,7 @@ Rally King Brewing,1624 S Lemay Ave Unit 4,Fort Collins,CO,80525-1188,40.565853,
 Wildcard Brewing Company,9565 Crossroads Dr,Redding,CA,96003-6814,40.565871,-122.297293,www.wildcardbrewingco.com
 Black Bottle Brewery,1611 S College Ave Ste STE1609,Fort Collins,CO,80525-1074,40.56627,-105.078351,www.blackbottlebrewery.com
 Descendants Brewing Company,61 Bridge St,Milford,NJ,08848-1264,40.568591,-75.095464,
-Village Brewing Company,34 W Main St,Somerville,NJ,08876,40.568607,-74.612764,www.villagebrewing.com
+Village Brewing Company,34 W Main St,Somerville,NJ,8876,40.568607,-74.612764,www.villagebrewing.com
 Demented Brewing Co.,600 Lincoln Blvd,Middlesex,NJ,08846-2443,40.570589,-74.49591,www.dementedbrewing.com
 McClellan's Brewing Company,1035 S Taft Hill Rd,Fort Collins,CO,80521-4222,40.57291,-105.115397,www.mcclellansbrewingcompany.com
 Coney Island Beer,1904 Surf Ave,Brooklyn,NY,11224-2410,40.574769,-73.984784,www.coneyislandbeer.com
@@ -4307,7 +4307,7 @@ Taylor House Brewing Co,76 Lehigh St,Catasauqua,PA,18032,40.647429,-75.467555,ww
 Five Boroughs Brewing Co,215 47th St,Brooklyn,NY,11220-1009,40.650487,-74.014492,www.fiveboroughs.com
 Bonsai Brew Works,1395 E Main St,Hegins,PA,17938,40.654566,-76.455207,
 Island To Island Brewery,642 Rogers Ave,Brooklyn,NY,11226-1502,40.655821,-73.953179,www.islandtoislandbrewery.com
-Yale Terrace Brewery,26 Eastman St,Cranford,NJ,07016,40.656075,-74.305725,www.ytbrewery.com
+Yale Terrace Brewery,26 Eastman St,Cranford,NJ,7016,40.656075,-74.305725,www.ytbrewery.com
 Wartega Brewing,33 35th St Unit 6A,Brooklyn,NY,11232-2210,40.657161,-74.00743,www.wartega.com
 Climax Brewing Co,112 Valley Rd,Roselle Park,NJ,07204-1402,40.659728,-74.282832,www.climaxbrewing.com
 Small Craft Brewing Co,66 Merrick Rd,Amityville,NY,11701-3463,40.671929,-73.4203,www.smallcraftbrewing.com
@@ -4319,7 +4319,7 @@ Short Bus Brew House,156 Wilt Rd,Mc Clure,PA,17841,40.676135,-77.449702,
 Strong Rope Brewery,574A President St,Brooklyn,NY,11215-1019,40.676912,-73.984081,www.strongropebrewery.com
 Soul Squared Brewing Co.,6421 N County Road 15,Fort Collins,CO,80524,40.677865,-105.070694,www.soulsquaredbrewing.com
 Folksbier,101 Luquer St # 103,Brooklyn,NY,11231-3308,40.678015,-74.001256,www.folksbier.com
-Two Ton Brewing,730 Federal Ave,Kenilworth,NJ,07033,40.678637,-74.286822,www.twotonbrewing.com
+Two Ton Brewing,730 Federal Ave,Kenilworth,NJ,7033,40.678637,-74.286822,www.twotonbrewing.com
 Amity Ales Brewpub and Eatery,192 Broadway `,Amityville,NY,11701,40.678786,-73.417655,www.amityales.com
 Threes Brewing,333 Douglass St,Brooklyn,NY,11217-3115,40.679626,-73.982272,www.threesbrewing.com
 Laxton Hollow Brewing Works,302 E Main St,Mansfield,OH,44904-1300,40.679802,-82.572385,www.laxtonhollow.com
@@ -4332,7 +4332,7 @@ John S. Rhodell Brewery,100 Walnut St Ste 111,Peoria,IL,61602-1544,40.686459,-89
 Trap Rock Restaurant And Brewery,279 Springfield Ave,Berkeley Heights,NJ,07922-1214,40.689038,-74.434806,www.traprockrestaurant.net
 Two Rivers Brewing Co,542 Northampton St,Easton,PA,18042-3517,40.690875,-75.214247,www.tworiversbrewing.com
 Circa Brewing Co,141 Lawrence St,Brooklyn,NY,11201,40.691993,-73.98613,www.circabrewing.co
-Untied Brewing Company,140 Spring Street Unit C,New Providence,NJ,07974,40.692719,-74.409112,www.untiedbrewingco.com
+Untied Brewing Company,140 Spring Street Unit C,New Providence,NJ,7974,40.692719,-74.409112,www.untiedbrewingco.com
 Queens Brewery,1539 Covert St,Ridgewood,NY,11385-5356,40.69503,-73.903895,www.queensbrewery.com
 Stick City Brewing Company,109 Irvine ST,Mars,PA,16046-0372,40.695525,-80.009548,www.stickcitybeer.com
 Evil Twin Brewing,1616 George St,Ridgewood,NY,11385,40.696335,-73.904145,www.eviltwin.nyc
@@ -4373,7 +4373,7 @@ Lithology Brewing,211 Main St Ste A,Farmingdale,NY,11735-2675,40.734068,-73.4458
 Petrucci Brothers Brewing Co,911 5th Ave,New Brighton,PA,15066-1923,40.734758,-80.311531,www.petruccibrothers.com
 RoHa Brewing Project,30 E Kensington Ave Ste 150,Salt Lake City,UT,84115-1679,40.73645,-111.890109,www.rohabrewing.com
 Heartland Brewery,35 Union Sq W Frnt 1,New York,NY,10003-3200,40.736861,-73.990681,www.heartlandbrewery.com
-Hoboken Brewing Company,66 Harrison St,Hoboken,NJ,07030,40.738326,-74.042426,www.hobokenbrewing.beer
+Hoboken Brewing Company,66 Harrison St,Hoboken,NJ,7030,40.738326,-74.042426,www.hobokenbrewing.beer
 Castle Point Brewery,200 Garden St C/O Red Bridge Homes,Hoboken,NJ,07030-3793,40.739175,-74.032494,www.castlepointbrewery.com
 5168 Brewing Company,5730 Hidcote Dr.,Lincoln,NE,68516,40.739371,-96.64354,http://www.5168brewing.com/
 Destination Unknown Beer Company,1 S Chicago Ave Unit C,Bay Shore,NY,11706-7000,40.739703,-73.23019,www.destinationunknownbeercompany.com
@@ -4431,7 +4431,7 @@ New Jersey Beer Co,4201 Tonnelle Ave,North Bergen,NJ,07047-2430,40.783219,-74.03
 1940's Brewing Company,1337 Lincoln Ave Unit 1,Holbrook,NY,11741-2275,40.78333,-73.083295,www.1940sbrewingcompany.com
 Industry Brewing,8012 N Hale Ave,Peoria,IL,61615-2050,40.784912,-89.607306,www.spicehospgroup.com
 White Elm Brewing Co,720 Van Dorn St,Lincoln,NE,68502-3353,40.785133,-96.711154,www.whiteelmbrewing.com
-Long Valley Pub and Brewery,1 Fairmount Rd,Long Valley,NJ,07853,40.786402,-74.779949,
+Long Valley Pub and Brewery,1 Fairmount Rd,Long Valley,NJ,7853,40.786402,-74.779949,
 Covered Bridge Brewhaus Taproom,506 N 8th St,Shamokin,PA,17872-5302,40.790713,-76.556822,squareup.com/store/covered-bridge-brewhaus
 Backswing Brewing Co.,500 W South St Ste 8,Lincoln,NE,68522-1744,40.792165,-96.727557,www.backswingbrewing.com
 "ShuBrew, LLC",210 S Main St,Zelienople,PA,16063-1150,40.794111,-80.136569,
@@ -4462,7 +4462,7 @@ Empyrean Brewing Co,729 Q St,Lincoln,NE,68508-1536,40.815615,-96.710519,www.empy
 Cosmic Eye Brewing,6800 P St # 300,Lincoln,NE,68505-2463,40.815627,-96.627436,www.cosmiceye.beer
 Montclair Brewery,101 Walnut St,Montclair,NJ,07042-4038,40.817187,-74.210957,www.montclairbrewery.com
 Egan & Sons,118 Walnut St,Montclair,NJ,07042-3852,40.817733,-74.211687,www.eganandsons.com
-Ghost Hawk Brewing Company,321 River Rd Unit 6,Clifton,NJ,07014,40.826997,-74.125215,www.ghosthawkbrewing.com
+Ghost Hawk Brewing Company,321 River Rd Unit 6,Clifton,NJ,7014,40.826997,-74.125215,www.ghosthawkbrewing.com
 Matties,2535 Mountain City Hwy,Elko,NV,89801-4496,40.836273,-115.793595,http://www.mattiesbar-n-grill.com/
 Westhampton Beach Brewing Company,220 Rogers Way Ste I,Westhampton Beach,NY,11978,40.843018,-72.642565,www.westhamptonbeachbrewingco.com
 Missing Links Brewery,891 Evans City Rd,Renfrew,PA,16053-9209,40.847204,-79.988057,www.missinglinksbrewery.com
@@ -4482,7 +4482,7 @@ Reclamation Brewing Company,221 S Main St,Butler,PA,16001-5908,40.862886,-79.895
 Royal Docks Brewhouse and Cannery,5646 Wales Ave NW,Massillon,OH,44646,40.863798,-81.484697,
 Bangor Trust Brewing,15 Broadway,Bangor,PA,18013-2601,40.865863,-75.204904,bangortrustbrewing.com
 Uniontown Brewing Co.,105 W Main St,Ashland,OH,44805-2221,40.868237,-82.316565,www.uniontownbrewing.com
-Fort Nonsense Brewing Company,3118 Route 10 West,Denville,NJ,07834,40.87027,-74.515159,www.fortnonsensebrewing.com
+Fort Nonsense Brewing Company,3118 Route 10 West,Denville,NJ,7834,40.87027,-74.515159,www.fortnonsensebrewing.com
 Gun Hill Brewing Co,3227 Laconia Ave,Bronx,NY,10469-1403,40.872121,-73.855769,www.gunhillbrewing.com
 Cricket Hill Brewing Co. Inc.,24 Kulick Rd,Fairfield,NJ,07004-3308,40.872607,-74.296305,www.crickethillbrewery.com
 Oyster Bay Brewing,36 Audrey Ave,Oyster Bay,NY,11771-1548,40.873137,-73.531375,www.oysterbaybrewing.com
@@ -4527,7 +4527,7 @@ Rock God Brewing Company,459 Rooney Ave,Danville,PA,17821-1897,40.9624,-76.61858
 Old Forge Brewing Co,532 Mill St,Danville,PA,17821-1593,40.962853,-76.616864,www.oldforgebrewingcompany.com
 Garden of Eve Farm Brewery,4558 Sound Ave,Riverhead,NY,11901-1207,40.967682,-72.650225,www.facebook.com/farmbrewery
 Mucky Duck Brewery,4019 S Main St,Akron,OH,44319-3668,40.97792,-81.520522,
-Buck Hill Brewery and Restaurant,45 Route 94,Blairstown,NJ,07825,40.979746,-74.953938,www.buckhillbrewery.com
+Buck Hill Brewery and Restaurant,45 Route 94,Blairstown,NJ,7825,40.979746,-74.953938,www.buckhillbrewery.com
 Jamesport Farm Brewery,5873 Sound Ave,Riverhead,NY,11901-5611,40.979998,-72.599418,www.jamesportbrewhouse.com
 Eastern Front Brewing Co,425 Westphalin Rd,Mattituck,NY,11952,40.991474,-72.537017,www.facebook.com/easternfrontbrewing/
 Conyngham Brewing Company,309 Main St,Conyngham,PA,18219-0910,40.99239,-76.058321,www.conynghambrewing.com
@@ -4581,7 +4581,7 @@ Hop River Brewing Company,1515 N Harrison St,Fort Wayne,IN,46808-2729,41.088285,
 Lock 15 Brewing Co,21 W North St Ste TL1,Akron,OH,44304-1035,41.091262,-81.516855,www.lock15brewing.com
 Angry Erik Brewing,10 Millpond Dr Unit 8,Lafayette,NJ,07848-3825,41.093657,-74.716933,www.angryerik.com
 Lil Paws Winery,17574-A Mahoning Ave,Lake Milton,OH,44429-9583,41.095608,-80.98677,www.lilpawswinery.com
-Iron Brewing Company,136 Washington St,Norwalk,CT,06854,41.09883,-73.417654,www.ironbrewing.com
+Iron Brewing Company,136 Washington St,Norwalk,CT,6854,41.09883,-73.417654,www.ironbrewing.com
 Paladin Brewing,6520 Mahoning Ave,Austintown,OH,44515-2012,41.099849,-80.787651,www.paladinbrewing.com
 Off the Rail Brewing,112 W Commerce St Ste D,Youngstown,OH,44503,41.101751,-80.650053,
 Noble Creature Cask House,126 E Rayen Ave,Youngstown,OH,44503-1619,41.102189,-80.644897,www.noblecreaturebeer.com
@@ -4609,7 +4609,7 @@ Five Mountain Brewing Co,156 State Route 239,Shickshinny,PA,18655,41.141402,-76.
 Pals Brewing Company,4520 South Buffalo Bill Avenue,North Platte,NE,69101,41.14438,-100.791691,www.palsbrewingcompany.com
 McArthur's Brew House,2721 Front St,Cuyahoga Falls,OH,44221-1904,41.146547,-81.47175,www.mcarthursbrewhouse.com
 Missing Mountain Brewing Company,2811 Front St,Cuyahoga Falls,OH,44262,41.148493,-81.468387,www.missingmountain.com
-Aspetuck Brew Lab,3389 Fairfield Avenue,Bridgeport,CT,06605,41.154405,-73.23552,www.aspetuckbrewlab.com
+Aspetuck Brew Lab,3389 Fairfield Avenue,Bridgeport,CT,6605,41.154405,-73.23552,www.aspetuckbrewlab.com
 Sing Sing Kill Brewery,75 Spring St,Ossining,NY,10562-4706,41.158622,-73.863527,www.singsingkillbrewery.com
 BrickStone Brewery,572 Brewery Ln,Bourbonnais,IL,60914-2196,41.160047,-87.882716,
 Koehler Brewing Co,231 Park St,Grove City,PA,16127-2011,41.160502,-80.081201,koehlerbrewingcompany.com
@@ -4619,7 +4619,7 @@ Lucky Bucket Brewing Co,11941 Centennial Rd Ste 1,La Vista,NE,68128-5623,41.1697
 Brewport Brewing Co,225 S Frontage Rd,Bridgeport,CT,06604-5031,41.170941,-73.192411,www.brewportct.com
 Pint Nine Brewing Company,10411 Portal Rd Ste 104,Omaha,NE,0,41.171985,-96.076291,www.pintninebrewing.com
 Kros Strain Brewing Company,"10411 Portal Rd, Ste 102",LaVista,NE,68128-5527,41.171985,-96.076291,www.krosstrainbrewing.com
-Mohegan Cafe and Brewery,213 Water St,Block Island,RI,02807,41.173405,-71.558857,
+Mohegan Cafe and Brewery,213 Water St,Block Island,RI,2807,41.173405,-71.558857,
 Fairfield Craft Ales,724 Honeyspot Rd,Stratford,CT,06615-7109,41.175868,-73.147305,www.fairfieldcraftales.com
 Ruby River Steak House and Brewery,4286 Riverdale Rd,Ogden,UT,84405-3512,41.183186,-111.989046,www.sizzlingplatter.com
 Two Roads Brewing Co,1700 Stratford Ave,Stratford,CT,06615-6419,41.185608,-73.14192,www.tworoadsbrewing.com
@@ -4642,7 +4642,7 @@ Tribus Beer Co.,100 Raton Drive,Milford,CT,06461-1726,41.231214,-73.093699,www.t
 New Trail Brewing Company,240 Arch St Bldg 18,Williamsport,PA,17701-7810,41.231393,-77.045028,www.newtrailbrewing.com
 Jaipur Restaurant and Brewpub,10922 Elm St,Omaha,NE,68144-4822,41.232905,-96.082536,www.jaipurbrewhouse.com
 Modern Methods Brewing Company,125 David Grohl Alley,Warren,OH,44481,41.235643,-80.818649,www.modernmethodsbrew.com
-Milford Point Brewing Company,230 Woodmont Rd Ste 29B,Milford,CT,06460,41.237305,-73.020064,
+Milford Point Brewing Company,230 Woodmont Rd Ste 29B,Milford,CT,6460,41.237305,-73.020064,
 The Vine N Hop Shop,1327 N. Carpenter Rd.,Brunswick,OH,44212,41.239373,-81.807941,www.vinehop.com
 Riepstines Pub,913 Arch St,Williamsport,PA,17701-5630,41.240143,-77.053431,www.riepstinespub.com
 Bullfrog Brewery - Production Only,229 W 4th St,Williamsport,PA,17701-6112,41.240353,-77.005672,
@@ -4672,7 +4672,7 @@ Infusion Brewing Company,6115 Maple St,Omaha,NE,68137-3574,41.284895,-96.0079,ww
 Big Rack Brew Haus,2475 Hiatt Apple Trl,Winterset,IA,50273-8113,41.286837,-93.923107,www.bigrackbrewhaus.com
 Peekskill Brewing Co,47 S Water St # 53,Peekskill,NY,10566-2035,41.286913,-73.929008,www.peekskillbrewery.com
 Overshores Brewing Co,250 Bradley St,East Haven,CT,0,41.288675,-72.87415,www.overshores.com
-Armada Brewing,250 Bradley Street,East Haven,CT,06512,41.288675,-72.87415,www.armadabeer.com
+Armada Brewing,250 Bradley Street,East Haven,CT,6512,41.288675,-72.87415,www.armadabeer.com
 LaOtto Brewing LLC,202 S Main St,Laotto,IN,46763-4800,41.289125,-85.197936,
 4kd Crick Brewery,211 Carpenter Rd,Defiance,OH,43512-1718,41.292644,-84.341586,Www.4kdcrickbrewery.com
 Two Bandits Brewing Company,106 E High St,Hicksville,OH,43526,41.293271,-84.76198,
@@ -4685,7 +4685,7 @@ DuVig Brewing Co,59 School Ground Rd Ste 10,Branford,CT,06405-2868,41.302416,-72
 Susquehanna Brewing Co,635 S Main St,Pittston,PA,18640-3215,41.304119,-75.804408,www.sbcbeer.com
 BruRm At Bar,254 Crown St,New Haven,CT,06511-6610,41.306196,-72.930238,www.barnightclub.com
 Library Sports Grill and Brewery,201 E Custer St,Laramie,WY,82070-3633,41.308992,-105.593827,laramie.librarysportsgrille.com
-Nolo,687 State Street,New Haven,CT,06511,41.310148,-72.917447,http://jet2nolo.com/
+Nolo,687 State Street,New Haven,CT,6511,41.310148,-72.917447,http://jet2nolo.com/
 Altitude Chophouse and Brewery,320 S 2nd St,Laramie,WY,82070-3612,41.310369,-105.595175,www.altitudechophouse.com
 Veracious Brewing Company,246 Main St,Monroe,CT,06468-1171,41.310504,-73.256297,www.veraciousbrewing.com
 Coal Creek TAP,108 E Grand Ave,Laramie,WY,82070-3638,41.310982,-105.595058,www.coalcreektap.com
@@ -4694,8 +4694,8 @@ Peace Tree Brewing Company,107 W Main St,Knoxville,IA,50138-2528,41.319004,-93.0
 Log Tavern Brewing,309 E Harford St Bldg 2,Milford,PA,18337,41.319224,-74.8,www.logtavernbrewing.com
 Noble Jay Brewing Company,11 Freedom Way,Niantic,CT,06357-1041,41.321216,-72.245383,www.noblejaybrew.com
 East Rock Brewing Company,285 Nicoll St,New Haven,CT,06511-2625,41.321586,-72.906638,www.eastrockbeer.com
-Niantic Public House and Brewery,243 Main St,Niantic,CT,06357,41.32363,-72.192331,
-Rhythm Brewing Co,32 Barnett St,New Haven,CT,06515,41.324489,-72.966279,www.rhythmbrewingco.com
+Niantic Public House and Brewery,243 Main St,Niantic,CT,6357,41.32363,-72.192331,
+Rhythm Brewing Co,32 Barnett St,New Haven,CT,6515,41.324489,-72.966279,www.rhythmbrewingco.com
 BADSONS Beer Co,251 Roosevelt Dr,Derby,CT,06418-1665,41.326065,-73.098759,www.badsoons.com
 Brew Kettle - Production Works,20102 Progress Dr,Strongsville,OH,44149-3259,41.326985,-81.847765,
 Curran Brewing Co,6230 Bloomington Rd,Moscow,PA,18444-6634,41.327046,-75.4708,www.curranbrewing.com
@@ -4707,11 +4707,11 @@ New England Brewing Co,175 Amity Rd,Woodbridge,CT,06525-2201,41.339183,-72.98031
 Tangled Roots Brewing Company,812 La Salle St,Ottawa,IL,61350,41.34801,-88.842518,www.tangledrootsbrewingco.com
 No Worries Brewing Company,2520 State St,Hamden,CT,06517-3004,41.350006,-72.892874,www.noworriesbeer.com
 Franklin Brewing Co,1345 East Ave,Elyria,OH,44035-7681,41.350705,-82.101031,
-Barley Head Brewery,12 Water St 1A,Mystic,CT,06355,41.353645,-71.972235,www.barleyheadbrewery.com
+Barley Head Brewery,12 Water St 1A,Mystic,CT,6355,41.353645,-71.972235,www.barleyheadbrewery.com
 Outer Light Brewing Company,266 Bridge St Ste 1,Groton,CT,06340-3739,41.360815,-72.074343,www.outerlightbrewing.com
 Rushing Duck Brewing Co,1 Battiato Ln,Chester,NY,10918-1283,41.362444,-74.270971,www.rushingduck.com
 Lucky Owl Brewing,8660 Tamarack Trl,Chagrin Falls,OH,44023-1876,41.366807,-81.332459,www.luckyowlbrewing.com
-Tox Brewing Company,635 Broad St,New London,CT,06320,41.366873,-72.123579,www.toxbrewing.com
+Tox Brewing Company,635 Broad St,New London,CT,6320,41.366873,-72.123579,www.toxbrewing.com
 Cornerstone Brewing Co,58 Front St,Berea,OH,44057-3126,41.366917,-81.8529,
 Auburn Brewing Company,309 N Main St,Auburn,IN,46706,41.368393,-85.056109,
 Cottrell Brewing Co,100 Mechanic St,Pawcatuck,CT,06379-2163,41.370133,-71.83369,www.cottrellbrewing.com
@@ -4719,9 +4719,9 @@ Broken Symmetry Gastro Brewery,5 Depot Pl,Bethel,CT,06801-2507,41.370473,-73.414
 The North Slope Brewing Company,2439 Sr 309 Hwy,Dallas,PA,18612-9251,41.373415,-75.976242,www.northslopebrewing.com
 Fox N Hare Brewing Company,46 Front St,Port Jervis,NY,12771-2415,41.373469,-74.691994,www.foxnhare-brewing.com
 Fat Head's Brewery,17450 Engle Lake Dr,Middleburg Heights,OH,44130,41.374736,-81.824807,www.fatheads.com
-Whalers Brewing Company,PO Box 816,Wakefield,RI,02880,41.375317,-71.64393,https://whalers.com
+Whalers Brewing Company,PO Box 816,Wakefield,RI,2880,41.375317,-71.64393,https://whalers.com
 Bowling Green Beer Works,322 N Grove St Ste C,Bowling Green,OH,43402-2322,41.377416,-83.653251,
-84 Aleworks Brewing & Tavern,15 Canal St,Westerly,RI,02891,41.38031,-71.829906,
+84 Aleworks Brewing & Tavern,15 Canal St,Westerly,RI,2891,41.38031,-71.829906,
 Long Lot Farm Brewery,153 Johnson Rd,Chester ,NY,10918,41.380737,-74.259579,www.longlotfarmbrewery.com
 Grey Sail Brewing Co. LLC,63 Canal St,Westerly,RI,02891-1552,41.384935,-71.832253,www.greysailbrewing.com
 Rivals Sports Grille,6710 Smith Rd,Middleburg Heights,OH,44130-2656,41.385325,-81.804622,www.rivalscleveland.com
@@ -4740,7 +4740,7 @@ Wild Side Brewing Company,24194 Front St,Grand Rapids,OH,43522,41.412413,-83.868
 The Koontz Lake Brewing Company,7747 N State Road 23,Walkerton,IN,46574-9360,41.414439,-86.488754,
 Mount Shasta Brewing Co,360 College Ave,Weed,CA,96094-2706,41.416053,-122.387038,www.weedales.com
 Crown Brewing Co,211 S East St,Crown Point,IN,46307-4058,41.416523,-87.363343,www.crownbrewing.com
-Reverie Brewing Company,57B Church Hill Road,Newtown,CT,06470,41.416682,-73.297077,reveriebrewing.com
+Reverie Brewing Company,57B Church Hill Road,Newtown,CT,6470,41.416682,-73.297077,reveriebrewing.com
 Off Square Brewing,11000 Delaware Pkwy,Crown Point,IN,46307-7895,41.417716,-87.328958,www.offsquarebrewing.com
 Contrary Brewing Co,411 W Mississippi Dr,Muscatine,IA,52761-3150,41.418571,-91.048792,www.contrarybrewing.com
 Kinkaider Brewing Co,43860 Paulsen Rd,Broken Bow,NE,68822-7120,41.42355,-99.661354,www.kinkaiderbrewing.com
@@ -4762,9 +4762,9 @@ Railroad Brewing Company,1010 Center Rd,Avon,OH,44011-1206,41.448492,-82.019866,
 Working Class Brewery,17448 Lorain Ave,Cleveland,OH,44111-4028,41.451453,-81.818675,www.workingclassbrewery.com
 Snowy Mountain Brewery,601 E Pic Pike Rd,Saratoga,WY,82331,41.453229,-106.80207,
 Geneseo Brewing Company,102 S State St,Geneseo,IL,61254-1348,41.453345,-90.155516,www.geneseobrewingcompany.com
-Center Street Brewing Company,24 Wallace Ave,Wallingford,CT,06492,41.454101,-72.816715,
+Center Street Brewing Company,24 Wallace Ave,Wallingford,CT,6492,41.454101,-72.816715,
 Sons of Liberty Beer & Spirits Co.,1425 Kingstown Rd,Wakefield,RI,02879-8313,41.454722,-71.504909,www.drinksol.com
-Offshore Ale Co,30 Kennebec Ave,Oak Bluffs,MA,02557,41.456189,-70.557249,www.offshoreale.com
+Offshore Ale Co,30 Kennebec Ave,Oak Bluffs,MA,2557,41.456189,-70.557249,www.offshoreale.com
 Paystreak Brewing,449 Main Street,Etna,CA,96027,41.45663,-122.893881,www.paystreakbrewing.com
 Cliffside Brewing,16B Center St,Wallingford,CT,06492-4110,41.456852,-72.823581,www.cliffsidebrewing.com
 Etna Brewing Co.,131 Callahan St,Etna,CA,96027,41.457084,-122.892223,www.etnabrew.com
@@ -4788,7 +4788,7 @@ BottleHouse Brewery,13368 Madison Ave,Lakewood,OH,44107-4840,41.477142,-81.78435
 Platform Beer Co,4125 Lorain Ave,Cleveland,OH,44113-3718,41.479892,-81.713964,platformbeer.co
 Four Fathers Brewing,1555 W Lincolnway Ste 105,Valparaiso,IN,46385-3801,41.481221,-87.093729,www.fourfathersbrewing.com
 Arrowhead Ales Brewing Company,2101 Calistoga Dr,New Lenox,IL,60451-4826,41.481457,-87.959057,www.arrowheadales.com
-"Shaidzon Beer Company, LLC",141 Fairgrounds Rd.,West Kingston,RI,02892,41.481962,-71.565057,www.shaidzonbeerco.com
+"Shaidzon Beer Company, LLC",141 Fairgrounds Rd.,West Kingston,RI,2892,41.481962,-71.565057,www.shaidzonbeerco.com
 Kalona Brewing Company,405 B Ave,Kalona,IA,52247,41.483304,-91.707536,www.kalonabrewing.com
 Forest City Brewery,2135 Columbus Rd Ste A,Cleveland,OH,44113-4243,41.483334,-81.700237,www.forestcitybrewery.com
 Hansa Brewery,2717 Lorain Ave,Cleveland,OH,44113-3414,41.483373,-81.704657,www.hansabrewery.com
@@ -4824,7 +4824,7 @@ Bent River Brewing Co Production & Tasting Room,512 24th St,Rock Island,IL,61201
 Noble Beast Brewing Co.,1470 Lakeside Ave E,Cleveland,OH,44114-1137,41.507806,-81.686402,noblebeastbeer.com
 Wake Brewing,2529 5th Ave,Rock Island,IL,61201,41.508101,-90.565359,www.wakebrewing.com
 2 Way Brewing Company,18 W Main St,Beacon,NY,12508-2512,41.508236,-73.980923,www.2waybrewingcompany.com
-Newport Craft Brewing and Distilling,293 JT Connell Hwy,Newport,RI,02840,41.512437,-71.317659,www.newportcraft.com
+Newport Craft Brewing and Distilling,293 JT Connell Hwy,Newport,RI,2840,41.512437,-71.317659,www.newportcraft.com
 Mortals Key Brewing Company,4224 E Lake Rd,Jamestown,PA,16134-4524,41.513925,-80.460904,www.mortalskey.com
 Catawba Island Brewing Company,2330 East Harbor Rd,Port Clinton,OH,43452-1517,41.517279,-82.888711,catawbaislandbrewing.com
 Coddington Brewing Co,210 Coddington Hwy,Middletown,RI,02842-4884,41.518515,-71.305642,
@@ -4841,7 +4841,7 @@ Shrewd Fox Brewery,552 NY State Highway 55,Eldred,NY,12732,41.525701,-74.885227,
 These Guys Brewing Company,78 Franklin St,Norwich,CT,06360-5806,41.525937,-72.074377,www.theseguysbrewig.com
 "Pokro Brewing Company, The",311 N Broad St,Griffith,IN,46319-2222,41.526832,-87.427335,www.pokrobrewing.com
 Elder Brewing Co.,218 E Cass St,Joliet,IL,60432-2813,41.527777,-88.076625,www.elderbrewingco.com
-Pie & Pints Restaurant & Brewery,1 Store Rd,Middlebury ,CT,06762,41.528358,-73.127707,www.piesandpints.biz
+Pie & Pints Restaurant & Brewery,1 Store Rd,Middlebury ,CT,6762,41.528358,-73.127707,www.piesandpints.biz
 Taproot Brewing Co / Newport Vineyards,909 E Main Rd,Middletown,RI,02842-5529,41.529299,-71.272628,www.newportvineyards.com
 Tribe Beer Brewery & Taproom On Front Street,11120 Front St,Mokena,IL,60448,41.53107,-87.888103,
 Tribes Beer Company,11120 Front Street,Mokena,IL,60448,41.53107,-87.888103,www.tribesbeerco.com
@@ -4861,20 +4861,20 @@ HailStorm Brewing Company,8060 186th St,Tinley Park,IL,60487-9215,41.553247,-87.
 The Brewery At Orange County Hops,771 Route 52,Walden,NY,12586,41.555071,-74.146937,www.orangecountyhops.com
 Soundgrowler Brewing Co.,8201 183rd St Ste P,Tinley Park,IL,60487-9377,41.556094,-87.819379,www.soundgrowler.com
 "Rabid Brewing, LLC",17559 Bretz Dr,Homewood,IL,60430,41.55726,-87.6656,www.rabidbrewing.com
-Bad Dream Brewing,116 Danbury Rd Ste 3,New Milford,CT,06776,41.557341,-73.418297,www.baddreambrewing.com
+Bad Dream Brewing,116 Danbury Rd Ste 3,New Milford,CT,6776,41.557341,-73.418297,www.baddreambrewing.com
 350 Brewing Co,7144 183rd St,Tinley Park,IL,60477-3933,41.559391,-87.791602,www.350brewing.com
 Crawford Brew Works - Bettendorf Iowa,3659 Devils Glenn Rd,Bettendorf,IA,56484,41.559713,-90.482941,www.crawfordbrewworks.com
 Vice District Tap Room,18027 Dixie Highway,Homewood,IL,60430,41.562,-87.665073,www.vicedistrictbrewing.com
 Woodbury Brewing Company,738 Main St,Woodbury,CT,06798-0083,41.564186,-73.191655,www.woodburybrewingcompany.com
 Buzzards Bay Brewing Co,98 Horseneck Rd,Westport,MA,02790-1399,41.567766,-71.050174,www.buzzardsbrew.com
-Kinsmen Brewing,409 Canal Street,Milldale,CT,06467,41.568014,-72.902166,www.kinsmenbrewing.com
+Kinsmen Brewing,409 Canal Street,Milldale,CT,6467,41.568014,-72.902166,www.kinsmenbrewing.com
 Confluence Brewing Co,1235 Thomas Beck Rd Ste A,Des Moines,IA,50315-1055,41.568593,-93.631605,www.confluencebrewing.com
-Hop Culture Farms and Brew Co,144 Cato Corner Rd,Colchester,CT,06415,41.56866,-72.387026,www.hopculturefarms.com
+Hop Culture Farms and Brew Co,144 Cato Corner Rd,Colchester,CT,6415,41.56866,-72.387026,www.hopculturefarms.com
 Fox Brewing,103 S 11th St,West Des Moines,IA,50265-4410,41.568716,-93.719207,www.foxbrewco.com
 Here and Now Brewing Co,645 Main St,Honesdale,PA,18431-1842,41.571299,-75.254901,hereandnowbrewing.com
 Ramblin Reds Brewing Company,1493 N Shoop Ave Unit A,Wauseon,OH,43567-2801,41.571964,-84.136074,www.northriverbrewingco.com
 Stubborn Beauty Brewing,180 Johnson St,Middletown,CT,06457-2247,41.572111,-72.657517,www.stubbornbeauty.com
-Forest City Brewing,180 Johnson St.,Middlefield,CT,06455,41.572111,-72.657517,
+Forest City Brewing,180 Johnson St.,Middlefield,CT,6455,41.572111,-72.657517,
 One Trick Pony Brewery,17845 Chappel Ave # 17851,Lansing,IL,60438-4525,41.572197,-87.571651,www.otpbrewing.com
 Granite City Food & Brewery (#6),5270 Utica Ridge Rd,Davenport,IA,52807-3872,41.573277,-90.514845,www.gcfb.net
 5ive Cities Brewing,2255 Falcon Ave,Bettendorf ,IA,52722,41.573756,-90.500988,www.fivecitiesbrewing.com
@@ -4899,7 +4899,7 @@ Byway Brewing Company,2825 Carlson Dr,Hammond,IN,46323-1183,41.590519,-87.45644,
 Twisted Vine Brewery,3320 Westown Pkwy,West Des Moines,IA,50266-1111,41.593659,-93.748974,www.twistedvinebrewery.com
 Rock Bottom Brewery - Orland Park,16156 S La Grange Rd,Orland Park,IL,60467-5614,41.59598,-87.853191,www.rockbottom.com
 Kelleys Island Brewery,504 W Lakeshore Drive,Kelleys Island,OH,43438,41.595992,-82.725595,www.kelleysislandbrewpub.com
-Ragged Island Brewing Company,200 High Point Ave Unit B6,Portsmouth ,RI,02871,41.596957,-71.25961,www.raggedislandbrewing.com
+Ragged Island Brewing Company,200 High Point Ave Unit B6,Portsmouth ,RI,2871,41.596957,-71.25961,www.raggedislandbrewing.com
 Hunter's Brewing,1535 S Calumet Rd,Chesterton,IN,46304-3301,41.597159,-87.046361,
 Cousins Ale Works,1582 US 9,Wappingers Falls,NY,12590,41.597407,-73.910547,www.cousinsales.com
 18th Street Brewery,5725 Miller Ave,Gary,IN,46403-2871,41.599226,-87.268832,www.18thstreetbrewery.com
@@ -4909,7 +4909,7 @@ Barn Town Brewing Co.,9500 University Ave Ste 1110,West Des Moines,IA,50266-1888
 Granite City Food & Brewery (#4),12801 University Ave,Clive,IA,50325-8219,41.60095,-93.795029,www.gcfb.net
 Brass Works Brewing Company LLC,2066 Thomaston Ave,Waterbury,CT,06704-1038,41.601677,-73.05821,www.brassworksbrewing.com
 Scratchtown Brewing Company,141 S 16th St,Ord,NE,68862-1415,41.602505,-98.92944,www.scratchtownbrewingcompany.com
-Witchdoctor Brewing Company,168 Center St,Southington,CT,06489,41.604786,-72.871945,www.witchdoctorbrewing.com
+Witchdoctor Brewing Company,168 Center St,Southington,CT,6489,41.604786,-72.871945,www.witchdoctorbrewing.com
 Werk Force Brewing Co,14903 S Center St # 107,Plainfield,IL,60544-2177,41.611424,-88.197109,www.werkforcebrewing.com
 Back Road Brewery,308 Perry St,La Porte,IN,46350-3216,41.611756,-86.726429,www.backroadbrewery.com
 Plat 35 Brewery,100 Lincoln St,Porter,IN,46304,41.614501,-87.074695,
@@ -4938,8 +4938,8 @@ Naukabout Brewery,13 Lake Ave,Mashpee,MA,02649-2075,41.650054,-70.484093,www.nau
 Barnstable Brewing,485 W Main St,Hyannis,MA,02601-3644,41.650056,-70.314219,www.barnstablebrewing.com
 Brightside Aleworks,480 Center Pl,Altoona,IA,50009,41.65097,-93.4685,www.brightsidealeworks.com
 Put-In-Bay Brewing Co,441 Catawba Ave,Put In Bay,OH,43456-6536,41.651992,-82.820165,www.putinbaybrewery.com
-Community Bruin Company,74 Nooseneck Hill Rd,West Greenwich,RI,02817,41.6547,-71.603509,
-LineSider Brewing Company,1485 South County Trail Ste 201,East Greenwich,RI,02818,41.65619,-71.498555,www.linesiderbrewing.com
+Community Bruin Company,74 Nooseneck Hill Rd,West Greenwich,RI,2817,41.6547,-71.603509,
+LineSider Brewing Company,1485 South County Trail Ste 201,East Greenwich,RI,2818,41.65619,-71.498555,www.linesiderbrewing.com
 Midnight Pig Beer,12337 S Route 59 Unit 155,Plainfield,IL,60585-4614,41.656765,-88.20249,www.midnightpig.co
 Patron Saints Brewery,4730 W Bancroft St #8,Toledo,OH,43615,41.662552,-83.653397,www.PatronSaintsBrewery.com
 Five Churches Brewing,193 Arch St,New Britain,CT,06051-2516,41.662947,-72.782562,www.facebook.com/FiveChurchesBrewing
@@ -4966,18 +4966,18 @@ Boondoggle Brewing,553 Maple St,Wethersfield,CT,06109-3732,41.684304,-72.66477,w
 Bad Seed Cider co llc,43 baileys gap rd,highland,NY,12528,41.685426,-73.99687,www.badseedhardcider.com
 Argus Brewery,11314 S Front Ave,Chicago,IL,60628-5007,41.688567,-87.612159,www.argusbrewery.com
 Devil's Purse Brewing Co,120 Great Western Rd,South Dennis,MA,02660-3715,41.68857,-70.141671,www.devilspurse.com
-Kent Falls Brewing Company,33 Camps Rd,Kent,CT,06757,41.689359,-73.388484,
+Kent Falls Brewing Company,33 Camps Rd,Kent,CT,6757,41.689359,-73.388484,
 Iechyd Da Brewing,317 N Main St,Elkhart,IN,46516-3034,41.689954,-85.974949,www.iechyddabrewingcompany.com
 Yard Owl Craft Brewery,19 Osprey Ln,Gardiner,NY,12525-5339,41.691289,-74.146825,www.yardowlcraftbrewery.com
 Hwy 14 Brewing Co.,134 S 4th St.,Albion,NE,68620,41.69219,-98.001568,www.hwy14brewingco.com
 Evil Czech Brewery,3703 N Main St,Mishawaka,IN,46545-3111,41.693056,-86.18194,www.evilczechbrewery.com
 Open Outcry,10934 S Western Ave,Chicago,IL,60643-3228,41.694377,-87.681547,www.openoutcrybrewing.com
 Reclaimed Rails Brewing Company,101 Main St. SE,Bondurant,IA,50035-7722,41.70035,-93.461679,www.reclaimedrailsbrewing.com
-Canned Heat Craft Beer Company,52 Ferry St Unit 1,Fall River,MA,02721,41.701444,-71.168695,www.cannedheatbeer.com
+Canned Heat Craft Beer Company,52 Ferry St Unit 1,Fall River,MA,2721,41.701444,-71.168695,www.cannedheatbeer.com
 King's Court Brewing Company,40 Cannon St Ste 1,Poughkeepsie,NY,12601,41.70214,-73.927522,www.kingscourtbrewingcompany.com
 Gezellig Brewing Company,403 W 4th St N Bldg Suite 103,Newton,IA,50208,41.702387,-93.057548,www.gezelligbrewing.com
-Apponaug Brewing,334 Knright Street,Warwick,RI,02886,41.70247,-71.47902,www.apponaugbrewing.com
-Troy City Brewing,16 Anawan St,Fall River,MA,02721,41.703176,-71.163107,www.troycitybeer.com
+Apponaug Brewing,334 Knright Street,Warwick,RI,2886,41.70247,-71.47902,www.apponaugbrewing.com
+Troy City Brewing,16 Anawan St,Fall River,MA,2721,41.703176,-71.163107,www.troycitybeer.com
 Horse Thief Hollow Brewery,10426 S Western Ave,Chicago,IL,60643-2508,41.703818,-87.681951,www.horsethiefbrewing.com
 Mill House Brewing Company,289 Mill St,Poughkeepsie,NY,12601-3111,41.70517,-73.926378,www.millhousebrewing.com
 "Blue Collar Brewery, Inc.",40 Cottage St,Poughkeepsie,NY,12601-2015,41.707338,-73.918213,www.thebluecollarbrewery.com
@@ -4992,16 +4992,16 @@ Rock Bottom Brewery & Restaurant - Bolingbrook,639 E Boughton Rd Ste 100,Bolingb
 Plan Bee Farm Brewery,115 Underhill Rd,Poughkeepsie,NY,12603-1045,41.719415,-73.886587,www.planbeefarmbrewery.com
 Shoreline Brewery,208 Wabash St,Michigan City,IN,46360-3244,41.719657,-86.906362,www.shorelinebrewery.com
 Heavenly Goat Brewing Company,7321 Heritage Square Dr Ste 190,Granger,IN,46530-5660,41.726544,-86.175446,www.heavenlygoatbrew.com
-Proclamation Ale Company,298 Kilvert Street,Warwick,RI,02886,41.729695,-71.447368,www.proclamationaleco.com
+Proclamation Ale Company,298 Kilvert Street,Warwick,RI,2886,41.729695,-71.447368,www.proclamationaleco.com
 Firetrucker Brewery,716 SW 3rd St,Ankeny,IA,50023-2615,41.73,-93.609857,www.firetrucker.com
 Imperial Oak Brewing Co,501 Willow Blvd Ste 108,Willow Springs,IL,60480-1710,41.731758,-87.879218,www.imperialoakbrewing.com
 Hop Butcher For the World,1000 N Frontage Rd Ste C,Darien,IL,60561-6448,41.734443,-87.97021,www.hopbutcher.com
 Miskatonic Brewing Company,1000 N Frontage Rd Ste C,Darien,IL,60561-6448,41.734443,-87.97021,www.miskatonicbrewing.com
 Virant Family Winery / Black Angus Brewery,541 Atkins Rd,Geneva,OH,44041,41.738304,-80.990065,www.virantfamilywinery.com
 Burn'Em Brewing,718 Freyer Rd,Michigan City,IN,46360-1911,41.738558,-86.828053,www.burnembrewing.com
-6A Brewing Company,406 Route 6A,East Sandwich,MA,02537,41.739715,-70.446339,www.6abrewing.com
+6A Brewing Company,406 Route 6A,East Sandwich,MA,2537,41.739715,-70.446339,www.6abrewing.com
 Double Wing Brewing Co,7840 Doty Rd,Madison,OH,44057-9511,41.740348,-81.006249,www.ratbrew.com
-New Park Brewing,485 New Park Ave,West Hartford,CT,06110,41.741019,-72.718949,www.newparkbrewing.com
+New Park Brewing,485 New Park Ave,West Hartford,CT,6110,41.741019,-72.718949,www.newparkbrewing.com
 Skeleton Key Brewery,8102 Lemont Rd Ste 300,Woodridge,IL,60517-7764,41.741325,-88.014824,www.skeletonkeybrewery.com
 Hanging Hills Brewing Company,150 Ledyard St,Hartford,CT,06114-1403,41.744466,-72.669861,www.hanginghillsbrewery.com
 Brewery At The Culinary Institute Of America,1946 Campus Dr,Hyde Park,NY,12538,41.745802,-73.933247,
@@ -5031,7 +5031,7 @@ Solemn Oath Brewery,1661 Quincy Ave Ste 179,Naperville,IL,60540-3969,41.776078,-
 Blue Nose Brewery,6119 East Ave,Hodgkins,IL,60525-4126,41.777439,-87.858216,www.bluenosebrewery.com
 Sprague Farm and Brew Works,22043 US Highway 6 and 19,Venango,PA,16440-2507,41.781289,-80.1051,www.sleepingchainsaw.com
 Lake Brothers Beer Company,25W275 Woodstock Ct,Naperville,IL,60540-3427,41.784165,-88.11695,www.lakebrothersbeer.com
-2nd Bridge Brewing Co,642 Hilliard Street Suite 2003,Manchester ,CT,06042,41.784466,-72.552499,www.2ndbridgebrewing.com
+2nd Bridge Brewing Co,642 Hilliard Street Suite 2003,Manchester ,CT,6042,41.784466,-72.552499,www.2ndbridgebrewing.com
 Olde Burnside Brewing Co.,776 Tolland St,East Hartford,CT,06108-2727,41.785238,-72.600848,www.oldeburnsidebrewing.com
 Revival Brewing,505 Atwood Ave,Cranston,RI,02920-5327,41.789846,-71.471691,www.revivalbrewing.com
 Hog Island Beer Company,PO Box 1901,Orleans,MA,02653-1901,41.7899,-70.00107,www.hogislandbeerco.com
@@ -5054,10 +5054,10 @@ BuckleDown Brewing,8700 47th St,Lyons,IL,60534-1626,41.805939,-87.837034,buckled
 Big Grove Brewpub,101 W. Main St,Solon,IA,52333,41.806974,-91.495548,
 Yorkholo Brewing Co,19 N Main St,Mansfield,PA,16933-1403,41.807617,-77.078536,www.yorkholobrewing.com
 Thomas Hooker Brewing Co LLC,16 Tobey Rd,Bloomfield,CT,06002-3522,41.809385,-72.710655,www.hookerbeer.com
-Long Live Beerworks,40R Sprague St,Providence,RI,02907,41.809411,-71.425973,www.longlivebeerworks.com
+Long Live Beerworks,40R Sprague St,Providence,RI,2907,41.809411,-71.425973,www.longlivebeerworks.com
 Whiner Beer Company,1400 W 46th St,Chicago,IL,60609-3225,41.810762,-87.660609,whiner beer.com
 BBGB Brewery And Hop Farm,2000 Orchard Rd,North Aurora,IL,60542-1674,41.817625,-88.349933,http://www.eathardware.com/
-Beer On Earth,425 W Fountain St Ste 104,Providence,RI,02903,41.818981,-71.423925,www.beeronearth.com
+Beer On Earth,425 W Fountain St Ste 104,Providence,RI,2903,41.818981,-71.423925,www.beeronearth.com
 Trinity Brewhouse,186 Fountain St,Providence,RI,02903-1813,41.822403,-71.416756,www.trinitybrewhouse.com
 Bickering Brother's Brewery,613 10th St,De Witt,IA,52742,41.825013,-90.539793,
 Two Brothers Brewing Co,30W315 Calumet Ave W,Warrenville,IL,60555-1565,41.82509,-88.21265,www.TwoBrothersBrewing.com
@@ -5077,7 +5077,7 @@ Back East Brewing,1296 Blue Hills Ave Ste A,Bloomfield,CT,06002-5312,41.855485,-
 Berkley Beer Company,17 Cotley St,Berkley,MA,02779-1101,41.855516,-71.052056,www.berkleybeer.com
 Lagunitas Brewing Co,2607 W 17th St,Chicago,IL,94954-1113,41.857917,-87.691902,www.lagunitas.com
 Lagunitas Chicago,2607 W 17th St,Chicago,IL,60608,41.857917,-87.691902,
-Smug Brewing,100 Carver St,Pawtucket,RI,02860,41.85947,-71.398004,www.smugbrewing.com
+Smug Brewing,100 Carver St,Pawtucket,RI,2860,41.85947,-71.398004,www.smugbrewing.com
 Providence Brewing Company,1920 Mineral Spring Avenue Unit 11,Providence,RI,02904-3742,41.859971,-71.468993,www.pvdbc.com
 GOTL Brewing Co,5243 Lake Rd E,Geneva,OH,44041-9433,41.861447,-80.944386,www.gotlbrewing.com
 Noon Whistle Brewing Company,800 E Roosevelt Rd Ste 3,Lombard,IL,60148-4765,41.861684,-88.000549,www.noonwhistlebrewing.com
@@ -5088,7 +5088,7 @@ Kinslahger Brewing Company,6806 Roosevelt Rd,Oak Park,IL,60304-1905,41.8653,-87.
 Brewery Legitimus,283 Main St,New Hartford,CT,06057-2750,41.86813,-72.962015,www.brewerylegitimus.com
 Foolproof Brewing Company,241 Grotto Ave,Pawtucket,RI,02860-3403,41.870275,-71.408163,www.foolproofbrewing.com
 Crooked Current Brewery,560 Mineral Spring Ave Ste 2-112,Pawtucket,RI,02860-8612,41.872722,-71.407514,www.crookedcurrentbrewery.com
-Isle Brewers Guild,461 Main Street,Pawtucket,RI,02860,41.876783,-71.389092,www.Islebrewers.com
+Isle Brewers Guild,461 Main Street,Pawtucket,RI,2860,41.876783,-71.389092,www.Islebrewers.com
 Adams Street Brewery,17 W Adams St,Chicago,IL,60603-5502,41.879267,-87.628411,www.adamsstreetbrewery.com
 Exit Strategy Brewing Company,7700 Madison St,Forest Park,IL,60130-1404,41.879548,-87.816887,www.exitstrategybrewing.com
 Old Town Abbey Ales,125 S Jefferson St Unit 2709,Chicago,IL,60661-3731,41.87994,-87.642076,www.oldtownabbey.com
@@ -5139,7 +5139,7 @@ Hillsdale Brewing Company,25 Hillsdale St,Hillsdale,MI,49242-1208,41.924547,-84.
 Kingston Standard Brewing Co.,22 Jansen Ave,Kingston,NY,12401,41.926701,-73.99286,www.kingstonstandard.com
 Bixi Beer,2515 N Milwaukee Ave,Chicago,IL,60647,41.927247,-87.703887,www.bixi.beer
 Independent Fermentations Brewing,127 Camelot Dr Ste 3,Plymouth,MA,02360-3039,41.927549,-70.644909,www.independentfermentations.com
-Harper Lane Brewery,127-1 Camelot Dr,Plymouth,MA,02360,41.927549,-70.644909,
+Harper Lane Brewery,127-1 Camelot Dr,Plymouth,MA,2360,41.927549,-70.644909,
 Forge Brewhouse,216 N 6TH ST,Dekalb,IL,60115,41.930083,-88.746394,
 Problem Solved Brewing Company,2 North Rd Ste 4,East Windsor,CT,06088-9516,41.930539,-72.604148,
 Maplewood Brewing Company,2717 N Maplewood Ave,Chicago,IL,60647-1930,41.930833,-87.69112,www.maplewoodbrew.com
@@ -5200,7 +5200,7 @@ LaGrow Organic Beer Co,5435 N Wolcott Ave,Chicago,IL,60640,41.980011,-87.676367,
 Quarter Barrel Arcade,616 2nd Ave SE,Cedar Rapids,IA,52401-1306,41.980972,-91.663036,www.thequarterbarrel.com
 Pollyanna Brewing Company,245 E Main St,Roselle,IL,60439-3744,41.982425,-88.07382,www.pollyannabrewing.com
 Powder Hollow Brewery,504 Hazard Ave,Enfield,CT,0,41.983665,-72.519573,www.powderhollowbrewery.com
-Norbrook Farm Brewery,204 Stillman Hill Rd,Colebrook,CT,06021,41.988618,-73.141421,www.norbrookfarm.com
+Norbrook Farm Brewery,204 Stillman Hill Rd,Colebrook,CT,6021,41.988618,-73.141421,www.norbrookfarm.com
 Alarmist BRewing,4055 W Peterson Ave Ste REAR,Chicago,IL,60646-6072,41.989737,-87.731418,alarmistbrewing.com
 Bluestone Brewing Company,18 Pitney St,Sayre,PA,18840-2720,41.992162,-76.544455,www.bluestonebrewingcompany.com
 Ravenous Brewing Company,840 Cumberland Hill Rd,Woonsocket,RI,02895-5657,41.994962,-71.486457,www.ravenousbrew.com
@@ -5211,7 +5211,7 @@ Diversion Brewing Co,729 Wyncoop Creek Rd,Chemung,NY,14825-9755,42.017765,-76.62
 Peckish Pig,623 Howard St,Evanston,IL,60202-3941,42.019607,-87.67944,www.thepeckishpig@gmail.com
 Granite City Food & Brewery (#5),4755 1st Ave SE,Cedar Rapids,IA,52402-3211,42.025115,-91.621403,www.gcfb.net
 Torrent Brewing Co,504 Burnett Ave,Ames,IA,50010-6178,42.025939,-93.615226,www.torrentbrewingco.com
-Great Falls Brewing Company,1 Railroad Plaza,North Canaan,CT,06018,42.027116,-73.329576,www.GreatFallsBrews.com
+Great Falls Brewing Company,1 Railroad Plaza,North Canaan,CT,6018,42.027116,-73.329576,www.GreatFallsBrews.com
 Black Fire Winery,1261 E Munger Rd,Tecumseh,MI,49286-8714,42.027307,-83.999278,
 Mikerphone Brewing,121 Garlisch Dr,Elk Grove Village,IL,60007-1322,42.029754,-87.967503,www.mikerphonebrewing.com
 Divots Brewery,4200 W Norfolk Ave,Norfolk,NE,68701-9202,42.032416,-97.458171,www.divotsbrewery.com
@@ -5239,14 +5239,14 @@ Old Colony Brewing,605 Bedford St Unit 1,Whitman,MA,02382-2088,42.07745,-70.9460
 Alluvial Brewing Company,3715 W 190th St,Ames,IA,50014-9316,42.078024,-93.669028,www.alluvialbrewing.com
 Macushla Brewing Co,1516 E Lake Ave,Glenview,IL,60025,42.080163,-87.798425,www.macushlabeer.com
 Sister Lakes Brewing Company,92500 County Road 690,Dowagiac,MI,49047-9021,42.083241,-86.203021,www.sisterlakesbrewing.com
-Black Rabbit Farm Wild Ales,358 N Loomis St,Southwick,MA,01077,42.083875,-72.813799,www.blackrabbitprovisions.com
+Black Rabbit Farm Wild Ales,358 N Loomis St,Southwick,MA,1077,42.083875,-72.813799,www.blackrabbitprovisions.com
 Original Gravity Brewing Co,440 County St,Milan,MI,48160-1504,42.083935,-83.675189,www.ogbrewing.com
 Southern Tier Brewing Co,2072 Stoneman Cir,Lakewood,NY,44115-1111,42.088744,-79.349038,www.southerntierbrewing.com
 White Lion Brewing Company,36 Garland St,Springfield,MA,01118-2128,42.089733,-72.53405,www.whitelionbrewing.com
 TripEnd Brewing LLC,3072 Prutsman Rd,Troupsburg,NY,14885-9613,42.091036,-77.551519,www.tripendbrewing.com
 Black Monk Brewery,3723 W 12th St,Erie,PA,16505,42.091969,-80.16567,www.blackmonkbrew.com
-Big Elm Brewing,65 Silver St,Sheffield,MA,01257,42.093271,-73.350816,www.bigelmbrewery.com
-Two Weeks Notice Brewing,110 Bosworth St,West Springfield,MA,01089,42.094978,-72.6184,www.twoweeksnoticebrewing.com
+Big Elm Brewing,65 Silver St,Sheffield,MA,1257,42.093271,-73.350816,www.bigelmbrewery.com
+Two Weeks Notice Brewing,110 Bosworth St,West Springfield,MA,1089,42.094978,-72.6184,www.twoweeksnoticebrewing.com
 Brewery 719,817 E 3rd St,Alliance,NE,69301-3945,42.097534,-102.860855,www.brewery719.com
 "Purgatory Beer Co, LLC",670 Linwood Ave Bldg C,Whitinsville,MA,01588-2068,42.098302,-71.646683,www.purgatorybeer.com
 Emmett's Brewing Co - West Dundee,128 W Main St,West Dundee,IL,60118-2017,42.098403,-88.278418,www.emmettsbrewingco.com
@@ -5254,14 +5254,14 @@ Galaxy Brewing Co,"41 Court St, 153 & 157",Binghamton,NY,13901-3104,42.098897,-7
 Water Street Brewing Co,168 Water St Fl 1,Binghamton,NY,13901-2736,42.099354,-75.914082,www.waterstreetbrewingco.com
 North Brewery,110 Washington Ave,Endicott,NY,13760-5307,42.102023,-76.04843,www.northbrewery.com
 Black & Gray Brewing Co.,311 Barrington Ave Unit B,East Dundee,IL,60118,42.102296,-88.275264,www.blackandgraybrewing.com
-Stellwagen Beer Company,100 Enterprise Drive,Marshfield,MA,02050,42.103662,-70.748093,www.stellwagenbeer.com
+Stellwagen Beer Company,100 Enterprise Drive,Marshfield,MA,2050,42.103662,-70.748093,www.stellwagenbeer.com
 10th District Brewing Company,491 Washington St,Abington,MA,02351-2419,42.105696,-70.945882,www.10thdistrictbrewing.com
 Granite City Food & Brewery,992 Willow Rd,Northbrook,IL,60062-6806,42.106237,-87.803007,
 Final Gravity Brewing Co,103 N Phelps St,Decatur,MI,49045-1008,42.108632,-85.974482,www.finalgravitybrew.com
 Erie Brewing Company,6008 Knowledge Pkwy # A,Erie,PA,16510-4676,42.108655,-79.953504,www.eriebrewingco.com
 Silver Harbor Brewing Company,721 Pleasant St,Saint Joseph,MI,49085-1241,42.109026,-86.480398,silverharborbrewing.com
 The FarmHouse Brewery,14 George St,Owego,NY,13827-1084,42.111,-76.268895,www.thefarmhousebrewery.com
-Tin Bridge Brewing,487 E Main St,Westfield,MA,01085,42.111484,-72.721123,www.tinbridgebrewing.com
+Tin Bridge Brewing,487 E Main St,Westfield,MA,1085,42.111484,-72.721123,www.tinbridgebrewing.com
 Suarez Family Brewery,2278 RT. 9,Hudson,NY,12534-4701,42.111724,-73.811337,www.suarezfamilybrewery.com
 Emmett's Brewing Co - Palatine,110 N Brockway St,Palatine,IL,60067-5063,42.11285,-88.046603,www.emmettsbrewingco.com
 Binghamton Brewing Co,15 Avenue B,Johnson City,NY,13790-2234,42.115234,-75.953488,www.bingbrew.com
@@ -5278,21 +5278,21 @@ Hairy Cow Brewing Company,450 E Blackhawk Dr,Byron,IL,61010,42.125546,-89.250368
 North Pier Brewing - Production Facility,725 North Shore Dr,Benton Harbor,MI,49022,42.126577,-86.45548,
 Upstate Brewing Co,3028 Lake Rd,Elmira,NY,14903-1409,42.133273,-76.811814,www.upstatebrewing.com
 Tree House Brewery,129 Sturbridge Rd,Charlton,MA,01507-5330,42.137213,-72.012114,www.treehousebrew.com
-Rapscallion Ales,195 Arnold Rd,Sturbridge,MA,01518,42.139999,-72.109971,www.drinkrapscallion.com
+Rapscallion Ales,195 Arnold Rd,Sturbridge,MA,1518,42.139999,-72.109971,www.drinkrapscallion.com
 "CraftRoots Brewing, LLC.",4 Industrial Rd Ste 8,Milford,MA,01757-3589,42.141608,-71.492289,www.craftrootsbrewing.com
 Liquid Shoes Brewing,26 E Market St,Corning,NY,14830,42.143082,-77.053501,www.liquidshoesbrewing.com
 Market Street Brewing Co,63 W Market St # 65,Corning,NY,14830-2526,42.144002,-77.057107,www.936-beer.com
 Village Vintner Winery & Brewery,2380 Esplanade Dr Ste 100,Algonquin,IL,60102-5450,42.145677,-88.338662,www.thevillagevintner.com
 Carey's Brew House,58 Bridge St,Corning,NY,14830-2239,42.150132,-77.060637,www.careysbrewhouse.com
-Fieldcrest Brewing Company,2343 Boston Road,Wilbraham,MA,01095,42.15041,-72.458584,www.fieldcrestbrewing.com
+Fieldcrest Brewing Company,2343 Boston Road,Wilbraham,MA,1095,42.15041,-72.458584,www.fieldcrestbrewing.com
 Burke's Alewerks,200 Webster St Ste 3,Hanover,MA,02339-1230,42.153756,-70.854434,www.burkesalewerks.com
 Iron Duke Brewing Co,100 State St Ste 122,Ludlow,MA,01056-3435,42.153849,-72.47806,www.irondukebrewing.com
 Iron Flamingo Brewery,196 Baker St,Corning,NY,14830-2074,42.155167,-77.056437,www.ironflamingobrewery.com
 Flesk Brewing,200 Applebee St Ste E,Barrington,IL,60010-3063,42.155839,-88.139688,www.fleskbrewing.com
 Ellicottville Brewing On Chautauqua,57 Lakeside Dr,Bemus Point,NY,14712,42.159555,-79.393253,
-Vanished Valley Brewing Company,782 Center Street,Ludlow ,MA,01056,42.16009,-72.47592,www.vanishedvalley.com
+Vanished Valley Brewing Company,782 Center Street,Ludlow ,MA,1056,42.16009,-72.47592,www.vanishedvalley.com
 Nostrovia Brewing Co,4415 East Lake Rd,Erie,PA,16511,42.160349,-80.012542,www.nostroviabrewing.com
-Rustic Brewing Company,34 Front St Studio G21,Indian Orchard,MA,01151,42.160405,-72.506093,www.rusticbrewco.com
+Rustic Brewing Company,34 Front St Studio G21,Indian Orchard,MA,1151,42.160405,-72.506093,www.rusticbrewco.com
 Stony Lake Brewing Company,447 E Michigan Ave,Saline,MI,48176-1547,42.162914,-83.79017,www.stonylakebrewing.com
 Ravinia Brewing Company,582 Roger Williams,Highland Park,IL,60035,42.165393,-87.78509,www.raviniabrewing.com
 Salt Springs Brewery,117 S Ann Arbor St,Saline,MI,48176-1320,42.165932,-83.780472,www.saltpsringsbrewery.com
@@ -5303,7 +5303,7 @@ Beer Tree Brew Co,197 Rte 369,Port Crane,NY,13833,42.170131,-75.832463,www.beert
 Wild River Brewing and Pizza Co,249 N Redwood Hwy,Cave Junction,OR,97523-9023,42.170816,-123.645516,www.wildriverbrewing.com
 Scorched Earth Brewing Co.,203 Berg St,Algonquin,IL,60102-3537,42.170934,-88.303105,scorchedearthbrewing.com
 Prairie Krafts Brewing Company,1310 Busch Pkwy,Buffalo Grove,IL,60089-4505,42.171924,-87.931542,www.prairiekrafts.com
-Percival Brewing Company,83 Morse St,Norwood,MA,02122,42.172667,-71.206295,www.percivalbeercompany.com
+Percival Brewing Company,83 Morse St,Norwood,MA,2122,42.172667,-71.206295,www.percivalbeercompany.com
 Buffalo Creek Brewing,360 Historical Ln,Long Grove,IL,60047-9613,42.176797,-87.997996,www.facebook.com/buffalocreekbrewing
 Untold Brewing,6 Old Country Way,Scituate,MA,02066-3773,42.180867,-70.747224,www.untoldbrewing.com
 Caldera Brewing Co,590 Clover Ln,Ashland,OR,97520-3709,42.182096,-122.66302,www.calderabrewing.com
@@ -5314,7 +5314,7 @@ Weaver Hollow Brewery,294 Depot St,Andes,NY,13731,42.187262,-74.789211,www.weave
 West Kill Brewing,2173 Spruceton Rd,West Kill,NY,12492-5823,42.190559,-74.292591,www.westkillbrewing.com
 Arclight Brewing Company,544 N Main St,Watervliet,MI,49098-9797,42.191014,-86.259381,www.arclightbrewing.com
 Barrel House Z,95 Woodrock Rd,Weymouth,MA,02189-2335,42.192558,-70.92785,www.barrelhousez.net
-Vitamin Sea Brewing,30 Moore Rd,Weymouth,MA,02189,42.192734,-70.929139,
+Vitamin Sea Brewing,30 Moore Rd,Weymouth,MA,2189,42.192734,-70.929139,
 ZeLUS Beer Company,120 N Meadows Rd,Medfield,MA,02052-1594,42.193157,-71.328502,www.zelusbeer.com
 7th Wave Brewing,120 N Meadows Rd Ste 8,Medfield,MA,02052-1594,42.193157,-71.328502,www.7thwavebrewing.com
 Leadfoot Brewing,95 N Chicopee St,Chicopee,MA,01020-2216,42.193477,-72.599139,www.leadfootbrewing.com
@@ -5323,7 +5323,7 @@ Presidential Brewing Co.,8302 Portage Rd,Portage,MI,49024,42.196552,-85.56079,ww
 Roaring Table Brewing,739 W IL 22,Lake Zurich,IL,60047,42.197314,-88.080621,www.roaringtable.com
 Standing Stone Brewing Co,101 Oak St,Ashland,OR,97520-1802,42.197576,-122.714404,www.standingstonebrewing.com
 Article Fifteen Brewing,835 Washington St,Weymouth,MA,02189-1535,42.200532,-70.943175,www.articlefifteenbrewing.com
-Holyoke Craft Beer,208 Race Street,Holyoke,MA,01040,42.202117,-72.605842,https://www.holyokecraftbeer.com/
+Holyoke Craft Beer,208 Race Street,Holyoke,MA,1040,42.202117,-72.605842,https://www.holyokecraftbeer.com/
 Sports Brew Pub,166 Maple St,Wyandotte,MI,48192-5928,42.202247,-83.150779,
 Texas Corners Brewing Company,6970 Texas Dr,Kalamazoo,MI,49009-9795,42.202468,-85.6862,www.texascornersbrewing.com
 Half Day Brewing Company,200 Village Grn,Lincolnshire,IL,60069-3028,42.202703,-87.930782,www.halfdaybrewing.com
@@ -5335,7 +5335,7 @@ Start Line Brewing Company,151R Hayden Rowe St,Hopkinton,MA,01748-2511,42.210494
 Barrington Brewery and Restaurant,420 Stockbridge Rd Ste 4,Great Barrington,MA,01230-9512,42.212905,-73.344235,www.barringtonbrewery.net
 Paw Paw Brewing Company LLC,780 S Gremps Street,PAW PAW,MI,49079,42.213246,-85.894397,www.pawpawbrewing.com
 Off The Cuff Brewing Company,111 Washington Street,West Brookfield,MA,01585-6023,42.21514,-72.180943,www.offthecuffbrewing.com
-Drunken Rabbit Brewing,749A New Ludlow Rd,South Hadley,MA,01020,42.215357,-72.55603,www.rabbit.beer
+Drunken Rabbit Brewing,749A New Ludlow Rd,South Hadley,MA,1020,42.215357,-72.55603,www.rabbit.beer
 Ironbark Brewery,2610 Kibby Rd,Jackson,MI,49203-4908,42.218862,-84.437529,
 Widowmaker Brewing,220 Wood Rd,Braintree,MA,02184-2408,42.220771,-71.037187,www.widowmakerbrew.wordpress.com
 Crossroads Brewing Company - Catskill Taproom,201 Water St,Catskill,NY,12015,42.220831,-73.867717,
@@ -5345,11 +5345,11 @@ Arundel Cellars & Brewing Co,11727 E Main Rd,North East,PA,16428-3635,42.224934,
 Klamath Basin Brewing Co,1320 Main St,Klamath Falls,OR,97601-5914,42.227982,-121.776518,www.kbbrewing.com
 Edelbrau Brewing Company,719 W Ellsworth Rd Ste 2,Ann Arbor,MI,48108-3393,42.228168,-83.742999,www.edelbrau.com
 Johnnie Byrd Brewing Company,121 N Pearl St,Wayne,NE,68787,42.229403,-97.019111,www.johnniebyrd.beer
-Timberyard Brewing Co.,555 E Main St,East Brookfield,MA,01515,42.230929,-72.02904,http://timberyardbrewing.com
+Timberyard Brewing Co.,555 E Main St,East Brookfield,MA,1515,42.230929,-72.02904,http://timberyardbrewing.com
 Bravo! Restaurant & Cafe,5402 Portage Rd,Portage,MI,49002-1718,42.238502,-85.560271,www.bravokalamazoo.com
 Mishigama Craft Brewing / Ypsi Alehouse,124 Pearl St Ste 100,Ypsilanti,MI,48197-5374,42.24245,-83.614217,www.ypsialehouse.com
 Lucky Girl Brewing Co Crossroads,34016 M 43,Paw Paw,MI,49079-8464,42.243011,-85.930846,luckygirlcrossroads.com
-3cross Fermentation Cooperative,4 Knowlton Ave,Worcester,MA,01603,42.243718,-71.830662,www.3cross.coop
+3cross Fermentation Cooperative,4 Knowlton Ave,Worcester,MA,1603,42.243718,-71.830662,www.3cross.coop
 Entitled Beer Company,21 North St,Hingham,MA,0,42.244465,-70.885356,www.entitledbrewing.com
 Pointless Brewery,3014 Packard St,Ann Arbor,MI,48108-1935,42.244878,-83.702032,www.pointlessbrew.com
 Crystal Lake Brewing Co.,150 N Main St,Crystal Lake,IL,60014-4433,42.245652,-88.316474,
@@ -5363,8 +5363,8 @@ Arbor Brewing Co. Microbrewery,720 Norris St,Ypsilanti,MI,48198-2825,42.250241,-
 Hudson Brewing Company,99 S 3rd St,Hudson,NY,12534,42.250372,-73.797167,www.hudsonbrew.com
 Hingham Beer Works,18 Shipyard Dr Ste 1K,Hingham,MA,02043-1670,42.251929,-70.922881,
 Pileated Brewing Co,2290 South Industrial Highway,Ann Arbor,MI,48104,42.252899,-83.733992,www.pileatedbrewing.com
-Opa Opa Brewery,19 Wemelco Way,Easthampton,MA,01027,42.253719,-72.689834,www.opaopasteakhousebrewery.com
-Flying Dreams Brewing Co.,455B Park Ave,Worcester,MA,01610,42.254604,-71.825476,www.flyingdreamsbrewing.com
+Opa Opa Brewery,19 Wemelco Way,Easthampton,MA,1027,42.253719,-72.689834,www.opaopasteakhousebrewery.com
+Flying Dreams Brewing Co.,455B Park Ave,Worcester,MA,1610,42.254604,-71.825476,www.flyingdreamsbrewing.com
 One Well Brewing Production Facility,3618 Gembrit Cir,Kalamazoo,MI,49001,42.256889,-85.536667,
 Biercamp,1643 S State St,Ann Arbor,MI,48104-4302,42.258445,-83.739534,www.bier-camp.com
 River Ridge Brewing,118 N Riverview St,Bellevue,IA,52031-1248,42.259133,-90.423466,www.riverridgebrewing.com
@@ -5377,7 +5377,7 @@ Tighthead Brewing Co,161 N Archer Ave,MUNDELEIN,IL,60060,42.265842,-87.998807,ww
 Bear and Bramble Brewing Company,10 Payson Ave # 1,Easthampton,MA,01027-2207,42.266237,-72.673024,
 American Brewers Inc,3408 Miller Rd,Kalamazoo,MI,49001-4111,42.266654,-85.538435,www.americanbrewers.us
 Dark Horse Brewing Co,511 S Kalamazoo Ave,Marshall,MI,49068-1718,42.266709,-84.963939,www.darkhorsebrewery.com
-Redemption Rock Brewing Co,333 Shrewsbury St,Worcester,MA,01604,42.26871,-71.777949,www.redemptionrock.beer
+Redemption Rock Brewing Co,333 Shrewsbury St,Worcester,MA,1604,42.26871,-71.777949,www.redemptionrock.beer
 Carlyle Brewing Co,215 E State St,Rockford,IL,61104-1010,42.268906,-89.090663,www.carlylebrewing.com
 Wolverine State Brewing Co,2019 W Stadium Blvd # 103,Ann Arbor,MI,48103-4557,42.269579,-83.774511,www.wolverinebeer.com
 Big Inlet Brewing,6169 Elm Flat Rd,Mayville,NY,14757-9730,42.270108,-79.473523,www.biginletbrewing.com
@@ -5409,7 +5409,7 @@ Mickey Finns Brewery,345 N Milwaukee Ave,Libertyville,IL,60048-2237,42.286329,-8
 "Bell's Brewery, Inc",8938 Krum Ave,Galesburg,MI,49053-9558,42.287238,-85.457792,www.bellsbeer.com
 Tootsie's Brewery / Lone Oak Vineyard,8400 Ann Arbor Rd,Grass Lake,MI,49240-9586,42.288016,-84.26465,www.tootsiesbrewery.com
 Tibbs Brewing Co,402 S Burdick St,Kalamazoo,MI,49007-5218,42.288713,-85.583257,
-Greater Good Imperial Brew Co,55 Millbrook St,Worcester,MA,01606,42.288818,-71.801364,https://shop.greatergoodimperials.com
+Greater Good Imperial Brew Co,55 Millbrook St,Worcester,MA,1606,42.288818,-71.801364,https://shop.greatergoodimperials.com
 Owen OLearys Restaurant and Brewery,17 Connector Rd,Westborough,MA,01581-3916,42.289451,-71.585932,www.owenolearys.com
 Arcadia Brewing Co,701 E Michigan Ave,Kalamazoo,MI,49007-4946,42.290329,-85.594839,www.arcadiaales.com
 Saugatuck Brewing Company - Kalamazoo,140 S Westnedge Ave,Kalamazoo,MI,49007-4600,42.291153,-85.589886,www.gonzosbiggdoggbrewing.com
@@ -5423,7 +5423,7 @@ Latitude 42 Oshtemo,6075 W Main St,Kalamazoo,MI,49009,42.295691,-85.668777,
 Spencer Brewery,167 N Spencer Rd,Spencer,MA,01562-1232,42.296617,-72.012111,www.spencerbrewery.com
 Sandhill Crane Vineyards,4724 Walz Rd,Jackson,MI,49201-9613,42.301674,-84.294606,www.sandhillcranevineyards.com
 John Harvards Brew House - Framingham,1 Worcester Rd,Framingham,MA,01701-5359,42.30189,-71.395912,www.johnharvards.com
-Lost Towns Brewing Company,483 Main St,Gilbertville,MA,01031,42.301901,-72.211091,www.losttownbrewing.com
+Lost Towns Brewing Company,483 Main St,Gilbertville,MA,1031,42.301901,-72.211091,www.losttownbrewing.com
 Boatyard Brewing Co,432 E Paterson St,Kalamazoo,MI,49007-2599,42.303134,-85.578418,www.boatyardbrewing.com
 Dearborn Brewing,21930 Michigan Ave,Dearborn,MI,48124-2351,42.306577,-83.243108,www.dearbornbrewing.com
 Turtle Swamp Brewing,3377 Washington St,Jamaica Plain,MA,02130-2617,42.309077,-71.105571,www.turtleswampbrewing.com
@@ -5439,7 +5439,7 @@ Railhead Brewing Company,40 Park Dr,Hornell,NY,14843-2213,42.31623,-77.654877,ww
 Northampton Brewery,11 Brewster Ct,Northampton,MA,01060-3801,42.317414,-72.630243,www.northamptonbrewery.com
 Chelsea Alehouse Brewery,115 South Main St,Chelsea,MI,48118,42.317569,-84.020176,www.chelseaalehouse.com
 Wax Wings Brewing Co,3840 Gull Rd,Kalamazoo,MI,49048,42.318186,-85.533314,www.waxwingsbrewing.com
-Progression Brewing Company,9 Pearl St,Northampton,MA,01060,42.318576,-72.627181,www.progbrew.com
+Progression Brewing Company,9 Pearl St,Northampton,MA,1060,42.318576,-72.627181,www.progbrew.com
 Building 8 Brewing,320 Riverside Dr Ste 8,Florence,MA,01062-2750,42.320191,-72.665229,
 Osmo's Alehouse,522 S Central Ave,Medford,OR,97501-7246,42.321673,-122.868151,
 Dorchester Brewing Company,1250 Massachusetts Ave,Dorchester,MA,02125-1698,42.3221,-71.062173,www.dorchesterbrewing.com
@@ -5448,7 +5448,7 @@ Bricktowne Brewing Co,111 E 8th St,Medford,OR,97501-7201,42.325643,-122.871887,w
 Portal Brewing Co,100 E 6th St,Medford,OR,97501-5902,42.326913,-122.87369,www.portalbrewingco.com
 Brew Detroit,1401 Abbott St,Detroit,MI,48216-1946,42.327665,-83.061693,www.brewdetroit.com
 American Badass Beer,1401 Abbott St Corktown,Detroit,MI,48216-1946,42.327665,-83.061693,www.americanbadassbeer.com
-Backlash Beer Co,152 Hampden St,Boston,MA,02119,42.32779,-71.07492,www.backlashbeer.com
+Backlash Beer Co,152 Hampden St,Boston,MA,2119,42.32779,-71.07492,www.backlashbeer.com
 Batch Brewing Co,1400 Porter St,Detroit,MI,48216-1934,42.328255,-83.063069,www.BatchBrewingCompany.com
 Granite City Food & Brewery,100 Renaissance Ctr,Detroit,MI,60062-6806,42.329033,-83.039762,
 Common Block Brewing Company,315 E 5th Street,Medford,OR,97501,42.329056,-122.872577,www.commonblockbrewing.com
@@ -5461,20 +5461,20 @@ Founders Brewing Co,456 Charlotte St,Detroit,MI,49503-4037,42.343001,-83.059893,
 Light the Lamp Brewery,2 S Lake St,Grayslake,IL,60030,42.344171,-88.044033,www.lightthelampbrewery.com
 Boston Beer Co,1 Design Center Pl Ste 850,Boston,MA,02210-2300,42.34419,-71.03289,www.samueladams.com
 McHenry Brewing Company,3425 Pearl St.,McHenry,IL,60050,42.346416,-88.264421,www.mchenrybrewing.com
-Lost Shoe Brewing and Roasting Company,19 Weed St,Marlborough,MA,01752,42.346458,-71.547265,www.lostshoebrews.com
+Lost Shoe Brewing and Roasting Company,19 Weed St,Marlborough,MA,1752,42.346458,-71.547265,www.lostshoebrews.com
 Eastern Market Brewing Company,2515 Riopelle St,Detroit,MI,48207-4526,42.346516,-83.038723,www.easternmarket.beer
 Harpoon Brewery,306 Northern Ave Ste 2,Boston,MA,02210-2367,42.346919,-71.034158,www.harpoonbrewery.com
-Flying Dreams Brewing Co,277 Main St,Marlborough,MA,01752,42.347111,-71.553081,
+Flying Dreams Brewing Co,277 Main St,Marlborough,MA,1752,42.347111,-71.553081,
 Cheeky Monkey Brewing Co / Lucky Strike Jillians,3 Lansdowne St,Boston,MA,02215-3412,42.347347,-71.094951,www.cheekymonkeyboston.com
 Walkabout Brewing Co,921 Mason Way,Medford,OR,97501,42.347903,-122.902646,
-Strange Brewery,416 Boston Post Rd E,Marlborough,MA,01752,42.348269,-71.513429,www.strangebrew.net
+Strange Brewery,416 Boston Post Rd E,Marlborough,MA,1752,42.348269,-71.513429,www.strangebrew.net
 "Canton Brew Works, LLC",8521 N Lilley Rd,Canton,MI,48187-2091,42.349247,-83.460037,www.cantonbrewworks.com
-Seven Saws Brewing,1148 Main St,Holden ,MA,01520,42.350023,-71.860022,www.sevensawsbrewing.com
+Seven Saws Brewing,1148 Main St,Holden ,MA,1520,42.350023,-71.860022,www.sevensawsbrewing.com
 Traffic Jam and Snug,4268 2nd Ave,Detroit,MI,48201-1706,42.350289,-83.065822,www.trafficjamdetroit.com
-Trillium Brewing - Fort Point,50 Thomson Pl,Boston,MA,02210,42.351378,-71.04682,
+Trillium Brewing - Fort Point,50 Thomson Pl,Boston,MA,2210,42.351378,-71.04682,
 Motor City Brewing Works Warehouse,441 W Canfield St,Detroit,MI,48201-1231,42.351486,-83.064524,
 Motor City Brewing Works,470 W Canfield St,Detroit,MI,48201-1220,42.351655,-83.064893,www.motorcitybeer.com
-Democracy Brewing,35 Temple Pl,Boston,MA,02111,42.355116,-71.062232,www.democracybrewing.com
+Democracy Brewing,35 Temple Pl,Boston,MA,2111,42.355116,-71.062232,www.democracybrewing.com
 Lena Brewing Company,9416 W Wagner Rd,Lena,IL,61048-9664,42.3577,-89.797952,
 Hopsters,292 Centre St,Newton,MA,02458-1618,42.358359,-71.184662,www.hopstersbrew.com
 Granite City Food & Brewery (#19),7144 Harrison Ave Ste 108,Rockford,IL,0,42.358497,-89.185217,
@@ -5482,7 +5482,7 @@ Chatham Brewing LLC,59 Main St,Chatham,NY,12037-1249,42.363277,-73.595295,www.ch
 ZumBier,3232 E Monroe St,Waukegan,IL,60085,42.363473,-87.880609,www.zumbier.com
 Subversive Malting,53 Austerlitz St,Chatham,NY,12037-1122,42.364493,-73.589863,www.drinksubversive.com
 Brazo Fuerte Artisanal Beer,15 Main St Ste 125,Watertown,MA,02472-4403,42.365823,-71.184793,www.brazofuertebeer.com
-Night Shift Brewing,"1 Lovejoy Wharf, Suite 101",Boston,MA,02114,42.367267,-71.059411,
+Night Shift Brewing,"1 Lovejoy Wharf, Suite 101",Boston,MA,2114,42.367267,-71.059411,
 Supernatural Brewing and Spirits,36685 Plymouth Rd,Livonia,MI,48150,42.367431,-83.405145,www.supernaturalbrewing.com
 Lamplighter Brewing Co.,284 Broadway,Cambridge,MA,02139-1808,42.367969,-71.097865,www.lamplighterbrewing.com
 Liberty Street Brewing Production Facility,11721 Levan Rd,Livonia,MI,48150-1401,42.368582,-83.401722,
@@ -5490,25 +5490,25 @@ Wishful Acres Farm and Brewery,4679 N Flansburg Rd,Lena,IL,61048,42.369032,-89.7
 Wishful Acres Farm & Brewery,4679 N. Flansburg Rd.,Lena,IL,61048,42.369032,-89.728724,www.wishfulacresfarm.com
 Seneca Lodge Craft Brewing At Seneca Lodge,3600 Walnut Rd,Watkins Glen,NY,14891-0272,42.369184,-76.873216,www.senecalodge.com
 Pig Minds Brewing Co,4080 Steele Dr,Machesney Park,IL,61115-8358,42.369514,-89.020049,www.pigmindsbrewing.com
-Portico Brewing Co,256 Moody Street,Waltham,MA,02453,42.371915,-71.23654,
+Portico Brewing Co,256 Moody Street,Waltham,MA,2453,42.371915,-71.23654,
 Somerville Brewing Company,15 Ward St,Somerville,MA,02143-4228,42.374832,-71.089266,www.slumbrew.com
 Only Child Brewing Company,1350 Tri State Pkwy Ste 124,Gurnee,IL,60031-9135,42.377217,-87.950019,www.onlychildbrewing.com
 High Horse Brewery and Bistro,24 N Pleasant St,Amherst,MA,01002-1703,42.377637,-72.520048,www.highhorsebrewing.com
 Liberty Street Brewing Co,149 W Liberty St Ste 1,Plymouth,MI,48170-8001,42.379201,-83.461208,www.libertystreetbeer.com
-Remnant Brewing,2 Bow Market Way,Somerville,MA,02143,42.379834,-71.096186,www.remnantsomerville.com
+Remnant Brewing,2 Bow Market Way,Somerville,MA,2143,42.379834,-71.096186,www.remnantsomerville.com
 Rooster Fish Brewing Co.,301 N Franklin St,Watkins Glen,NY,14891-1202,42.381134,-76.87397,www.roosterfishbrewing.com
 Atwater In the Park Biergarten and Tap House,1175 Lakepointe St,Grosse Pointe Park,MI,48230-1319,42.381253,-82.939993,www.atwaterbeer.com
 Aeronaut Brewing Company,14 Tyler St,Somerville,MA,02143-3224,42.381543,-71.105573,www.aeronautbrewing.com
 Amherst Brewing Co / Hangar Pub and Grill,10 University Dr,Amherst,MA,01002-2243,42.383194,-72.531871,www.amherstbrewing.com
-Mighty Squirrel,411 Waverley Oaks,Waltham,MA,02452,42.386939,-71.20242,www.mightysquirrel.com
+Mighty Squirrel,411 Waverley Oaks,Waltham,MA,2452,42.386939,-71.20242,www.mightysquirrel.com
 Arch Rock Brewing Co,28779 Hunter Creek Loop,Gold Beach,OR,97444-9626,42.388872,-124.414998,www.archrockbrewingcompany.com
 Medusa Brewing Company,111 Main St,Hudson,MA,01749-2210,42.390885,-71.566669,www.medusabrewing.com
 Henry And Fran Brewing,185 Laurel St,West Boylston,MA,01583-1535,42.39139,-71.810298,
 Mystic Brewery,174 Williams St,Chelsea,MA,02150-3804,42.391394,-71.044217,
 Brewmasters Tavern / Brewmasters Brewing Services,4 Main St,Williamsburg,MA,01096-9428,42.392313,-72.730535,
-3 Beards Beer Company,4 Main St,Williamsburg,MA,01096,42.392313,-72.730535,www.3beardsbeer.com
+3 Beards Beer Company,4 Main St,Williamsburg,MA,1096,42.392313,-72.730535,www.3beardsbeer.com
 Winter Hill Brewing Company,328 Broadway,Somerville,MA,02145-2803,42.392654,-71.093996,www.winterhillbrewing.com
-Down the Road Brewery,199 Ashland Street,Everett,MA,02149,42.397712,-71.061494,www.downtheroadbrewery.com
+Down the Road Brewery,199 Ashland Street,Everett,MA,2149,42.397712,-71.061494,www.downtheroadbrewery.com
 Finger Lakes Beer Co,8462 State Route 54,Hammondsport,NY,14840-9795,42.399398,-77.226011,
 Harbor Light Brewery,516 Phoenix St,South Haven,MI,49090,42.403028,-86.273472,www.harborlightbrewing.com
 Honey Hollow Brewery,376 E. Honey Rd.,Earlton,NY,12058,42.404203,-73.926439,www.honeyhollowbrewery.com
@@ -5524,7 +5524,7 @@ Hop Barn Brewing,94 Maple Ave,Greenville,NY,12083-3311,42.420263,-74.054525,hopb
 JD's Sports Pub and Brewery,690 Redwood Hwy,Grants Pass,OR,97527-5582,42.423758,-123.340819,www.jdssportsbarandbrewery.com
 Idle Hands Craft Ales,89 Commercial St,Malden,MA,02148-5509,42.424405,-71.074758,www.idlehandscraftales.com
 Mountain View Brewing,161 Mountain View Pl,Grants Pass,OR,97527-4607,42.425112,-123.27683,
-Stone Cow Brewery,500 West St (Route 122),Barre,MA,01005,42.425852,-72.122914,
+Stone Cow Brewery,500 West St (Route 122),Barre,MA,1005,42.425852,-72.122914,
 Bolton Beer Works,100 Wattaquadock Hill Rd,Bolton,MA,01740-1238,42.430248,-71.616383,boltonbeerworks.com
 Battle Road Brewing Co,5 Clock Tower Pl,Maynard,MA,01754-2530,42.431621,-71.455849,www.battleroadbh.com
 Amory's Tomb Brewing Co,76 Main St,Maynard,MA,01754-2516,42.432041,-71.453168,amorystomb.com
@@ -5537,7 +5537,7 @@ Wild River Brewing and Pizza Co - Grants Pass,595 NE E St,Grants Pass,OR,97526-2
 Climate City Brewing Co.,509 SW G St,Grants Pass,OR,97526-2472,42.440139,-123.331305,www.climatecitybrewing.com
 212 Brewing Company,21476 Route 23,Davenport,NY,13750,42.440438,-74.754321,
 Old Mill Brewpub and Grill,717 E Bridge St,Plainwell,MI,49080-1801,42.443083,-85.631701,www.oldmillbrew.com
-Hitchcock Brewing Company,129 Christian Ln,Whately,MA,01093,42.446819,-72.611878,www.hitchcockbrewing.com
+Hitchcock Brewing Company,129 Christian Ln,Whately,MA,1093,42.446819,-72.611878,www.hitchcockbrewing.com
 Cooperstown Brewing Co,41 Browne St.,Oneonta,NY,13820,42.448289,-75.110994,
 Axle Brewing Company,567 Livernois St,Ferndale,MI,48220-2303,42.450586,-83.142991,
 Axle Brewing Company,567 Livernois St,Ferndale,MI,48220-2303,42.450586,-83.142991,www.axlebrewing.com
@@ -5555,7 +5555,7 @@ Farmington Brewing Company LLC,33336 Grand River Ave,Farmington,MI,48336-3124,42
 Urbanrest Brewing Company,2615 Wolcott St,Ferndale,MI,48220-1422,42.467759,-83.127857,www.urbanrest.com
 Grist Iron Brewing Co.,4880 State Route 414,Burdett,NY,14818-9729,42.470017,-76.866845,www.gristironbrewing.com
 "Cellarmen's Meadery, Microbrewery and Cidery",24310 John R Rd,Hazel Park,MI,48030-1112,42.470918,-83.103976,www.cellarmens.com
-Shire Breu Hous,63 Flansburg Ave,Dalton,MA,01226,42.474715,-73.172927,www.shire.beer
+Shire Breu Hous,63 Flansburg Ave,Dalton,MA,1226,42.474715,-73.172927,www.shire.beer
 Lord Hobo Brewing Co,5 Draper St,Woburn,MA,01801-4521,42.476078,-71.128894,lordhobobrewing.com
 True West Brewing Company,525 Massachusetts Ave Ste 107,Acton,MA,01720-2962,42.476356,-71.470728,www.brewtruewest.com
 Two Goats Brewing,5027 State Route 414,Burdett,NY,14818-9816,42.476684,-76.869705,www.twogoatsbrewing.com
@@ -5584,7 +5584,7 @@ Bacchus Brewing,15 Ellis Dr,Dryden,NY,13053-9630,42.49931,-76.300531,www.bacchus
 Treppenhaus Brewing,2401 Falls Ave Ste A,Waterloo,IA,50701,42.499723,-92.377373,
 Tujax Tavern,103 S Grove St,Delton,MI,49046-9470,42.499866,-85.408013,
 Seneca Lake Brewing Company,5430 NY-14,Dundee,NY,14837-8838,42.500975,-76.924771,www.senecalakebrewing.com
-Marblehead Brewing Company,124 Pleasant St,Marblehead,MA,01945,42.501186,-70.856753,www.marbleheadbrewing.co
+Marblehead Brewing Company,124 Pleasant St,Marblehead,MA,1945,42.501186,-70.856753,www.marbleheadbrewing.co
 Steuben Brewing Company,10286 Judson Rd,Hammondsport,NY,14840-9668,42.501653,-77.187255,www.steubenbrewingcompany.com
 Jubeck New World Brewing,115 W 11th St,Dubuque,IA,52001-4802,42.503678,-90.667683,www.jubeckbrewing.com
 Brioux City Brewery,1306 Court St,Sioux City,IA,51105,42.504352,-96.396257,www.briouxcitybrewery.com
@@ -5598,7 +5598,7 @@ Notch Brewing,283R Derby St,Salem,MA,0,42.519907,-70.890878,www.notchbrewing.com
 Scale House Brewery,5930 State Route 414,Hector,NY,14841-9662,42.520575,-76.872895,www.scalehousebrews.com
 Helderberg Brewery,63 Huyck Rd,Rensselaerville,NY,12147-2108,42.521789,-74.143287,careyinstitute.org/programs/sustainable-communities/helderberg-brewery-taproom/
 Tantrick Brewing Co,633 114th Ave Are 3,Allegan,MI,49010,42.522248,-85.834442,www.tantrickbrewing.com
-Granite Coast Brewing Company,77 Main St,Peabody,MA,01960,42.524305,-70.924319,www.granitecoastbrewing.com
+Granite Coast Brewing Company,77 Main St,Peabody,MA,1960,42.524305,-70.924319,www.granitecoastbrewing.com
 Drafting Table Brewing Company,49438 Pontiac Trl,Wixom,MI,48393-2005,42.52447,-83.536458,www.draftingtablebeer.com
 G5 Brewing Company,1895 GATEWAY BOULEVARD,BELOIT,WI,53511,42.525949,-88.958353,www.g5brewingcompany.com
 Kuhnhenn Brewing Co,5919 Chicago Rd,Warren,MI,48092-1606,42.527803,-83.046787,www.kuhnhenn.beer
@@ -5611,10 +5611,10 @@ Second State Brewing Company,203 State St,Cedar Falls,IA,50613-3360,42.536677,-9
 Single Speed Brewing Co Tap Room,128 Main Street,Cedar Falls,IA,50613,42.537004,-92.44522,
 Waypost Brewing Co.,1630 Blue Star Hwy,Fennville,MI,49408,42.537309,-86.215577,waypostbeer.com
 "Salt Point Brewing Co, LLC",2075 East Shore Dr,Lansing,NY,14882,42.537509,-76.505865,
-Essex County Brewing Co,58 Pulaski St Bldg A,Peabody,MA,01960,42.541244,-70.923781,www.essexcountybrewing.com
+Essex County Brewing Co,58 Pulaski St Bldg A,Peabody,MA,1960,42.541244,-70.923781,www.essexcountybrewing.com
 Garrett's Brewing Company,1 W Main St,Trumansburg,NY,14886,42.541972,-76.66252,www.garrettsbrewing.com
 Griffin Claw Brewing Co,575 S Eton St,Birmingham,MI,48009-6824,42.54338,-83.195044,www.griffinclawbrewingcompany.com
-Channel Marker Brewing,95 Rantoul St Unit 102,Beverly,MA,01915,42.544784,-70.884387,www.channelmarkerbrewing.com
+Channel Marker Brewing,95 Rantoul St Unit 102,Beverly,MA,1915,42.544784,-70.884387,www.channelmarkerbrewing.com
 Big Rock Chop House & Brewery,245 S Eton St,Birmingham,MI,48009-6577,42.546608,-83.195626,www.bigrockchophouse.com
 Gentile Brewing Company,59 Park St # 1,Beverly,MA,01915-4253,42.549388,-70.884229,www.gentilebrewing.com
 Old Planters Brewing Co.,100 Corning St,Beverly,MA,01915-3837,42.554444,-70.862159,www.oldplanters.com
@@ -5627,8 +5627,8 @@ Eaton Pub & Grille Brewery / Charlotte Brewing Co,214 S Cochran Ave,Charlotte,MI
 Granite City Food & Brewery (#28),699 W Big Beaver Rd,Troy,MI,48084-4920,42.561524,-83.161112,www.gcfb.com
 Battle Street Brewery,4 Battle St,Dansville,NY,14437-1004,42.56153,-77.698974,www.battelstreetbrewery.com
 Kuhnhenn Clinton Township,36000 Groesbeck Hwy,Clinton Township,MI,48035-1541,42.561894,-82.916931,
-Still River Brewery,100 Park St,Ayer,MA,01432,42.56796,-71.592885,
-Wandering Soul,21 Wellesley Rd,Beverly,MA,01915,42.570505,-70.903654,www.wanderingsoulbeer.com
+Still River Brewery,100 Park St,Ayer,MA,1432,42.56796,-71.592885,
+Wandering Soul,21 Wellesley Rd,Beverly,MA,1915,42.570505,-70.903654,www.wanderingsoulbeer.com
 Wagner Valley Brewing Co,9322 Route 414,Lodi,NY,14860-9641,42.57211,-76.859496,www.wagnerbrewing.com
 "Moon Hill Brewing Co., Inc.",74 Parker St,Gardner,MA,01440-3809,42.575785,-71.997147,www.gardnerale.com
 CJs Brewing Co,8115 Richardson Rd,Commerce Township,MI,48390-4131,42.576648,-83.442666,www.cjsbrewingcompany.com
@@ -5650,7 +5650,7 @@ Minhas Craft Brewery,1208 14th Ave,Monroe,WI,53566-2055,42.599697,-89.641458,www
 Magic Valley Brewing,208 Broadway Ave N,Buhl,ID,83316-1625,42.600071,-114.760898,
 "Bullquarian Brewhouse, LLC",1128 17th Ave,Monroe,WI,53566-2007,42.600312,-89.638381,
 Brick and Feather Brewery,78 11th St,Turners Falls,MA,01376-1020,42.602437,-72.564844,www.brickandfeatherbrewery.com
-Floodwater Brewing Co,40 State St,Shelburne Falls,MA,01370,42.604337,-72.741039,
+Floodwater Brewing Co,40 State St,Shelburne Falls,MA,1370,42.604337,-72.741039,
 Aberrant Ales,219 W Grand River Ave,Howell,MI,48843,42.607554,-83.931734,www.aberrantales.com
 Cape Ann Brewing Co,11 Rogers St,Gloucester,MA,01930-5014,42.611213,-70.665103,
 Helderberg Mountain Brewing Company,83 Main St,East Berne,NY,12059-2020,42.614868,-74.073195,www.helderbergmountainbrewingcompany.com
@@ -5659,7 +5659,7 @@ Miles Craft Ales @ Miles Wine Cellars,168 Randall Rd,Himrod,NY,14842-9715,42.617
 Geneva Lake Brewing Co,750 Veterans Pkwy Unit 107,Lake Geneva,WI,53147-4950,42.617877,-88.52023,www.genevalakebrewingcompany.com
 Real McCoy Beer Co.,20 Hallwood Rd Unit C,Delmar,NY,12054-1925,42.623544,-73.831814,www.therealmccoybeerco.com
 Butternuts Beer,4021 State Highway 51,Garrattsville,NY,13342-1705,42.62415,-75.191623,www.butternutsbeer.com
-Agape Beer Company LLC,10 Blackburn Center,Gloucester,MA,01930,42.624914,-70.653998,www.agapebeer.org
+Agape Beer Company LLC,10 Blackburn Center,Gloucester,MA,1930,42.624914,-70.653998,www.agapebeer.org
 Merrimack Ales,92 Bolt St,Lowell,MA,01852-5316,42.625799,-71.298135,www.merrimackales.com
 Brewery Ommegang,656 County Highway 33,Cooperstown,NY,13326-4737,42.626849,-74.945318,www.ommegang.com
 Abandon Brewing,2994 Merritt Hill Rd,Penn Yan,NY,14527-8938,42.631798,-77.105152,www.abandonbrewing.com
@@ -5735,7 +5735,7 @@ Ashuelot Brewing Company,101 Old County Rd,Richmond,NH,03470-4918,42.760104,-72.
 Martha's Exchange Restaurant and Brewery,185 Main St,Nashua,NH,03060-2701,42.760501,-71.465408,www.marthas-exchange.com
 HeadStrong Brewery,126 N 3rd St,Douglas,WY,82633-2163,42.760556,-105.38448,www.headstrongbrewery.com
 Odd Fellows Brewing Co,124 Main St,Nashua,NH,03060-2723,42.761936,-71.46553,www.oddfellowsbrewery.com
-Liquid Therapy,14 Court St Unit B,Nashua,NH,03060,42.762436,-71.464455,www.liquidtherapynh.com
+Liquid Therapy,14 Court St Unit B,Nashua,NH,3060,42.762436,-71.464455,www.liquidtherapynh.com
 East Aurora Brewery,667 Oakwood Ave,East Aurora,NY,14052,42.765127,-78.609975,www.eastaurorabrewery.com
 42 North Brewing Company,25 Pine St,East Aurora,NY,14052-1827,42.768836,-78.60804,www.42northbrewing.com
 Windy Brew,733 Route 20a,Strykersville,NY,14145-9584,42.77013,-78.435177,www.windybrews.com
@@ -5744,7 +5744,7 @@ Table 41 Brewing Co.,4 Dunsback Ferry Rd,Cohoes,NY,12047-5016,42.77424,-73.70012
 Big Lake Brewing Production Facility,166 E 19th St,Holland,MI,49423-4230,42.780227,-86.100045,
 Bam Entertainment Center,478 E 16th St,Holland,MI,49423-3793,42.783021,-86.086095,www.gobamgo.com
 East Troy Brewery,"2905 Main St, PO 888",East Troy,WI,53120-1245,42.784975,-88.406227,www.etbrew.com
-White Birch Brewing,460 Amherst St,Nashua,NH,03063,42.789543,-71.519254,www.whitebirchbrewing.com
+White Birch Brewing,460 Amherst St,Nashua,NH,3063,42.789543,-71.519254,www.whitebirchbrewing.com
 Border Brewery/Border Brew Supply,224 N Broadway Ste D14,Salem,NH,03079-2145,42.789604,-71.233722,www.borderbrewsupply.com
 Our Brewing Co,76 E 8th St,Holland,MI,49423-3556,42.790196,-86.100764,www.ourbrewingcompany.com
 ONCO Fermentations,397 NY-281 Suite O,Tully,NY,13159,42.79028,-76.122008,www.oncoferment.com
@@ -5753,7 +5753,7 @@ Lynchpin Beer Company / The Laundry,115 W Shiawassee Ave,Fenton,MI,48430-2005,42
 New Glarus Brewing Co,2400 State Highway 69,New Glarus,WI,53574,42.794194,-89.630126,www.newglarusbrewing.com
 New Glarus Brewing Co - Riverside,2400 State Hwy 69,New Glarus,WI,53574,42.794194,-89.630126,www.newglarusbrewing.com
 J'ville Brewery,201 Vt Route 112,Jacksonville,VT,05342-9634,42.794559,-72.819916,www.jvillebrewery.com
-Merrimac Brewing Company,12 Maple St,West Newbury,MA,01985,42.795262,-70.994727,
+Merrimac Brewing Company,12 Maple St,West Newbury,MA,1985,42.795262,-70.994727,
 Brewery 4 Two 4,321 Douglas Ave Ste 120,Holland,MI,49424-6599,42.797806,-86.123709,brewery424.com
 "Northern Oak Brewery, Inc.",806 N Saginaw St,Holly,MI,48442-1347,42.800362,-83.626898,www.northernoakbrewery.com
 Riverwalk Brewing Co.,40 Parker St,Newburyport,MA,01950-4056,42.801489,-70.880145,www.riverwalkbrewing.com
@@ -5795,7 +5795,7 @@ Windfall Brewing Company / BLAKE??S HARD CIDER CO.,17985 Armada Center Rd,Armada
 "Bottomless Brewing, LLC",3543 E Lake Rd,Geneva,NY,14456-9261,42.854661,-76.933122,www.bottomlessbrewing.com
 Deb's Brewtopia,106 Cedar St,Elkader,IA,52043,42.854852,-91.406237,www.debsbrewtopia.com
 Rising Storm Brewing Company,5750 S Lima Rd Unit 1,Avon,NY,14414,42.855023,-77.706229,www.risingstormbrewing.com
-BareWolf Brewing,12 Oakland St,Amesbury,MA,01913,42.857148,-70.923939,www.barewolfbrewing.com
+BareWolf Brewing,12 Oakland St,Amesbury,MA,1913,42.857148,-70.923939,www.barewolfbrewing.com
 "Brewery Creek Inn, Restaurant and Brewery",23 Commerce St,Mineral Point,WI,53565-1368,42.85727,-90.176993,www.brewerycreek.com
 Brewery Silvaticus,9 Water St,Amesbury,MA,01913-2936,42.857312,-70.929523,www.silvaticusbeers.com
 Portneuf Valley Brewing Co,615 S 1st Ave,Pocatello,ID,83201-6557,42.860009,-112.443323,www.portneufvalleybrewing.com
@@ -5808,7 +5808,7 @@ Gene McCarthy's/Old First Ward Brewing Company,73 Hamburg St,Buffalo,NY,14204-27
 Jim Dandy Brewing,305 E Lander St,Pocatello,ID,83201,42.865992,-112.448353,www.jimdandybrewing.com
 Wind River Brewing Co - WY,402 Pine St,Pinedale,WY,82941,42.866436,-109.865665,www.windriverbrewingco.com
 Pressure Drop Brewing,65 Vandalia St,Buffalo,NY,14204-2739,42.866501,-78.861019,www.barrelfactory.com
-Beer Naked Brewery,7678 VT-RTE 9,Marlboro,VT,05344,42.866605,-72.732533,www.beernakedbrewery.com
+Beer Naked Brewery,7678 VT-RTE 9,Marlboro,VT,5344,42.866605,-72.732533,www.beernakedbrewery.com
 Naked Dove Brewing Company,4048 State Route 5 and 20,Canandaigua,NY,14424-9591,42.866849,-77.22524,www.nakeddovebrewing.com
 Lake Drum Brewing,16 E Castle St,Geneva,NY,14456-2400,42.867782,-76.980942,www.lakedrumbrewing.com
 G.C. Starkey Beer Company,68 Castle St Apt 1C,Geneva,NY,14456-2648,42.868208,-76.983101,www.starkeyslookout.com
@@ -5825,7 +5825,7 @@ Young Lion Brewing Co,24 Lakeshore Dr,Canandaigua,NY,14424-2333,42.875774,-77.26
 Hydraulic Hearth,716 Swan St,Buffalo,NY,14210,42.876664,-78.849576,www.hydraulichearth.com
 Moonlight Meadery/Hidden Moon Brewing,23 Londonderry Rd Unit 17,Londonderry,NH,03053-3314,42.877274,-71.342218,www.moonlightmeadery.com
 Critz Farms Brewing & Cider Co.,3232 Rippleton Rd,Cazenovia,NY,13035-9693,42.877315,-75.874356,www.critzfarms.com
-Harvest Brewing,201 South St,Bennington,VT,05201,42.877497,-73.197187,www.harvestbrewing.org
+Harvest Brewing,201 South St,Bennington,VT,5201,42.877497,-73.197187,www.harvestbrewing.org
 Belt Line Brewery & Kitchen,545 Swan St Ste 200,Buffalo,NY,14204,42.87795,-78.85545,www.belt-linebrewing.com
 Buffalo Brewing Company,314 Myrtle Ave,Buffalo,NY,14204-2058,42.878281,-78.858131,www.buffalo-brewing-company.com
 "Madison Brewing Co, Pub and Restaurant",428 Main St,Bennington,VT,05201-2109,42.878388,-73.196369,www.madisonbrewingco.com
@@ -5842,7 +5842,7 @@ Big Ditch Brewing Company,55 E Huron St,Buffalo,NY,14203-1632,42.888025,-78.8707
 Peacemaker Brewing Company,20 Pleasant St,Canandaigua,NY,14424-2047,42.888355,-77.278799,www.peacemakerbrewing.com
 Kelsen Brewing Company,80 N High St Unit 3,Derry,NH,03038-2272,42.89007,-71.333051,www.kelsenbrewing.com
 Wolf Hollow Brewing Company,6882 Amsterdam Rd,Schenectady,NY,12302,42.892812,-74.06663,www.wolfhollowbrewing.com
-Laughing Crow Beer,7 Austin Rd,Amherst,NH,03031,42.89694,-71.608224,
+Laughing Crow Beer,7 Austin Rd,Amherst,NH,3031,42.89694,-71.608224,
 Community Beer Works,520 7th St,Buffalo,NY,14213-1344,42.898681,-78.891881,
 Dublin Corners Farm Brewery,1906 Main St,Linwood,NY,14486-9707,42.898793,-77.880803,www.dublincornersfarm.com
 Copper Turret Restaurant and Brewhouse,17 W Main St,Morrisville,NY,0,42.898809,-75.653137,www.copperturret.com
@@ -5859,10 +5859,10 @@ Thin Man Brewery,486 Elmwood Ave,Buffalo,NY,14222-2014,42.910303,-78.877392,www.
 Tim's Pumpkin Patch,2901 Rose Hill Rd,Marietta,NY,13110-3236,42.911544,-76.344109,www.timspumpkinpatch.com
 Mortalis Brewing Company,5660 Tec Dr,Avon,NY,14414,42.912473,-77.700806,
 Thornapple Brewing Company,6262 28th st SE,Grand rapids,MI,49546,42.912956,-85.512813,Www.thornapplebrewing.com
-Long Blue Cat Brewing Co,298 Rockingham Rd,Londonderry,NH,03053,42.914886,-71.395855,www.longbluecat.com
+Long Blue Cat Brewing Co,298 Rockingham Rd,Londonderry,NH,3053,42.914886,-71.395855,www.longbluecat.com
 Schmohz Brewery,2600 Patterson Ave SE Ste 1,Grand Rapids,MI,49546-6394,42.91599,-85.54853,www.schmohz.com
 603 Brewery,12 Liberty Dr Unit 7,Londonderry,NH,03053-2286,42.916027,-71.362344,www.603brewery.com
-Branch and Blade Brewing,17 Bradco St,Keene,NH,03431,42.916103,-72.298336,www.babbrewing.com
+Branch and Blade Brewing,17 Bradco St,Keene,NH,3431,42.916103,-72.298336,www.babbrewing.com
 Viking Brewpub,211 E Main St,Stoughton,WI,53589-1700,42.916557,-89.218888,
 Resurgence Brewing Company,1250 Niagara St,Buffalo,NY,14213-1502,42.917979,-78.899256,www.resurgencebrewing.com
 Empire Farm Brewery,33 Rippleton Rd,Cazenovia,NY,13035-9601,42.919641,-75.866232,www.empirebrew.com
@@ -5885,7 +5885,7 @@ The Explorium Brewpub,5300 S 76th St Unit 1450A,Greendale,WI,53129-1102,42.94657
 Founders Brewing Production Facility,900 Hynes Ave SW,Grand Rapids,MI,49507-1085,42.946937,-85.674444,
 Redwood Brewing Co,5304 Gateway Ctr,Flint,MI,48507-3930,42.947334,-83.722791,www.redwoodbrewingco.com
 CB Craft Brewers,300 Village Square Blvd,Honeoye Falls,NY,14472-1180,42.952029,-77.60347,www.cbcraftbrewers.com
-Tilton Brothers Brewing,845 Lafayette Road Unit 6,Hampton,NH,03842,42.952428,-70.831865,www.tiltonbrothersbrewing.com
+Tilton Brothers Brewing,845 Lafayette Road Unit 6,Hampton,NH,3842,42.952428,-70.831865,www.tiltonbrothersbrewing.com
 12 Gates Brewing Company,80 Earhart Dr Ste 20,Williamsville,NY,14221-7804,42.953743,-78.715227,www.12gatesbrewing.com
 Harmony Brewing Co,1551 Lake Dr SE,Grand Rapids,MI,49506-2705,42.955091,-85.630679,
 Gravel Bottom Craft Brewery,452 Ada Dr SE,Ada,MI,49301,42.955275,-85.484014,www.gravelbottom.com
@@ -5935,7 +5935,7 @@ Fat Boy Brewing Co,2851 S Stratton Dr,Milwaukee,WI,53219-2759,42.992398,-88.0133
 Stark Brewing Company,500 North Commercial St,Manchester,NH,03101-1151,42.994524,-71.468278,www.starkbrewingcompany.com
 Greyline Brewing,1727 Alpine Ave NW,Grand Rapids,MI,0,42.995274,-85.688638,
 Eli Fish Brewing Company,109 Main St,Batavia,NY,14020-2110,42.997256,-78.182541,www.elifishbrewing.com
-To Share Brewing Company,720 UNION ST,Manchester,NH,03104,42.999875,-71.458837,www.tosharebrewing.com
+To Share Brewing Company,720 UNION ST,Manchester,NH,3104,42.999875,-71.458837,www.tosharebrewing.com
 Seneca Street Brew Pub,315 E Seneca St Ste 1,Manlius,NY,13104-1860,43.00224,-75.975945,www.senecastreetbrewpub.com
 1840 Brewing Company,342 E Ward St,Milwaukee,WI,53207-1348,43.004542,-87.906311,www.1840brewing.com
 Enlightened Brewing Company,427 e Stewart Street unit 170,Milwaukee,WI,53207-1102,43.007066,-87.901131,www.enlightenedbeer.com
@@ -5945,7 +5945,7 @@ New Barons Brewing Cooperative,2018 S. 1st Street #170,Milwaukee,WI,53207,43.007
 Westallion Brewing Company,1825 S 72nd St,West Allis,WI,53214-4714,43.010471,-88.002962,www.westallionbrewing.com
 Redline Brewing Company,5470 Lapeer Rd,Burton,MI,48509-2235,43.01062,-83.597088,therealredline.com
 Willow Rock Brewing Company,115 Game Rd,Syracuse,NY,13210-4216,43.012336,-76.131685,www.willowrockbrew.com
-Sea Dog Brewing Company Exeter,5 Water St,Exeter,NH,03833,43.014594,-71.010642,
+Sea Dog Brewing Company Exeter,5 Water St,Exeter,NH,3833,43.014594,-71.010642,
 Tenacity Brewing,119 N Grand Traverse St,Flint,MI,48503-5620,43.015515,-83.696964,www.tenacitybrewing.com
 Great Dane Pub and Brewing Co - Fitchburg,2980 Cahill Main,Fitchburg,WI,53711-7146,43.017873,-89.423302,www.greatdanepub.com
 Raised Grain Brewing Company,1725 Dolphin Dr Ste B,Waukesha,WI,53186-1492,43.018758,-88.198458,
@@ -6001,7 +6001,7 @@ Grand Armory Brewing Co,17 S 2nd St,Grand Haven,MI,49417-3328,43.06389,-86.23122
 Saint Charles Brewing Co,100 S Main St,Charles City,IA,50616,43.065073,-92.680554,
 Company Brewing,735 E CENTER ST,MILWAUKEE,WI,53212,43.067209,-87.901894,
 Lucky's 1313 Brewpub,1313 Regent St,Madison,WI,53715-1254,43.067393,-89.408181,www.luckys1313.com
-Loaded Question Brewing Co.,909 Islington St,Portsmouth ,NH,03801,43.067832,-70.774674,loadedquestionbrewin.com
+Loaded Question Brewing Co.,909 Islington St,Portsmouth ,NH,3801,43.067832,-70.774674,loadedquestionbrewin.com
 Eastwood Brewing Company,108 Walter Dr,Syracuse,NY,13206-2357,43.069583,-76.098427,www.facebook.com/eastwoodbrewingcompany
 Black Husky Brewing LLC,909 E Locust St,Milwaukee,WI,53212,43.070929,-87.899992,www.blackhuskybrewing.com
 Perrin Brewing Company,5910 Comstock Park Dr NW,Comstock Park,MI,49321-8256,43.071139,-85.681318,www.perrinbrewing.com
@@ -6015,7 +6015,7 @@ Deciduous Brewing Company,12 Weaver St,Newmarket,NH,03857-2307,43.07535,-70.9392
 Old Boys Brewhouse,971 W Savidge St,Spring Lake,MI,49456-1684,43.076859,-86.2123,www.oldboysbrewhouse.com
 The Portsmouth Brewery,56 Market St,Portsmouth,NH,03801-3750,43.077899,-70.757851,www.portsmouthbrewery.com
 Erie Canal Brewing Company,135 S Peterboro St,Canastota,NY,13032-1409,43.078499,-75.751593,www.eriecanalbrewingcompany.com
-Earth Eagle Brewing,165 High Street,Portsmouth,NH,03801,43.078596,-70.759198,www.eartheaglebrewings.com
+Earth Eagle Brewing,165 High Street,Portsmouth,NH,3801,43.078596,-70.759198,www.eartheaglebrewings.com
 Sunshine Brewing Company,121 S Main St,Lake Mills,WI,53551-1613,43.078974,-88.913159,www.sunshinebrewco.com
 Local 315 Brewing Company,3160 Warners Rd,Warners,NY,0,43.08022,-76.289929,www.local315brewing.com
 Druthers Brewing Co,381 Broadway,Saratoga Springs,NY,12866-3111,43.080858,-73.786504,www.druthersbrewing.com
@@ -6023,7 +6023,7 @@ Druthers,381 Broadway,Saratoga Springs,NY,12866,43.080858,-73.786504,www.druther
 Giant Jones Brewing LLC,931 E Main St Suite 9,Madison ,WI,53703,43.08207,-89.370496,Www.giantjones.com
 Working Draft Beer Company,1129 E Wilson St,Madison,WI,53703-3758,43.083367,-89.365444,www.workingdraftbeer.com
 Tyranena Brewing Co,1025 Owen St,Lake Mills,WI,53551-0736,43.08552,-88.896681,www.tyranena.com
-Cisco Brewers Portsmouth,35 Corporate Dr,Porstmouth,NH,03801,43.085536,-70.80162,
+Cisco Brewers Portsmouth,35 Corporate Dr,Porstmouth,NH,3801,43.085536,-70.80162,
 Gathering Place Brewing Company,811 E Vienna Ave,Milwaukee,WI,53212-1775,43.08555,-87.90054,www.gatheringplacebrewing.com
 Argyle Brewing Company,1 Main St,Greenwich,NY,12834-1209,43.087643,-73.496756,www.argylebrewing.com
 Appalachian Mountain Brewery - Portsmouth,1 Redhook Way,Portsmouth,NH,03801-6853,43.087938,-70.803457,
@@ -6041,7 +6041,7 @@ Saranac Brewery / Matt Brewing Co,811 Edward St,Utica,NY,13502-4001,43.103667,-7
 Triphammer Bierwerks,111 Parce Ave Ste 3A-1,Fairport,NY,14450-1467,43.105714,-77.446202,www.triphammerbierwerks.com
 Belgian Mare Brewery,207 Gilsum Mine Rd,Alstead,NH,03602-3915,43.110181,-72.282774,www.belgianmare.com
 Melms Brewing Co,418 Merton Ave,Hartland,WI,53029-1524,43.110526,-88.332548,www.melmsbrewery.com
-Woodland Farms Brewery,"306 Route 1, Suite C",Kittery,ME,03904,43.111246,-70.734422,www.wfbrewery.com
+Woodland Farms Brewery,"306 Route 1, Suite C",Kittery,ME,3904,43.111246,-70.734422,www.wfbrewery.com
 Stoneface Brewing Co,436 Shattuck Way Ste 6,Newington,NH,03801-7838,43.111765,-70.815341,www.stonefacebrewing.com
 Cross Plains Brewery Inc.,2109 Hickory St,Cross Plains,WI,53528-9700,43.114743,-89.653157,www.essersbest.com
 IBU Brewing,3703 Brewerton Rd,Syracuse,NY,13212,43.115387,-76.145788,www.ibubrewing.com
@@ -6064,7 +6064,7 @@ Oddball Brewing,6 Glass St,Suncook,NH,03275-1512,43.130841,-71.452394,www.oddbal
 Lake Time Brewery,801 Main Ave Ste C,Clear Lake,IA,50428-1919,43.137147,-93.378457,www.laketimebrewery.com
 Rohrbach Brewing Company,3859 Buffalo Rd,Rochester,NY,14624-1103,43.137323,-77.761661,www.rohrbachs.com
 Milwaukee Premium Brewing Co,6591 N Sidney Pl,Glendale,WI,53209-3215,43.137396,-87.948836,
-University Of New Hampshire Brewery,34 Sage Way Barton Hall 111,Durham,NH,03824,43.14133,-70.92294,https://www.facebook.com/UNHbrewlab/
+University Of New Hampshire Brewery,34 Sage Way Barton Hall 111,Durham,NH,3824,43.14133,-70.92294,https://www.facebook.com/UNHbrewlab/
 Swiftwater Brewing Company,378 Mount Hope Ave,Rochester,NY,14620-1250,43.142498,-77.61177,www.swiftwaterbrewing.com
 SoMe Brewing Co,1 York St Ste 3,York,ME,03909-1392,43.150155,-70.665606,somebrewingco.com
 Sager Beer Works,46 Sager Dr Ste E,Rochester,NY,14607-1669,43.150545,-77.569868,www.sagerbeerworks.com
@@ -6087,7 +6087,7 @@ North American Breweries,445 Saint Paul St,Rochester,NY,14605-1726,43.164582,-77
 Melvin Brewing,624 County Road 101,Alpine,WY,83128-0314,43.164682,-111.037726,www.melvinbrewing.com
 Anheuser-Busch Inc â€“ Baldwinsville,2885 Belgium Rd,Baldwinsville,NY,#N/A,43.165137,-76.311915,
 Brickyard Brewing Company,436 Center St,Lewiston,NY,14092-1604,43.170805,-78.989515,www.brickyardbrewingcompany.com
-York Beach Beer Company,33 Railroad Ave,York,ME,03902,43.173904,-70.612229,
+York Beach Beer Company,33 Railroad Ave,York,ME,3902,43.173904,-70.612229,
 K2 Brothers Brewing,1221 Empire Blvd,Rochester,NY,14609-5946,43.174579,-77.52149,www.K2Brewing.com
 Castle Brewing Co,1310 W Washington,Greenville,MI,48838,43.177455,-85.27032,www.castlebrewingco.com
 "Henniker Brewing Company, LLC",129 Centervale Rd,Henniker,NH,03242-3280,43.177891,-71.781486,www.hennikerbrewing.com
@@ -6102,7 +6102,7 @@ PIVO Brewery,101 Huber Dr,Calmar,IA,52132,43.190932,-91.871682,www.pivoblepta.co
 The Lone Girl Brewing Company,114 E Main St Ste 101,Waunakee,WI,53597-1274,43.191712,-89.454175,www.thelonegirl.com
 Chapel and Main,83 Main St,Dover,NH,03820-3839,43.197651,-70.87309,www.chapelandmain.com
 Garrison City Beerworks,455 Central Ave,Dover,NH,03820-3406,43.197744,-70.874008,www.GarrisonCityBeerworks.com
-Empty Pint Brewing Company,17 Second St,Dover,NH,03820,43.197874,-70.874442,www.emptypintbrewing.com
+Empty Pint Brewing Company,17 Second St,Dover,NH,3820,43.197874,-70.874442,www.emptypintbrewing.com
 Iron Tug Brewing,360 W Ridge Rd,Rochester,NY,14615-2928,43.199873,-77.636547,www.irontugbrewing.com
 Concord Craft Brewery,117 Storrs St,Concord,NH,03301-4839,43.204215,-71.534343,www.concordcraftbrewing.com
 Copper City Brewing Company,1111 Oneida St,Rome,NY,0,43.204893,-75.431513,www.coppercitybrewing.com
@@ -6117,7 +6117,7 @@ Stoneyard Production Brewery,85 Clinton St,Brockport,NY,14420,43.215784,-77.9423
 Stoneyard Brewing Company,48 Merchant St,Brockport,NY,14420,43.216699,-77.939551,www.stoneyardbrewingcompany.com
 Hubbleton Brewing,W10445 Hubbleton Rd,Waterloo,WI,53594,43.216906,-88.911255,
 Griffs Brewery,5324 W Ridge Rd,Spencerport,NY,14559-1101,43.220541,-77.820165,www.griffsbrewery.com
-Northwoods Brewing Co,1334 1st NH Turnpike,Northwood,NH,03261,43.223335,-71.25003,www.northwoodsbrewingcompany.com
+Northwoods Brewing Co,1334 1st NH Turnpike,Northwood,NH,3261,43.223335,-71.25003,www.northwoodsbrewingcompany.com
 Two-Shy Brewing,1308 NW Park St Ste 100,Roseburg,OR,97470-2058,43.224738,-123.354885,www.twoshybrewing.com
 Cedar Springs Brewing Company,95 N Main # 34,Cedar Springs,MI,49319-5140,43.225273,-85.551488,www.CSBrew.com
 Bad Lab Beer Co.,460 High St,Somersworth,NH,03878-1012,43.229051,-70.882851,www.badlabbeer.com
@@ -6127,7 +6127,7 @@ Unruly Brewing Company,360 W Western Ave,Muskegon,MI,49440-1273,43.236078,-86.25
 Old 99 Brewing Co,3750 Hooker Rd Ste A,Roseburg,OR,97470-4501,43.254008,-123.353137,www.old99brewing.com
 Wood Kettle Brewing,1192 Manitou Rd,Hilton,NY,14468-9331,43.254409,-77.750262,
 R.S. Taylor & Sons Brewery,3602 County Route 30,Salem,NY,12865-4702,43.259417,-73.375923,www.rstaylorbrewing.com
-Corner Point Brewing Company,1 Sullivan St PO Box 1342,Berwick,ME,03901,43.266094,-70.864728,
+Corner Point Brewing Company,1 Sullivan St PO Box 1342,Berwick,ME,3901,43.266094,-70.864728,
 Lexington Brewing Co,5475 Main St,Lexington,MI,0,43.267878,-82.53082,www.lexingtonbrewery.com
 Slickfin Brewing Company LLC,147-149 Broadway,Fort Edward,NY,12828,43.268535,-73.586714,www.slickfinbrewing.com
 Vintage Brewing Co,600 Water Street,Sauk City,WI,53711-1035,43.273784,-89.720054,
@@ -6137,7 +6137,7 @@ Common Roots Brewing Company,58 Saratoga Ave,South Glens Falls,NY,12803-4837,43.
 Rebellion Brewing,N57W6172 Portland Rd,Cedarburg,WI,53012,43.296135,-87.985505,
 Woodcock Brothers Brewing,638 Lake St,Wilson,NY,14172-9600,43.298146,-78.82574,www.woodcockbrothersbrewery.com
 Water Street Brewery - Grafton,1251 Gateway Dr 143 & Highway 60,Grafton,WI,53024-9336,43.299956,-87.94104,www.waterstreetbrewery.com
-Trout River Brewing Co,100 River Street RR 5,Springfield,VT,05156,43.301686,-72.485836,www.troutriverbrewing.com
+Trout River Brewing Co,100 River Street RR 5,Springfield,VT,5156,43.301686,-72.485836,www.troutriverbrewing.com
 Hidden Cove Brewing Co,73 Mile Rd,Wells,ME,04090-4135,43.303869,-70.581409,www.hiddencovebrewingcompany.com
 Pulpit Rock Brewing Co.,207 College Dr,Decorah,IA,52101-1304,43.306428,-91.796168,www.pulpitrockbrewing.net
 Backacre Beermakers,124 Parker Ln,Weston,VT,05161-4002,43.307964,-72.806637,www.backacrebeermakers.com
@@ -6151,7 +6151,7 @@ Cercis Brewing Company,106 N Dickason Blvd,Columbus,WI,0,43.338951,-89.015516,
 West O Beer,503 Terrace Park Blvd,Milford,IA,51351-7300,43.345694,-95.15013,www.westobeer.com
 Mel's Micro,21733 US Hwy 14,Richland Center,WI,53581,43.348342,-90.436239,www.melsmicro.com
 Kennebunkport Brewery / Federal Jacks,8 Western Ave Ste 6,Kennebunk,ME,04043-7756,43.359888,-70.478875,www.federaljacks.com
-Batson River Brewing and Distilling,12 Western Ave,Kennebunk,ME,04043,43.359949,-70.479715,www.batsonriver.com
+Batson River Brewing and Distilling,12 Western Ave,Kennebunk,ME,4043,43.359949,-70.479715,www.batsonriver.com
 7 Devils Brewing Co,247 S 2nd St,Coos Bay,OR,97420-1642,43.366546,-124.214787,www.7devilsbrewery.com
 Alma Brewing Co,208 E Superior St,Alma,MI,48801-1819,43.378817,-84.658678,www.almabrewing.com
 Canterbury Aleworks,305 Baptist Hill Rd,Canterbury,NH,03224-2509,43.384521,-71.511908,www.canterburyaleworks.com
@@ -6165,7 +6165,7 @@ Okoboji Brewing Co,3705 Highway 71,Spirit Lake,IA,51360-7196,43.406103,-95.12648
 Slate Town Brewing Co,31 Main St,Granville,NY,12832,43.407295,-73.259839,www.slatetownbrewing.com
 Big Water Brewery,24 Robie Rd,Salisbury,NH,03268-5423,43.409869,-71.716505,www.bigwaterbrewery.net
 Fetch Brewing Co,100 W Colby St,Whitehall,MI,49461-1015,43.409967,-86.348016,www.fetchbrewing.com
-Polyculture Brewing Company,3 Camel Hump Rd,Croydon,NH,03773,43.410556,-72.18654,www.polyculturebrewing.com
+Polyculture Brewing Company,3 Camel Hump Rd,Croydon,NH,3773,43.410556,-72.18654,www.polyculturebrewing.com
 The Maple Grille LLC,13105 Gratiot Rd,Hemlock,MI,48626-8444,43.416418,-84.174386,themaplegrille.net
 Battle Hill Brewing Company,4 Charles Street,Fort Ann,NY,12827,43.416917,-73.487387,www.battlehillbrewing.com
 Oracle Brewing Company,122 N Michigan Ave,Saginaw,MI,48602-4234,43.417627,-83.964114,www.oraclebeer.com
@@ -6178,7 +6178,7 @@ West Bend Lithia Beer Co,825 Schoenhaar Dr,West Bend,WI,53090-2633,43.431507,-88
 Kettlehead Brewing Company,407 W Main St,Tilton,NH,03276-5012,43.442579,-71.601045,www.kettleheadbrewing.com
 Worth Brewing Co,835 Central Ave,Northwood,IA,50459-1519,43.443855,-93.220242,www.worthbrewing.com
 Brew Works of Fremont,5909 S Warner Ave,Fremont,MI,49412,43.447331,-85.940881,www.thecommonsoffremont.com
-Muddy Roads Brewery,213 Middleton Rd,New Durham,NH,03855,43.450472,-71.098671,
+Muddy Roads Brewery,213 Middleton Rd,New Durham,NH,3855,43.450472,-71.098671,
 US Beer Brewers At the Cellar Door,17 W Cayuga St,Oswego,NY,13126-4000,43.457943,-76.512367,www.usbeerbrewers.beer
 Roadhouse Brewing Company,1225 Gregory Ln,Jackson,WY,83001-9433,43.462199,-110.798132,www.roadhousebrewery.com
 StillWest Brewery & Grill,45 E Snow King Ave,Jackson,WY,83001-8668,43.473626,-110.761378,www.stillwestbreweryandgrill.com
@@ -6188,13 +6188,13 @@ Roadhouse Pub and Eatery,20 E Broadway Ave,Jackson Hole,WY,83001-8630,43.479262,
 Idaho Brewing Co,775 S Capital Ave,Idaho Falls,ID,83402-3965,43.485395,-112.045688,www.idahobrewing.com
 Funky Bow Brewery & Beer Company,21 Ledgewood Ln,Lyman,ME,04002-7376,43.485863,-70.602412,www.funkybowbeercompany.com
 Heavenly Vineyards,15946 Jefferson Rd,Morley,MI,49336-9705,43.490678,-85.399251,heavenlyvineyards.weebly.com
-Nuts and Bolts Brewing,10 Westpoint Ln Bldg 10 Ste 204,Biddeford,ME,04005,43.492125,-70.485368,www.nutsnboltsbeer.com
+Nuts and Bolts Brewing,10 Westpoint Ln Bldg 10 Ste 204,Biddeford,ME,4005,43.492125,-70.485368,www.nutsnboltsbeer.com
 Banded Brewing Company,32 Main St. Bldg 13-W Ste 102,Biddeford,ME,04005-5145,43.492909,-70.452428,www.bandedbrewing.com
 Run of the Mill Public House & Brewery,100 Main St,Saco,ME,04072-3500,43.493793,-70.44843,www.therunofthemill.net
 Snow Eagle Brewing,455 River Pkwy,Idaho Falls,ID,83402-3314,43.495072,-112.045182,www.snoweaglebrewing.com
 Dirigo Brewing Co.,28 Pearl St,Biddeford,ME,04005-2040,43.49558,-70.453097,www.dirigobrewingcompany.com
 Harpoon Brewery - Vermont,336 Ruth Carney Dr,Windsor,VT,05089-9419,43.512922,-72.401611,www.harpoonbrewery.com
-GFB Scottish Pub,32 Old Orchard St,Old Orchard Beach,ME,04064,43.517078,-70.376235,www.gfbscottishpub.com
+GFB Scottish Pub,32 Old Orchard St,Old Orchard Beach,ME,4064,43.517078,-70.376235,www.gfbscottishpub.com
 A Homestead Brew,26685 486th Ave,Valley Springs,SD,57068,43.51713,-96.494249,www.ahomesteadbrew.com
 Sawtooth Brewery,110 N RIVER ST,Hailey,ID,83333-7027,43.519671,-114.316517,www.sawtoothbrewery.com
 Sun Valley Brewing Co,202 N Main St,Hailey,ID,83333-8413,43.52101,-114.315958,
@@ -6211,8 +6211,8 @@ Crescent Brewery,1521 Front St,Nampa,ID,83651-4331,43.576636,-116.555119,www.cre
 Mad Swede Brewing,2772 S Cole Rd Suite 140,Boise,ID,83709-8028,43.577772,-116.273841,www.madswedebrewing.com
 The Lone Wolfe Brewing Co.,36 Mill St,Wolfeboro,NH,03894-4485,43.585681,-71.215178,www.thelonewolfe.com
 Steens Mountain Brewing Company,353 W Monroe St,Burns,OR,97720,43.585908,-119.058218,
-Burnt Timber Brewing,96 Lehner St,Wolfeboro,NH,03894,43.586278,-71.207967,www.burnttimbertavern.com
-Long Trail Brewing Co,5520 US Route 4 Jct. Route 4 & 100A,Bridgewater Corners,VT,05035,43.588445,-72.659547,www.longtrail.com
+Burnt Timber Brewing,96 Lehner St,Wolfeboro,NH,3894,43.586278,-71.207967,www.burnttimbertavern.com
+Long Trail Brewing Co,5520 US Route 4 Jct. Route 4 & 100A,Bridgewater Corners,VT,5035,43.588445,-72.659547,www.longtrail.com
 Wisconsin Dells Brewing Company,110 Wisconsin Dells Pkwy S,Wisconsin Dells,WI,53965-8304,43.588798,-89.791701,www.dellsmoosejaw.com
 Shackett's Brewing Company,26 Central Square,Bristol,NH,03222-3148,43.590781,-71.735987,
 River Bend Brewing,113 River Bend Rd,Hailey,ID,0,43.595372,-114.346981,
@@ -6266,11 +6266,11 @@ County Line Brewing,9115 W Chinden Blvd Ste 107,Garden City,ID,83714-1903,43.654
 Gritty McDuffs - Portland,396 Fore St,Portland,ME,04101-4026,43.65627,-70.253457,www.grittys.com
 Powderhaus Brewing,9719 W Chinden Blvd,Garden City,ID,83714-2008,43.656672,-116.302474,www.powderhausbrewing.com
 Liquid Riot Bottling Co.,4 Canal Plz Ste 1,Portland,ME,04101-4594,43.657174,-70.254852,www.novareresbiercafe.com
-Killington Beer Company,53 Village Circle Rd,Killington,VT,05751,43.658906,-72.799753,www.killingtonbeercompany.com
+Killington Beer Company,53 Village Circle Rd,Killington,VT,5751,43.658906,-72.799753,www.killingtonbeercompany.com
 Shipyard Brewing Co,86 Newbury St,Portland,ME,04101-4219,43.661725,-70.248653,www.shipyard.com
 Peak Organic Brewing Co,110 Marginal Way # 802,Portland,ME,04101-2442,43.662723,-70.26435,www.peakbrewing.com
 Austin Street Brewery,115 Fox St,Portland,ME,04103-1072,43.665044,-70.257621,
-Oxbow Blending & Bottling,49 Washington Ave,Portland,ME,04101,43.665052,-70.251593,
+Oxbow Blending & Bottling,49 Washington Ave,Portland,ME,4101,43.665052,-70.251593,
 Rising Tide Brewing Co,103 Fox St,Portland,ME,04101-2539,43.665485,-70.257264,www.risingtidebrewing.com
 Gravity Storm Brewery Cooperative,309 Main St N,Austin,MN,55912,43.668401,-92.974984,www.gravitystormbrewery.com
 Gruit Brewing,200 Anderson St,Portland,ME,04101-2562,43.669398,-70.256347,www.fermentory.com
@@ -6279,12 +6279,12 @@ Lone Pine Brewing Company,219 Anderson St #4,Portland,ME,04101-1400,43.670271,-7
 Mast Landing Brewing Company,920 Main St,Westbrook,ME,04092-2862,43.676768,-70.36954,www.mastlandingbrewing.com
 Sebago Brewing Co,29 Elm St,Gorham,ME,04038-2620,43.678497,-70.439183,www.sebagobrewing.com
 Yes Brewing,609 Main St,Westbrook,ME,04092-4143,43.679162,-70.355675,www.yesbrewing.com
-Lone Pine Brewing Company - Gorham Tasting Room,48 Sanford Dr,Gorham,ME,04038,43.679549,-70.396816,
+Lone Pine Brewing Company - Gorham Tasting Room,48 Sanford Dr,Gorham,ME,4038,43.679549,-70.396816,
 Warfield Distillery and Brewery,280 N. Main St.,Ketchum,ID,83340-2759,43.680694,-114.363845,www.warfielddistillery.com
 Big Hart Brewing Company,4086 W Polk Rd,Hart,MI,49420-8172,43.689111,-86.379281,www.bighartbrewing.com
 Abner's Restaurant Inc / Northern Michigan Beer,7528 N Woodbridge (M37),Brohman,MI,49312,43.690098,-85.814781,
 Sebago Brewing Co,616 MAIN ST,Gorham,ME,04038-2620,43.690485,-70.399195,
-White Mountain Brewing Company,50 Winter St,Ashland,NH,03217,43.692121,-71.636105,
+White Mountain Brewing Company,50 Winter St,Ashland,NH,3217,43.692121,-71.636105,
 Cranker's Brewery,213 S State St,Big Rapids,MI,49307-1758,43.695843,-85.484028,
 Defeat River Brewery,473 Fir Avenue,Reedsport,OR,97467,43.702402,-124.098064,www.defeatriverbrewery.com
 Definitive Brewing Company,35 Industrial Way,Portland,ME,04103-1071,43.702631,-70.319102,www.definitivebrewing.com
@@ -6300,35 +6300,35 @@ Plymouth Brewing Co,222 E Mill St,Plymouth,WI,53073-1706,43.747537,-87.97766,www
 Brewers Union Local 180,48329 E 1st St,Oakridge,OR,97463-9700,43.747861,-122.456774,www.brewersunion.com
 Sheboygan Beer Company,1132 N 8th St,Sheboygan,WI,53081-3402,43.757212,-87.713115,www.sheboyganbeercompany.com
 Mt. Rushmore Brewing Company,140 Mt Rushmore Rd,Custer,SD,57730-1829,43.764787,-103.60492,www.mtrushmorebrewing.com
-Monhegan Brewing Co.,1 Boody Lane,Monhegan,ME,04852,43.765517,-69.318711,www.monheganbrewing.com
+Monhegan Brewing Co.,1 Boody Lane,Monhegan,ME,4852,43.765517,-69.318711,www.monheganbrewing.com
 1766 Brewing Company,7 Route 25,Plymouth,NH,03264-3141,43.771152,-71.76272,
 3 Sheeps Brewing Co,1837 North Ave,Sheboygan,WI,53083-4620,43.773662,-87.730773,www.3sheepsbrewing.com
 Paradox Brewery,154 State Route 9,Schroon Lake,NY,12870,43.781117,-73.793362,www.paradoxbrewery.com
-Brickyard Hollow Brewing Co,236 Main St,Yarmouth,ME,04096,43.800927,-70.18846,www.brickyardhollow.com
+Brickyard Hollow Brewing Co,236 Main St,Yarmouth,ME,4096,43.800927,-70.18846,www.brickyardhollow.com
 Kul Brewing,1106 3rd St S,La Crosse,WI,54601,43.802599,-91.253626,www.kulbrewing.com
 City Brewing Co,925 3rd St S,La Crosse,WI,54601-4411,43.804236,-91.252641,www.citybrewery.com
 Foley Brothers Brewing Co.,79 Stone Mill Dam Rd,Brandon,VT,05733-8945,43.811462,-73.076662,
 Turtle Stack Brewery,125 2nd St S,La Crosse,WI,54601-3206,43.812615,-91.254093,www.turtlestackbrewery.com
 La Crosse Distilling Co,129 Vine St,La Crosse,WI,54601,43.815371,-91.252683,www.lacrossedistilling.co
 Four Leaf Brewing,412 N McEwan St,Clare,MI,48617-1403,43.821584,-84.768205,www.fourleafcraftbeer.com
-Hobbs Tavern & Brewing Co.,2415 NH Route 16,West Ossipee,NH,03890,43.822108,-71.205872,www.hobbstavern.com
+Hobbs Tavern & Brewing Co.,2415 NH Route 16,West Ossipee,NH,3890,43.822108,-71.205872,www.hobbstavern.com
 608 Brewing Company,83 Copeland Ave,La Crosse,WI,54603,43.825857,-91.249897,www.608brewingcompany.com
 SwitchGear Brewing Co,44 D Gottfried St,Elkhart Lake,WI,53020,43.833427,-88.018492,www.switchgearbrewing.com
 Pearl Street Brewery,1401 Saint Andrew St,La Crosse,WI,54603-2866,43.834359,-91.236064,pearlstreetbrewery.com/
 Maine Beer Co,525 US Route 1,Freeport,ME,04032-7009,43.839566,-70.122104,www.mainebeercompany.com
 Stars & Stripes Brewing,8 Varney Rd,Freeport,ME,04032-1007,43.844178,-70.116033,www.starsstripesbrewing.com
 Knuth Brewing Company,221 Watson St,Ripon,WI,54971-1514,43.844669,-88.838664,www.knuthbrewingcompany.com
-Gritty McDuffs - Freeport,187 Lower Main St,Freeport,ME,04032,43.846919,-70.112812,www.grittys.com
-"Dam Brewhouse, LLC.",1323 NH Route 175,Campton,NH,03223,43.86372,-71.636,www.dambrewhouse.com
+Gritty McDuffs - Freeport,187 Lower Main St,Freeport,ME,4032,43.846919,-70.112812,www.grittys.com
+"Dam Brewhouse, LLC.",1323 NH Route 175,Campton,NH,3223,43.86372,-71.636,www.dambrewhouse.com
 Sunriver Brewing,56840 Venture Ln,Sunriver,OR,97707-2100,43.863871,-121.435344,www.sunriverbrewingcompany.com
 Skeleton Crew Brew,575 Lester Ave Ste 206,Onalaska,WI,54650-8694,43.873003,-91.196608,www.skeletoncrewbrew.com
 Reed City Brewing Company,141 W Upton Ave,Reed City,MI,49677-1129,43.87581,-85.510578,
 "Boothbay Craft Brewery, Inc",301 Adams Pond Rd,Boothbay,ME,04537-4334,43.881288,-69.633631,www.boothbaycraftbrewery.com
-Sasanoa Brewing,61 Tarbox Rd,Westport Island,ME,04578,43.882302,-69.725285,www.sasanoabrewing.com
-Birchwood Brewing Co,19 Portland rd,Gray,ME,04039,43.882416,-70.328938,Birchwoodbrewingco.com
+Sasanoa Brewing,61 Tarbox Rd,Westport Island,ME,4578,43.882302,-69.725285,www.sasanoabrewing.com
+Birchwood Brewing Co,19 Portland rd,Gray,ME,4039,43.882416,-70.328938,Birchwoodbrewingco.com
 Flight Deck Brewing,11 Atlantic Dr,Brunswick,ME,04011-4400,43.899202,-69.927433,www.flightdeckbrewing.com
-Black Pug Brewing,30 Bath Rd,Brunswick,ME,04011,43.908815,-69.95079,
-Bath Brewing Company,141 Front St,Bath,ME,04530,43.9143,-69.814091,www.bathbrewing.com
+Black Pug Brewing,30 Bath Rd,Brunswick,ME,4011,43.908815,-69.95079,
+Bath Brewing Company,141 Front St,Bath,ME,4530,43.9143,-69.814091,www.bathbrewing.com
 Moderation Brewing,103 Maine St,Brunswick,ME,04011-2012,43.916264,-69.965444,www.moderationbrewery.com
 Thumb Brewery,6758 Pine St,Caseville,MI,48725-9544,43.942712,-83.272606,www.thumbbrewery.com
 Starving Artist Brewing,634 S Stiles Rd,Ludington,MI,49431-9311,43.944051,-86.338219,starvingartist.beer
@@ -6337,7 +6337,7 @@ Sackets Harbor Brewing Co,212 W Main St,Sackets Harbor,NY,13685-3183,43.947957,-
 Miner Brewing Co,23845 Highway 385 Attn: Sandi Vojta,Hill City,SD,57745-6517,43.948577,-103.522486,www.minerbrewing.com
 Ludington Bay Brewing Co,515 S James St,Ludington,MI,49431-2325,43.950906,-86.447497,ludingtonbaybrewing.com
 Jamesport Brewing Co,410 S James St,Ludington,MI,49431-2159,43.951585,-86.447904,www.jamesportbrewingcompany.com
-NU Brewery,437 Lewiston Road,New Gloucester,ME,04260,43.951671,-70.302041,www.nubrewery.com
+NU Brewery,437 Lewiston Road,New Gloucester,ME,4260,43.951671,-70.302041,www.nubrewery.com
 Brocklebank Craft Brewing,357 Dickerman Hill Rd,Chelsea,VT,05038-9098,43.965325,-72.51008,www.brocklebankvt.com
 Gary's Olde Towne Tavern,678 Roosevelt Trl,Naples,ME,04055-5335,43.969408,-70.594302,www.garysoldetownetavern.com
 Tuckerman Brewing Co,66 Hobbs St PO Box 1058,Conway,NH,03818-1058,43.973955,-71.130083,www.tuckermanbrewing.com
@@ -6359,8 +6359,8 @@ Forager Brewing Company,1005 6th St NW,Rochester,MN,55901-2741,44.029444,-92.478
 Kinney Creek Brewery,1016 7th St NW,Rochester,MN,55901-2668,44.030913,-92.478194,
 What'cha Brewing,88274 Rhododendron Dr,Florence,OR,97439,44.031818,-124.129464,
 Drop In Brewing,610 Route 7 S,Middlebury,VT,05753-8987,44.031957,-73.165475,www.dropinbeer.com
-Woodstock Inn Brewery,135 Main St,North Woodstock,NH,03262,44.03245,-71.6873,www.woodstockinnnh.com
-Sea Dog Brewing Co,1976 White Mountain Hwy #9,Conway,NH,03860,44.033333,-71.121968,
+Woodstock Inn Brewery,135 Main St,North Woodstock,NH,3262,44.03245,-71.6873,www.woodstockinnnh.com
+Sea Dog Brewing Co,1976 White Mountain Hwy #9,Conway,NH,3860,44.033333,-71.121968,
 Mecan River Brewing Company,113 E Main St,Coloma,WI,54930,44.034006,-89.521861,www.mecanriverbrewing.com
 Fox River Brewing Co,1501 Arboretum Dr,Oshkosh,WI,54901-2791,44.0352,-88.561436,www.foxriverbrewing.com
 Little Thistle Brewing,2031 14th St NW,Rochester,MN,55901,44.036913,-92.495149,www.littlethistlebeer.com
@@ -6427,39 +6427,39 @@ Olvalde Farm & Brewing,16557 County Road 25,Rollingstone,MN,55969-4046,44.094287
 "Baxter Brewing Co, LLC",130 Mill St,Lewiston,ME,04240-7774,44.095743,-70.219673,www.baxterbrewing.com
 Gritty McDuffs - Lewiston/Auburn,68 Main St,Auburn,ME,04210-5812,44.097342,-70.22464,
 Bear Bones Beer,43 Lisbon St,Lewiston,ME,04240-7115,44.097778,-70.217903,www.bearbonesbeer.com
-Odd Alewives Farm Brewery,99 Old Rte One,Waldoboro,ME,04572,44.099538,-69.365253,www.oddalewives.com
+Odd Alewives Farm Brewery,99 Old Rte One,Waldoboro,ME,4572,44.099538,-69.365253,www.oddalewives.com
 Liberator Brewing Company,218 S Main St,Rockland,ME,04841-3820,44.100098,-69.109747,www.liberatorbrewingmaine.com
-Rock Harbor Brewing Co.,5 Payne Ave,Rockland,ME,04841,44.100881,-69.128133,www.rockharborbrewing.com
+Rock Harbor Brewing Co.,5 Payne Ave,Rockland,ME,4841,44.100881,-69.128133,www.rockharborbrewing.com
 Rock Harbor Pub & Brewery,416 Main St,Rockland,ME,04841-3345,44.104637,-69.109311,
-North Haven Brewing Company,2 Iron Point Rd # 2,North Haven,ME,04853,44.12789,-68.871678,www.northhavenbrewing.com
+North Haven Brewing Company,2 Iron Point Rd # 2,North Haven,ME,4853,44.12789,-68.871678,www.northhavenbrewing.com
 Cape Vincent Brewing Co,296 Broadway St,Cape Vincent,NY,13618,44.128122,-76.334712,www.capevincentbrewing.com
 Fountain City Brewing Co / Monarch Public House,19 N Main St,Fountain City,WI,0,44.131343,-91.717558,www.monarchtavern.com
 Bobcat Brewery & Cafe,5 Main St,Bristol,VT,05443-1317,44.132929,-73.078232,www.bobcatcafe.com
-Lost Valley Brewing Co,200 Lost Valley Rd,Auburn,ME,04210,44.135284,-70.281005,
+Lost Valley Brewing Co,200 Lost Valley Rd,Auburn,ME,4210,44.135284,-70.281005,
 Hogback Mountain Brewery,51 North St,Bristol,VT,05443-1026,44.136642,-73.079263,hogbackbrew.com
 Half Pint Brewing Company,40099 150th St.,Waseca,MN,56093,44.139597,-93.466996,
 Sheepscot Valley Brewing Co,74 Hollywood Blvd,Whitefield,ME,04353-3729,44.144765,-69.604709,www.sheepscotbrewing.com
 Good Measure Brewing Co,17 East St,Northfield,VT,05663-6719,44.148886,-72.655695,www.goodmeasurebrewing.com
 LocAle Brewing Company,228 Poplar St,Mankato,MN,56001,44.163553,-94.008323,www.localebrew.com
-Hired Hand Brewing Co,35 Green St,Vergennes,VT,05491,44.167199,-73.251029,www.hiredhandbrewing.com
+Hired Hand Brewing Co,35 Green St,Vergennes,VT,5491,44.167199,-73.251029,www.hiredhandbrewing.com
 Barrel 41 Brewing Co,1132 S Commercial St,Neenah,WI,54956,44.168013,-88.46473,www.barrel41.com
 Mankato Brewery,1119 Center St,North Mankato,MN,56003-2108,44.1733,-94.033845,www.mankatobrewery.com
 Cousins Brewing,9 Route 17,Waitsfield,VT,05673-7309,44.181108,-72.839865,www.localfolkvt.com
 Grateful Grain Brewing Company,26 Route 126,Monmouth,ME,04259-7727,44.181776,-69.992041,www.gratefulgrainbrewing.com
 Lion's Tail Brewing,116 S Commercial St,Neenah,WI,54956-3020,44.185815,-88.461939,www.lionstailbrewing.com
-Lawson's Finest Liquids,155 Carroll Rd PO Box 89,Waitsfield,VT,05673,44.187877,-72.835269,www.lawsonsfinest.com
+Lawson's Finest Liquids,155 Carroll Rd PO Box 89,Waitsfield,VT,5673,44.187877,-72.835269,www.lawsonsfinest.com
 Ledge Hill Brewing Co,6700 Main St,Westport,NY,12993-2007,44.188352,-73.450864,www.ledgehillbrewing.com/
-The Pour Farm,56 Crawfordsburn Ln,Union,ME,04862,44.196552,-69.261523,www.thepourfarm.com
+The Pour Farm,56 Crawfordsburn Ln,Union,ME,4862,44.196552,-69.261523,www.thepourfarm.com
 Emprize Brew Mill,200 Main St,Menasha,WI,54952-3153,44.201249,-88.448232,
-Blaze Brewing Company,5 Bay View St,Camden,ME,04843,44.209559,-69.064613,
+Blaze Brewing Company,5 Bay View St,Camden,ME,4843,44.209559,-69.064613,
 Sea Dog Brewing,1 Main St,Camden,ME,04843-1703,44.209811,-69.064607,www.seadogbrewing.com
 Norway Brewing Company,237 Main St,Norway,ME,04268-5913,44.21235,-70.53691,www.norwaybrewing.com
 Old Bavarian Brewing Co,1515 Greendale St,Menasha,WI,54952-2620,44.217321,-88.416048,www.oldbavarian.com
 Big Tupper Brewing,12 Cliff Ave,Tupper Lake,NY,12986-1719,44.223362,-74.466091,www.bigtupperbrewing.com
 Foy Enterprises LLC DBA Dog River Brewery,1400 US Route 302 Ste 4,Barre,VT,05641-2320,44.229022,-72.551161,
-Collaborative Brewing LLC,264 Mad River Park,Waitsfield,VT,05673,44.229054,-72.796789,
-Two Gramps Brewing,266 Water St,Gardiner,ME,04345,44.229612,-69.773405,www.twogrampsbrewing.com
-Iron Furnace Brewing,115 Main St,Franconia,NH,03580,44.231473,-71.755012,www.ironfurnacebrewing.com
+Collaborative Brewing LLC,264 Mad River Park,Waitsfield,VT,5673,44.229054,-72.796789,
+Two Gramps Brewing,266 Water St,Gardiner,ME,4345,44.229612,-69.773405,www.twogrampsbrewing.com
+Iron Furnace Brewing,115 Main St,Franconia,NH,3580,44.231473,-71.755012,www.ironfurnacebrewing.com
 Silver Moon Brewing,2095 SW Badger Ave,Redmond,OR,97756-8164,44.23782,-121.192552,www.SilverMoonBrewing.com
 Wood Boat Brewery,625 Mary St Ste A,Clayton,NY,13624-1131,44.238309,-76.087652,www.woodboatbrewery.com
 Raquette River Brewing,11 Balsam St # 2,Tupper Lake,NY,12986-1033,44.24317,-74.486828,www.raquetteriverbrewing.com
@@ -6478,7 +6478,7 @@ Fox River Brewing Co and Restaurant,4301 W Wisconsin Ave Ste 189,Appleton,WI,549
 Wild Ride Brewing,332 SW 5th St,Redmond,OR,97756-2103,44.273777,-121.172907,www.wildridebrew.com
 Kobold Brewing,245 SW 6th St,Redmond,OR,97756-2108,44.274831,-121.174579,www.koboldbrewing.com
 The Highway Brewing Co.,209 W Houghton Ave,West Branch,MI,48661-1219,44.276119,-84.237353,www.highwaybrewingco.com
-Rek-Lis Brewing Company,2085 Main St,Bethlehem,NH,03574,44.28058,-71.688053,tbd
+Rek-Lis Brewing Company,2085 Main St,Bethlehem,NH,3574,44.28058,-71.688053,tbd
 Smith Rock Brewing,546 NW 7th St,Redmond,OR,97756-1628,44.280816,-121.175114,www.smithrockbrewing.com
 Lake Placid Pub and Brewery,813 Mirror Lake Dr,Lake Placid,NY,12946-3829,44.282961,-73.981286,www.ubuale.com
 Three Creeks Brewing Co,721 Desperado Ct,Sisters,OR,97759-9514,44.285184,-121.534923,www.threecreeksbrewing.com
@@ -6515,14 +6515,14 @@ Beachcrest Brewing Company,7755 US-101,Gleneden Beach,OR,97388,44.364125,-124.09
 Fiddlehead Brewing,6305 Shelburne Rd,Shelburne,VT,05482-4437,44.366142,-73.232615,www.fiddleheadbrewing.com
 Ffats Brewing Co - Production Only,36447 Main St,Whitehall,WI,54773-9108,44.370029,-91.316963,www.ffatsbrewing.com
 Strong Brewing,7 Rope Ferry Rd,Sedgwick,ME,04676-3409,44.380587,-68.661272,strongbrewing.com/
-Lake St George Brewing Company,4 Marshall Shore Rd,Liberty,ME,04949,44.386848,-69.358205,www.lakestgeorgebrewing.com
-Atlantic Brewing Co / Bar Harbor Brewing,52 Cottage Street Bar Harbor,Bar Harbor,ME,04609,44.389225,-68.206918,www.barharborbrewing.com
-Red Barn Brewing,2170 Oneida Rd,Danville,VT,05828,44.394514,-72.177151,www.redbarnbrewingvt.com
+Lake St George Brewing Company,4 Marshall Shore Rd,Liberty,ME,4949,44.386848,-69.358205,www.lakestgeorgebrewing.com
+Atlantic Brewing Co / Bar Harbor Brewing,52 Cottage Street Bar Harbor,Bar Harbor,ME,4609,44.389225,-68.206918,www.barharborbrewing.com
+Red Barn Brewing,2170 Oneida Rd,Danville,VT,5828,44.394514,-72.177151,www.redbarnbrewingvt.com
 Jack Russell's Steakhouse and Brewery / Maine Coast Brewing Co.,102 Eden St,Bar Harbor,ME,04609-1106,44.396196,-68.2264,www.jackrussellssteakhouse.com
 Stone Corral Brewery,83 Huntington Rd Unit 1,Richmond,VT,05477-9839,44.398961,-73.001573,stonecorral.com
 Atlantic Brewing Co,15 Knox Rd,Bar Harbor,ME,04609-7770,44.399722,-68.333619,atlanticbrewing.com
-Steam Mill Brewing,7 Mechanic St,Bethel,ME,04217,44.4085,-70.789223,www.steammillbrew.com
-DeepWater Brewing Company,33 Tenney Hl,Blue Hill,ME,04614,44.410043,-68.595109,www.arborvine.com
+Steam Mill Brewing,7 Mechanic St,Bethel,ME,4217,44.4085,-70.789223,www.steammillbrew.com
+DeepWater Brewing Company,33 Tenney Hl,Blue Hill,ME,4614,44.410043,-68.595109,www.arborvine.com
 The Knuckle Brewing Company,918 2nd St,Sturgis,SD,57785-1510,44.415383,-103.512606,theknuckle.com
 1188 Brewing Co,141 E Main St,John Day,OR,97845-1210,44.416227,-118.951711,www.1188brewing.com
 Legends Brewhouse and Eatery (#2),875 Heritage Rd,de Pere,WI,54115-3148,44.428864,-88.057703,www.legendseatery.com
@@ -6541,20 +6541,20 @@ Sunday River Brewing Company,29 Sunday River Rd,Bethel,ME,04217-4623,44.448642,-
 O'so Brewing,3028 Village Park Dr,Plover,WI,54467-4300,44.451871,-89.524886,www.osobrewing.com
 Imminent Brewing,519 Division St S Unit 2,Northfield,MN,55057-2021,44.454376,-93.159636,www.imminentbrewing.com
 Switchback Brewing Co,160 Flynn Ave,Burlington,VT,05401-5400,44.456146,-73.220557,www.switchbackvt.com
-House of Fermentology,777 Pine St,Burlington,VT,05401,44.457984,-73.214837,www.houseoffermentology.com
+House of Fermentology,777 Pine St,Burlington,VT,5401,44.457984,-73.214837,www.houseoffermentology.com
 "Queen City Brewery, LLC",703 Pine St,Burlington,VT,05401-4921,44.459567,-73.215108,www.queencitybrewery.com
 Zero Gravity Craft Brewery,716 Pine St,Burlington,VT,05401-4922,44.45961,-73.213767,www.zerogravitybeer.com
 Tanzenwald Brewing Company,103 Water St N,Northfield,MN,55057-2121,44.459643,-93.162076,www.tanzenwald.com
 Saint J Brewery,2002 Memorial Dr,Saint Johnsbury,VT,05819-8991,44.460993,-72.013466,www.saintjbrewery.com
-Von Trapp Brewing,1333 Luce Hill Rd,Stowe,VT,05672,44.47051,-72.735166,www.trappfamily.com
+Von Trapp Brewing,1333 Luce Hill Rd,Stowe,VT,5672,44.47051,-72.735166,www.trappfamily.com
 Idletyme Brewing Company,1859 Mountain Rd,Stowe,VT,05672-4890,44.473833,-72.713978,www.idletymebrewing.com
-The Alchemist - Stowe,100 Cottage Club Rd,Stowe,VT,05672,44.476014,-72.715728,
+The Alchemist - Stowe,100 Cottage Club Rd,Stowe,VT,5672,44.476014,-72.715728,
 Zero Gravity Craft Brewery,716 Pinte Street,Burlington,VT,05401-4922,44.476622,-73.209998,
 Vermont Pub and Brewery,144 College St,Burlington,VT,05401-8416,44.477269,-73.214365,www.vermontbrewery.com
 Foam Brewers,112 Lake St,Burlington,VT,05401-5284,44.4791,-73.220089,www.foambrewers.com
 Farnham Ale & Lager,82 Ethan Allen Dr,South Burlington,VT,05403-5971,44.483488,-73.156154,www.farnham-alelager.com
 1st Republic Brewing Co,39 River Rd Ste 6,Essex Junction,VT,05452-3879,44.483783,-73.084849,www.1strepublic-homebrew.com
-Copper Pig Brewery,1 Middle St,Lancaster,NH,03584,44.488276,-71.569499,www.copperpigbrewery.com
+Copper Pig Brewery,1 Middle St,Lancaster,NH,3584,44.488276,-71.569499,www.copperpigbrewery.com
 Lean Horse Productions,600 Meier Ave,Spearfish,SD,57783-1991,44.488793,-103.864822,
 Four Quarters Brewing Co,150 W Canal St,Winooski,VT,05404-2171,44.490591,-73.192729,www.4qbc.com
 Spearfish Brewing Company,741 N Main St Ste 130,Spearfish,SD,57783-4147,44.491059,-103.859372,spearfishbrewing.com
@@ -6562,7 +6562,7 @@ Badger State Brewing Company,990 Tony Canadeo Run,Green Bay,WI,54304-3762,44.497
 River of No Return Brewing Co,810 S Hwy 93,Challis,ID,83226,44.49933,-114.224011,
 Hinterland Brewery,1001 Lombardi Ave,Green Bay,WI,54304-3956,44.503371,-88.06453,www.hinterlandbeer.com
 Ausable Brewing Co,765 Mace Chasm Rd,Keeseville,NY,12944-2425,44.503653,-73.44777,www.ausablebrewing.com
-Green Empire Brewing,478 Hegeman Ave,Colchester,VT,05446,44.503737,-73.152777,
+Green Empire Brewing,478 Hegeman Ave,Colchester,VT,5446,44.503737,-73.152777,
 Stillmank Brewing Company,215 N Henry St,Green Bay,WI,54302-2613,44.504446,-87.9784,www.stillmankbrewery.com
 Simple Roots Brewing Co,1127 North Ave Ste 8,Burlington,VT,05408-2756,44.506971,-73.246357,
 Bank Brewing Co,218 N Main St,Hendricks,MN,56136-9501,44.508319,-96.425851,www.bankbrewing.com
@@ -6581,7 +6581,7 @@ Bierly Brewing @ Eats and Treats,1644 Main St,Philomath,OR,97370-9237,44.539765,
 Fogtown Brewing Company,25 Pine St,Ellsworth,ME,04605-2023,44.540127,-68.421751,www.fogtownbrewing.com
 GiesenbrÃ¤u Bier Co LLC,1306 1st St NE,New Prague,MN,#N/A,44.543909,-93.558841,www.giesenbraubierco.com
 Thumb Knuckle Brewing Company,E0208 State Rd 54,Luxemburg,WI,54217,44.545578,-87.759299,www.thumbknuckle.beer
-Waterville Brewing Company,10 Water St Ste 110,Waterville,ME,04901,44.546162,-69.629546,www.watervillebrewingcompany.com
+Waterville Brewing Company,10 Water St Ste 110,Waterville,ME,4901,44.546162,-69.629546,www.watervillebrewingcompany.com
 Mainely Brews Restaurant and Brewhouse,1 Post Office Sq Ste 302,Waterville,ME,04901-6651,44.552116,-69.631373,www.mainelybrews.com
 Rock Art Brewery,632 Laporte Rd,Morrisville,VT,05661-8322,44.558056,-72.608837,www.rockartbrewery.com
 Oregon Trail Brewery,341 SW 2nd St,Corvallis,OR,97333-4640,44.561264,-123.26108,www.oregontrailbrewery.com
@@ -6593,14 +6593,14 @@ Sky High Brewing,160 NW Jackson Ave,Corvallis,OR,97330-4827,44.564817,-123.25901
 Tiger Town Brewing Company,108 W Main St,Mitchell,OR,97750,44.566584,-120.154123,www.tigertownbrewing.com
 McMenamins on Monroe,2001 NW Monroe Ave Ste 106,Corvallis,OR,97330-5567,44.568311,-123.27557,
 Lost Nation Brewing,87 Old Creamery Rd,Morrisville,VT,05661-6152,44.569949,-72.602972,www.lostnationbrewing.com
-Friars' Brewhouse,84 Main St,Bucksport,ME,04416,44.571904,-68.795327,
+Friars' Brewhouse,84 Main St,Bucksport,ME,4416,44.571904,-68.795327,
 Livingood's Restaurant & Brewery,697 Bear Swamp Rd,Peru,NY,0,44.575702,-73.51168,www.livingoodsresturant.com
 Kickback Brewery,934 Osgood Hill Rd,Westford,VT,05494-9740,44.581876,-72.994556,www.kickbackbrewery.com
 Northwoods Brewpub and Grill,50918 West Street,Osseo,WI,54758,44.582729,-91.226617,www.northwoodsbrewpub.com
-Ambition Brewing,295 Main Street,Wilton,ME,04294,44.586953,-70.231198,www.ambitionbrews.com
+Ambition Brewing,295 Main Street,Wilton,ME,4294,44.586953,-70.231198,www.ambitionbrews.com
 Ten Bends Beer,590 E Main St,Hyde Park,VT,05655-9267,44.588497,-72.605721,www.tenbendsbeer.com
 Brewster River Pub & Brewery,4087 Vt Route 108 S,Jeffersonville,VT,05464-9509,44.591151,-72.793306,www.brewsterriverpubnbrewery.com
-Tattooed Dad Brewing Co,894 Moosehead Trail Hwy,Jackson,ME,04921,44.602598,-69.143631,
+Tattooed Dad Brewing Co,894 Moosehead Trail Hwy,Jackson,ME,4921,44.602598,-69.143631,
 Hill Farmstead Brewery,403 Hill Rd,Greensboro Bend,VT,05842-8813,44.606523,-72.263787,www.hillfarmstead.com
 "U4ic Brewing, Inc.",23436 Union Trl Ste 1,Belle Plaine,MN,56011-9008,44.609286,-93.855425,www.u4icbrewing.com
 St Ambrose Cellars,841 S Pioneer Rd,Beulah,MI,49617,44.618901,-85.997924,www.stambrose-mead-wine.com
@@ -6659,19 +6659,19 @@ Mason's Brewing Company,15 Hardy St,Brewer,ME,04412-2207,44.792094,-68.769348,ww
 Mosinee Brewing Company,401 4th St,Mosinee,WI,54455,44.792977,-89.703356,www.mosineebrewing.com
 Badger Hill Brewing,4571 Valley Industrial Blvd S Ste 500,Shakopee,MN,55379-1846,44.793807,-93.461232,www.badgerhillbrewing.com
 Rahr Technical Center LLC,800 1st Ave W,Shakopee,MN,55379-1148,44.796425,-93.538933,
-207 Beer Company,71 Center St,Brewer,ME,04412,44.79674,-68.76142,www.207beercompany.net
+207 Beer Company,71 Center St,Brewer,ME,4412,44.79674,-68.76142,www.207beercompany.net
 Sea Dog Brewing Co - Bangor,26 Front St,Bangor,ME,04401-6418,44.796867,-68.769759,www.seadogbrewing.com
 Blank Canvas Brewery,46 Betton St Ste 3,Brewer,ME,04412-2636,44.797236,-68.763379,www.blankcanvasbrewery.wordpress.com
 Shakopee Brewhall,124 1st Ave E,Shakopee,MN,55379-1310,44.799042,-93.52724,www.shakopeebrewhall.com
 2 Feet Brewing Company,80 Columbia St,Bangor,ME,04401-6319,44.800239,-68.772793,www.2feetbrewing.com
 Black Tooth Brewing Co,312 Broadway St,Sheridan,WY,82801-3917,44.801004,-106.953705,www.blacktoothbrewingcompany.com
-Orono Brewing Bangor Draught Room,26 State St,Bangor,ME,04401,44.802321,-68.769542,
+Orono Brewing Bangor Draught Room,26 State St,Bangor,ME,4401,44.802321,-68.769542,
 Luminous Brewhouse,504 Broadway St,Sheridan,WY,82801-3619,44.803028,-106.953738,www.luminousbrewhouse.com
 Chatoe Rogue Farmstead Brewery,3590 Wigrich Rd,Independence,OR,97351-9708,44.804276,-123.102683,www.rogue.com
 Modicum Brewing,3732 Spooner Ave Ste A,Altoona,WI,54720-1097,44.807443,-91.468194,www.modicumbrewing.com
-Mill River Brewing BBQ & Smokehouse,10 Beauregard Dr,Saint Albans City,VT,05478,44.811279,-73.104136,www.millriverbrewing.com
+Mill River Brewing BBQ & Smokehouse,10 Beauregard Dr,Saint Albans City,VT,5478,44.811279,-73.104136,www.millriverbrewing.com
 14th Star Brewing,133 N Main St Ste 7,Saint Albans,VT,05478-1735,44.814288,-73.082274,www.14thstarbrewing.com
-Airline Brewing Company,22 Mill Ln,Amherst,ME,04428,44.814694,-68.50927,www.abcmaine.beer
+Airline Brewing Company,22 Mill Ln,Amherst,ME,4428,44.814694,-68.50927,www.abcmaine.beer
 Lazy Monk Brewing,97 W Madison St,Eau Claire,WI,54702,44.815571,-91.509081,www.lazymonkbrewing.com
 The Brewing Projekt,1807 N Oxford Ave,Eau Claire,WI,54703-5187,44.817374,-91.509564,www.thebrewingprojekt.com
 Bald Man Brewing Company,2020 Silver Bell Rd Ste 25,Eagan,MN,55122-1030,44.819533,-93.21106,www.BaldManBrewing.com
@@ -6688,20 +6688,20 @@ Swinging Bridge Brewing Co,122 S Main St,River Falls,WI,54022-2423,44.857789,-92
 Enki Brewing,1495 Steiger Lake Ln,Victoria,MN,55386-9537,44.860564,-93.660988,www.enkibrewing.com
 Lubec Brewing Co,41 Water St,Lubec,ME,0,44.860902,-66.983517,
 Wooden Hill Brewing Company,7421 Bush Lake Road,Edina,MN,55439,44.867496,-93.358909,www.woodenhillbrewing.com
-Orono Brewing Brewery & Draught Room,61 Margin St,Orono,ME,04473,44.87323,-68.676201,
+Orono Brewing Brewery & Draught Room,61 Margin St,Orono,ME,4473,44.87323,-68.676201,
 Lucette Brewing Co,910 Hudson Rd,Menomonie,WI,54751-1748,44.875688,-91.939899,www.lucettebrewing.com
 Brewery Nonic,621 4th St W,Menomonie,WI,54751,44.876057,-91.933044,www.brewerynonic.com
 Zymurgy Brewing Co,624 Main St East,Menomonie,WI,54751,44.876393,-91.922441,www.zymurgybrew.com
 In-Law Brewing Co,5868 County Route 14,Chase Mills,NY,13621-3102,44.882109,-75.04764,www.in-lawbrewingcompany.com
 Black Bear Brewery,19 Mill St Ste 4,Orono,ME,04473-4095,44.883262,-68.671194,www.blackbearmicrobrew.com
-Orono Brewing Company,20 Main St,Orono,ME,04473,44.883696,-68.671838,www.oronobrewing.com
+Orono Brewing Company,20 Main St,Orono,ME,4473,44.883696,-68.671838,www.oronobrewing.com
 Marsh Island Brewing Company,2 Main St,Orono,ME,04473-4004,44.884392,-68.671283,www.marshislandbrewing.com
 "Jolly Pumpkin Restaurant, Brewery & Distillery",13512 Peninsula Dr Old Mission Peninsula,Traverse City,MI,49686-9717,44.886125,-85.528653,www.jollypumpkin.com
 3rd Act Craft Brewery,4120 Radio Dr,Woodbury,MN,55129,44.887759,-92.944713,www.3rdactbrew.com
 Rush River Brewing Co,990 Antler Ct,River Falls,WI,54022-4880,44.891081,-92.638583,www.rushriverbeer.com
 Wild Mind Artisan Ales,6031 Pillsbury Ave S,Minneapolis,MN,55419-2328,44.893313,-93.281783,www.wildmindales.com
 Short's Brewing Co - Production Facility,211 Industrial Park Dr,Elk Rapids,MI,49629-9452,44.89556,-85.41646,www.shortsbrewing.com
-Coos Brewing Company,13 Merrill St,Colebrook,NH,03576,44.89659,-71.493835,www.coosbeer.com
+Coos Brewing Company,13 Merrill St,Colebrook,NH,3576,44.89659,-71.493835,www.coosbeer.com
 Watertown Brewing Co,113 E Kemp Ave,Watertown,SD,57201,44.900256,-97.111864,www.watertownbrewing.com
 Excelsior Brewing Co,421 3rd St Ste 3,Excelsior,MN,55331-2008,44.902277,-93.566543,www.excelsiorbrew.com
 "Dempseys Brewery, Pub",127 N Broadway,Watertown,SD,57201-3525,44.902931,-97.114122,
@@ -6851,8 +6851,8 @@ Stiggs Brewery & Kitchen,112 S Park St,Boyne City,MI,49712-1251,45.215046,-85.01
 Pelican Brewing Company,33180 Cape Kiwanda Dr,Pacific City,OR,97135-8012,45.215133,-123.970577,www.pelicanbrewery.com
 Beaverhead Brewing Co,218 S Montana St,Dillon,MT,59725-2438,45.215804,-112.639427,www.beaverheadbeer.com
 Evasion Brewing - Production Facility,4230 NE Riverside Dr,McMinnville,OR,97128-8403,45.229156,-123.152911,www.evasionbrewing.com
-Bissell Brothers Three Rivers,157 Elm St,Milo,ME,04463,45.243335,-68.97383,
-Turning Page Farm,842 N Guilford Rd,Monson,ME,04464,45.247644,-69.443046,www.turningpagefarm.com
+Bissell Brothers Three Rivers,157 Elm St,Milo,ME,4463,45.243335,-68.97383,
+Turning Page Farm,842 N Guilford Rd,Monson,ME,4464,45.247644,-69.443046,www.turningpagefarm.com
 Sawmill Pizza and Brew Shed,805 30th Ave,Clear Lake,WI,54005,45.249295,-92.325951,www.weddingsinechovalley.com
 Valkyrie Brewing,234 W Dallas St,Dallas,WI,54733-9706,45.258802,-91.818054,www.valkyriebrewery.com
 Spilled Grain Brewhouse,300 Elm St E,Annandale,MN,55302-9406,45.259559,-94.11904,www.spilledgrainbrewhouse.com
@@ -7306,7 +7306,7 @@ Rock Wood Fired Pizza & Brewery - Auburn,1408 Lake Tapps Pkwy SE # E,Auburn,WA,9
 Red Jacket Brewing at Michigan House Cafe,300 6th St,Calumet,MI,49913-1508,47.246152,-88.453752,www.michiganhousecafe.com/brewpub.html
 Tacoma Brewing Co.,1116 Court E,Tacoma,WA,98402,47.252241,-122.44369,www.tacomabrewing.com
 Dunagan Brewing Co,1126 Commerce St,Tacoma,WA,98402-4307,47.252267,-122.439361,www.dunaganbrewing.com
-First Mile Brewing Company,28 Market St Ste 103,Fort Kent,ME,04743,47.253212,-68.581345,
+First Mile Brewing Company,28 Market St Ste 103,Fort Kent,ME,4743,47.253212,-68.581345,
 Odd Otter Brewing Company,716 Pacific Ave,Tacoma,WA,98402-5208,47.25668,-122.439654,www.oddotterbrewing.com
 Dystopian State Brewing,611 S Baker St,Tacoma,WA,98402-2318,47.25785,-122.443415,www.dystopianstate.com
 Pacific Brewing and Malting,610 Pacific Ave,Tacoma,WA,98402-4606,47.257874,-122.440118,www.pacificbrewingandmalting.com
@@ -7336,7 +7336,7 @@ Camp Colvos Brewing,19429 Vashon Hwy SW,Vashon,WA,98070-6052,47.430465,-122.4614
 Columbia Valley Brewing,538 Riverside Dr,Wenatchee,WA,98801-6133,47.432983,-120.313684,www.columbiavalleybrewing.com
 Wenatchee Valley Brewing Co.,108 Island view,Wenatchee,WA,98801,47.434704,-120.314801,wenatcheevalleybrewing.com/
 Bent Bine Brew Co. LLC,23297 WA-3,Belfair,WA,98394,47.444981,-122.832231,www.bentbine.com
-Vashon Brewing,17205 Vashon Highway Southwest,Vashon,WA,8070.,47.450639,-122.461361,www.vashonbrewing.com
+Vashon Brewing,17205 Vashon Highway Southwest,Vashon,WA,8070,47.450639,-122.461361,www.vashonbrewing.com
 Odin Brewing Co,402 Baker Blvd,Tukwila,WA,98188-2905,47.458554,-122.252075,www.odinbrewing.com
 Northwest Brewing Company,402 BAKER BLVD,TUKWILA,WA,98188,47.458554,-122.252075,www.nwbrewingcompany.com
 Elliott Bay Brewhouse & Pub - Burien,255 SW 152nd St,Burien,WA,98166-2307,47.466593,-122.338828,www.elliottbaybrewing.com
