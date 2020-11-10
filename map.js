@@ -2,9 +2,9 @@ var closedBar = true;
 
 function openNav() {
     if (closedBar == true) {
-        document.getElementById("sidebar").style.width = "17.3%";
-        document.getElementById("map").style.left = "17.3%";
-        document.getElementById("map").style.width = "82.6%";
+        document.getElementById("sidebar").style.width = "20%";
+        document.getElementById("map").style.left = "20%";
+        document.getElementById("map").style.width = "80%";
         closedBar = false;
     } else {
         document.getElementById("sidebar").style.width = "0";

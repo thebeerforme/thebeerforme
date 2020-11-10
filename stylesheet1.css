@@ -32,7 +32,7 @@ body {
     position: absolute;
     width: 0;
     height: 87%;
-    top: 11.2%;
+    top: 9.2%;
     left: 0;
     overflow: hidden;
     border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -162,8 +162,12 @@ input#search {
     position: absolute;
     left: 0;
     width: 100vw;
-    top: 11.2%;
+    top: 9.2%;
     bottom: 0;
+}
+
+img {
+    width: 50%;
 }
 
 h1 {
@@ -427,6 +431,10 @@ a:hover {
     color: #fff !important;
 }
 
+.sidebar .closebtn {
+    color: red !important;
+}
+
 .navbar {
     background: #fff;
     border-bottom: 2px solid #47c2b6;
@@ -492,6 +500,9 @@ a.instagram_sec {
         left: 0;
         margin-bottom: 20px;
     }
+    img {
+        width: 100%;
+    }
     .mapboxgl-popup-content {
         width: 192px;
     }
@@ -542,7 +553,7 @@ a.instagram_sec {
         transition: all 0.5s;
     }
     .sidebar .closebtn {
-        color: #fff !important;
+        color: red !important;
     }
     .map {
         position: absolute;
