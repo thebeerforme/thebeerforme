@@ -665,7 +665,7 @@ a.instagram_sec {
         position: absolute;
         width: 0;
         height: 87%;
-        top: 6.2%;
+        top: 8.5%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -684,7 +684,7 @@ a.instagram_sec {
         position: absolute;
         left: 0;
         width: 100vw;
-        top: 6.2%;
+        top: 8.5%;
         bottom: 0;
     }
 }
@@ -705,7 +705,7 @@ a.instagram_sec {
     .sidebar {
         position: absolute;
         height: 87%;
-        top: 6.3%;
+        top: 8.6%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -717,7 +717,7 @@ a.instagram_sec {
     }
     .map {
         position: absolute;
-        top: 6.3%;
+        top: 8.6%;
         bottom: 0;
     }
     .listings .item .details a {
@@ -763,7 +763,7 @@ a.instagram_sec {
     .sidebar {
         position: absolute;
         height: 87%;
-        top: 6.8%;
+        top: 8.5%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -786,7 +786,7 @@ a.instagram_sec {
     }
     .map {
         position: absolute;
-        top: 6.8%;
+        top: 8.5%;
         bottom: 0;
     }
 }
@@ -807,7 +807,7 @@ a.instagram_sec {
     .sidebar {
         position: absolute;
         height: 87%;
-        top: 7.8%;
+        top: 9.8%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -815,7 +815,7 @@ a.instagram_sec {
     }
     .map {
         position: absolute;
-        top: 7.8%;
+        top: 9.8%;
         bottom: 0;
     }
     a.instagram_sec {
@@ -838,7 +838,7 @@ a.instagram_sec {
         position: absolute;
         height: 90%;
         left: 0;
-        top: 7.7%;
+        top: 9.8%;
         font-size: 0.7rem;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -869,7 +869,7 @@ a.instagram_sec {
     }
     .map {
         position: absolute;
-        top: 7.7%;
+        top: 9.8%;
         bottom: 0;
     }
 }
