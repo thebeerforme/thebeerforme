@@ -549,7 +549,7 @@ a.instagram_sec {
         transition: all 0.5s;
     }
     .sidebar .closebtn {
-        color: red !important;
+        color: #fff !important;
     }
     .map {
         position: absolute;
@@ -632,7 +632,7 @@ a.instagram_sec {
         right: 7px;
         font-size: 30px;
         text-decoration: none;
-        color: red !important;
+        color: #fff !important;
     }
     .map {
         position: absolute;
@@ -665,7 +665,7 @@ a.instagram_sec {
         position: absolute;
         width: 0;
         height: 87%;
-        top: 15.2%;
+        top: 6.2%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -684,7 +684,7 @@ a.instagram_sec {
         position: absolute;
         left: 0;
         width: 100vw;
-        top: 15.2%;
+        top: 6.2%;
         bottom: 0;
     }
 }
@@ -763,7 +763,7 @@ a.instagram_sec {
     .sidebar {
         position: absolute;
         height: 87%;
-        top: 9.8%;
+        top: 6.8%;
         left: 0;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -778,20 +778,20 @@ a.instagram_sec {
     }
     .sidebar .closebtn {
         position: absolute;
-        top: 0px;
+        top: -4px;
         right: 4px;
         font-size: 20px;
         text-decoration: none;
-        color: red !important;
+        color: #fff !important;
     }
     .map {
         position: absolute;
-        top: 9.8%;
+        top: 6.8%;
         bottom: 0;
     }
 }
 
-@media only screen and (max-width: 441px) {
+@media only screen and (max-width: 423px) {
     .subtitle.ml-8 h1 {
         font-size: 20px !important;
         line-height: normal !important;
@@ -803,6 +803,20 @@ a.instagram_sec {
         padding-left: 0px;
         margin-bottom: 0px;
         text-align: center !important;
+    }
+    .sidebar {
+        position: absolute;
+        height: 87%;
+        top: 7.8%;
+        left: 0;
+        overflow: hidden;
+        border-right: 1px solid rgba(0, 0, 0, 0.25);
+        transition: all 0.5s;
+    }
+    .map {
+        position: absolute;
+        top: 7.8%;
+        bottom: 0;
     }
     a.instagram_sec {
         width: 9%;
@@ -824,7 +838,7 @@ a.instagram_sec {
         position: absolute;
         height: 90%;
         left: 0;
-        top: 9.5%;
+        top: 7.7%;
         font-size: 0.7rem;
         overflow: hidden;
         border-right: 1px solid rgba(0, 0, 0, 0.25);
@@ -847,15 +861,15 @@ a.instagram_sec {
     }
     .sidebar .closebtn {
         position: absolute;
-        top: 0px;
+        top: -4px;
         right: 4px;
         font-size: 20px;
         text-decoration: none;
-        color: red !important;
+        color: rgb(255, 255, 255) !important;
     }
     .map {
         position: absolute;
-        top: 9.5%;
+        top: 7.7%;
         bottom: 0;
     }
 }
@@ -865,16 +879,6 @@ a.instagram_sec {
         width: 119px!important;
         padding: 3px;
         border-radius: 5px;
-    }
-    .sidebar {
-        position: absolute;
-        height: 87%;
-        top: 9.5%;
-        left: 0;
-        font-size: 0.7rem;
-        overflow: hidden;
-        border-right: 1px solid rgba(0, 0, 0, 0.25);
-        transition: all 0.5s;
     }
     .ui-autocomplete {
         border: 1px solid #ccc;
